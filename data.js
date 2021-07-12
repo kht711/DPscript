@@ -34,15 +34,20 @@ function dataChange(value) {
 
     let en_line = english.linesdict.find( ({label}) => label === value.value );
     let ja_line = japanese.linesdict.find( ({label}) => label === value.value );
-    for (let i = 0; i < en_line.values.length; i++) {
+    for (let i = 0; i < en_line.keys.length; i++) {
         let tr = document.createElement("tr");
         script.appendChild(tr);
 
         let enTd = document.createElement("td");
+        let enKey = en_line.keys[i];
         enTd.innerHTML = en_line.values[i];
         tr.appendChild(enTd);
         let jaTd = document.createElement("td");
-        jaTd.innerHTML = ja_line.values[i];
+        if (ja_line.keys.indexOf(enKey) != -1) {
+            jaTd.innerHTML = ja_line.values[ja_line.keys.indexOf(enKey)];
+        } else {
+            jaTd.innerHTML = "「翻訳されてない文」";
+        }
         tr.appendChild(jaTd);
     }
 }
