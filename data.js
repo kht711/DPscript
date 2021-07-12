@@ -17,6 +17,7 @@ window.onload = () => {
     $.getJSON(url2, (data) => { 
         japanese = data; 
     });
+    select.selectedIndex = -1;
 }
 
 function dataChange(value) {
@@ -35,9 +36,11 @@ function dataChange(value) {
     let en_line = english.linesdict.find( ({label}) => label === value.value );
     let ja_line = japanese.linesdict.find( ({label}) => label === value.value );
     for (let i = 0; i < en_line.keys.length; i++) {
+        if (en_line.values[i] == "") {
+            continue;
+        }
         let tr = document.createElement("tr");
         script.appendChild(tr);
-
         let enTd = document.createElement("td");
         let enKey = en_line.keys[i];
         enTd.innerHTML = en_line.values[i];
