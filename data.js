@@ -13,11 +13,11 @@ window.onload = () => {
             option.value = english.linesdict[i].label;
             option.innerHTML = english.linesdict[i].label;
         }
+        select.selectedIndex = -1;
     });
     $.getJSON(url2, (data) => { 
         japanese = data; 
     });
-    select.selectedIndex = -1;
 }
 
 function dataChange(value) {
