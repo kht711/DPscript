@@ -4,20 +4,24 @@ var japanese;
 window.onload = () => {
     const url1 = "./source/Lines_en-us.json";
     const url2 = "./source/Lines_ja.json";
-    $.getJSON(url1, (data) => { english = data; });
-    $.getJSON(url2, (data) => { japanese = data; });
+    $.getJSON(url1, (data) => { 
+        english = data; 
 
-    let select = document.getElementById("select");
-    for (let i = 0; i < english.linesdict.length; i++) {
-        let option = document.createElement("option");
-        select.appendChild(option);
-        option.value = english.linesdict[i].label;
-        option.innerHTML = english.linesdict[i].label;
-        if (english.linesdict[i].label == "ch0_main") {
-            option.selected = true;
+        let select = document.getElementById("select");
+        for (let i = 0; i < english.linesdict.length; i++) {
+            let option = document.createElement("option");
+            select.appendChild(option);
+            option.value = english.linesdict[i].label;
+            option.innerHTML = english.linesdict[i].label;
+            if (english.linesdict[i].label == "ch0_main") {
+                option.selected = true;
+            }
         }
-    }
-    dataChange("ch0_main");
+    });
+    $.getJSON(url2, (data) => { 
+        japanese = data; 
+        dataChange("ch0_main");
+    });
 }
 
 function dataChange(value) {
