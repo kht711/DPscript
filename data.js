@@ -1,27 +1,26 @@
 var english;
 var japanese;
+const url1 = "./source/Lines_en-us.json";
+const url2 = "./source/Lines_ja.json";
+$.getJSON(url1, (data) => { 
+    english = data; 
+});
+$.getJSON(url2, (data) => { 
+    japanese = data; 
+});
 
 window.onload = () => {
-    const url1 = "./source/Lines_en-us.json";
-    const url2 = "./source/Lines_ja.json";
-    $.getJSON(url1, (data) => { 
-        english = data; 
-
-        let select = document.getElementById("select");
-        for (let i = 0; i < english.linesdict.length; i++) {
-            let option = document.createElement("option");
-            select.appendChild(option);
-            option.value = english.linesdict[i].label;
-            option.innerHTML = english.linesdict[i].label;
-            if (english.linesdict[i].label == "ch0_main") {
-                option.selected = true;
-            }
+    let select = document.getElementById("select");
+    for (let i = 0; i < english.linesdict.length; i++) {
+        let option = document.createElement("option");
+        select.appendChild(option);
+        option.value = english.linesdict[i].label;
+        option.innerHTML = english.linesdict[i].label;
+        if (english.linesdict[i].label == "ch0_main") {
+            option.selected = true;
         }
-    });
-    $.getJSON(url2, (data) => { 
-        japanese = data; 
-        dataChange("ch0_main");
-    });
+    }
+    dataChange("ch0_main");
 }
 
 function dataChange(value) {
@@ -37,8 +36,8 @@ function dataChange(value) {
     jaTh.innerHTML = "japanese";
     titleTr.appendChild(jaTh);
 
-    let en_line = english.linesdict.find( ({label}) => label === value );
-    let ja_line = japanese.linesdict.find( ({label}) => label === value );
+    let en_line = english.linesdict.find( ({label}) => label === value.value );
+    let ja_line = japanese.linesdict.find( ({label}) => label === value.value );
     for (let i = 0; i < en_line.values.length; i++) {
         let tr = document.createElement("tr");
         script.appendChild(tr);
