@@ -51,6 +51,13 @@ function dataChange(value) {
         } else {
             jaTd.innerHTML = "「翻訳されてない文」";
         }
+        
+        if (value.value == "poetrywords") {
+            if (ja_line.values[ja_line.keys.indexOf(enKey)] == "可愛い" || ja_line.values[ja_line.keys.indexOf(enKey)] == "決意") {
+                enTd.style.borderTopWidth = "medium";
+                jaTd.style.borderTopWidth = "medium";
+            }
+        }
         tr.appendChild(jaTd);
     }
 }
