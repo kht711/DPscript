@@ -1,11 +1,16 @@
-var english;
-var japanese;
 var url = "./source/ddlc_and_plus_";
 
 window.onload = () => {
     let select = document.getElementById("select");
-    url += (select.value + ".txt");
-    $.get(url, (data) => { 
+    let txtUrl = url + (select.value + ".txt");
+    $.get(txtUrl, (data) => { 
+        dataChange(data);
+    });
+}
+
+function selectChange(value) {
+    let txtUrl = url + (value + ".txt");
+    $.get(txtUrl, (data) => { 
         dataChange(data);
     });
 }
