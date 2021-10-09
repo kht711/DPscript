@@ -42,9 +42,9 @@
 「Mine too!」	「わたしもよ！」	Mine too!	「アタシもよ！」
 「What, your cupcakes?」	「えっ、カップケーキが？」	What, your cupcakes?	「えっ、カップケーキづくりが？」
 「Please.」	「本気ですか……？」	Please.	「冗談でしょう」
-「Like {i}you{/i} would fucking know!」	「{i}あんたに{/i}何が分かるのよ！ 」	Like <i>you</i> would fucking know!	「<i>アンタに</i>何がわかるのよ！」
+「Like <i>you</i> would fucking know!」	「<i>あんたに</i>何が分かるのよ！ 」	Like <i>you</i> would fucking know!	「<i>アンタに</i>何がわかるのよ！」
 「All you care about now is dragging [player] around with you and your stupid books.」	「あんたは自分の読書に[player]を巻き込むことしか頭にないんだから」	All you care about now is dragging [player] around with you and your stupid books.	「アンタは自分の読書に[player]を引き摺りこむことしか頭にないんだから」
-「You {i}and{/i} Monika!」	「あんた{i}と{/i}モニカよ！」	You <i>and</i> Monika!	「違うわ、アンタ<i>と</i>モニカよ！」
+「You <i>and</i> Monika!」	「あんた<i>と</i>モニカよ！」	You <i>and</i> Monika!	「違うわ、アンタ<i>と</i>モニカよ！」
 「Hey!」	「ちょっと！」	Hey!	「ちょっと！」
 「I didn't even do anything!」	「私は何もしてないじゃない！」	I didn't even do anything!	「私は何もしてないじゃない！」
 「Okay, then why not let [player] decide who to help instead of abusing your power?」	「分かったわ。モニカが権力を悪用しないように、[player]に誰を手伝うか決めさせない？」	Okay, then why not let [player] decide who to help instead of abusing your power?	「わかったわ。モニカが権力を悪用しないように、[player]に誰を手伝うか決めさせない？」
@@ -57,7 +57,7 @@
 「[player], I know how fed up you are with these two by now.」	「[player]、あんたが二人にどれだけうんざりしてるかよく分かるわ」	[player], I know how fed up you are with these two by now.	「[player]、アンタが二人にどれだけうんざりしてるかよくわかるわ」
 「We can just--」	「わたしたちはただ――」	We can just--	「アタシたちはさ――」
 「Natsuki, shut your fucking mouth and let him decide for himself.」	「ナツキちゃん、今すぐそのふざけた口をつぐんで彼に選択させましょう」	Natsuki, shut your fucking mouth and let him decide for himself.	「ナツキちゃん、今すぐそのふざけた口を閉じて彼に選んでもらってください」
-「{i}You{/i} shut your mouth!」	「あんたこそ黙りなさいよ！」	<i>You</i> shut your mouth!	「<i>アンタこそ</i>黙りなさいよ！」
+「<i>You</i> shut your mouth!」	「あんたこそ黙りなさいよ！」	<i>You</i> shut your mouth!	「<i>アンタこそ</i>黙りなさいよ！」
 「Jesus christ...」	「ああもう……」	For god's sake...	「ああ、もう……」
 「This is never going to end. Just make the choice, okay?」	「このままじゃ終わらないわ。いいから選ぶのよ、分かった？」	This is never going to end. Just make the choice, okay?	「このままじゃ終わらないわ。いいから選ぶのよ、わかった？」
 [gtext]	[gtext]	[gtext]	[gtext]
