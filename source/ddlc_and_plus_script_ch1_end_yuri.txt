@@ -1,0 +1,79 @@
+「Natsuki.」	「ナツキ」	Natsuki.	「ナツキ」
+「You're right that I liked your poem.」	「お前の詩が好きってのは確かだ」	You're right that I liked your poem.	「お前の詩が好きってのは確かだ」
+「See??」	「ほらね？？」	See??	「ほら、見なさいよ！」
+「Wait!」	「待った！」	Wait!	「待てよ！」
+「That's not an excuse for you to be so mean!」	「だからと言って意地悪していい訳じゃないんだ」	That's not an excuse for you to be so mean!	「だからと言って意地悪していいわけじゃないんだ」
+「You shouldn't pick a fight just because someone's opinion is different.」	「誰かと意見が食い違ったとして、それがケンカして良い理由にはならない」	You shouldn't pick a fight just because someone's opinion is different.	「誰かと意見が食い違ったとしても、ケンカして良い理由にはならない」
+「That's not what happened at all!」	「そうじゃないわよ！」	That's not what happened at all!	「そうじゃないわよ！」
+「Yuri wouldn't even take my poem seriously!」	「ユリはわたしの詩をまともにとり合ってくれないのに！」	Yuri wouldn't even take my poem seriously!	「ユリはわたしの詩をまともに取り合ってくれないの！」
+「Mm...」	「うーん……」	Mm...	「うんと……」
+「I understand.」	「分かった」	I understand.	「わかった」
+「Yuri.」	「ユリ」	Yuri.	「ユリ」
+「Eh?」	「えっ？」	Eh?	「えっ？」
+「You're a seriously talented writer.」	「お前は本当に才能のある書き手だ」	You're a seriously talented writer.	「お前は本当に才能のある書き手だ」
+「It's no secret that I was impressed.」	「俺が感動したのは隠すまでもない」	It's no secret that I was impressed.	「俺が感動したのは隠すまでもない」
+「W-Well, that's...」	「そ、そう、その……」	W-Well, that's...	「そ、そう、その……」
+「But here's the thing.」	「だが俺が言いたいのは」	But here's the thing.	「けど俺が言いたいのは」
+「No matter how simple or refined someone's writing style is...」	「どんなに単純で洗練された文体であっても……」	No matter how simple or refined someone's writing style is...	「どんなに単純で洗練された文体であっても……」
+「They're still putting feelings into it, and it becomes something really personal.」	「その中にはやっぱり想いが込められていて、それは至って私的なものなんだ」	They're still putting feelings into it, and it becomes something really personal.	「その中にはやっぱり想いが込められていて、それは至って私的なものなんだ」
+「That's why Natsuki felt threatened when you said her poem was cute.」	「だからかわいいと言われたときにナツキは脅かされたと感じたんじゃないか」	That's why Natsuki felt threatened when you said her poem was cute.	「だからかわいいと言われた時に、ナツキは脅かされたと感じたんじゃないか」
+「I...see...」	「なるほど……」	I...see...	「なるほど……」
+「I didn't notice that I...」	「気づけなくてその……」	I didn't notice that I...	「気づけなくてその……」
+「I-I'm sorry...」	「ごめんなさい……」	I-I'm sorry...	「ごめんなさい……」
+「Uuu...」	「ううう……」	Uuu...	「うう……」
+「But Natsuki, you took it way too far!」	「でもナツキ、お前は過剰反応しすぎだ！」	But Natsuki, you took it way too far!	「でもナツキ、お前は過剰反応しすぎだ！」
+「Yuri means well, and if you just told her how you felt...」	「ユリは善かれと思ってやったんだし、もしお前がどういう想いか彼女に話していれば……」	Yuri means well, and if you just told her how you felt...	「ユリは善かれと思ってやったんだし、もしお前がどういう想いか彼女に話していれば……」
+「Then this wouldn't have happened in the first place.」	「初めからこんなことにはならなかったんじゃないか」	Then this wouldn't have happened in the first place.	「初めからこんなことにはならなかったんじゃないか」
+「Are you kidding?」	「バカにしてるの？」	Are you kidding?	「バカにしてるの？」
+「That's exactly what I did!」	「ちゃんとそうしたじゃないの！」	That's exactly what I did!	「ちゃんとそうしたじゃないの！」
+「It was <i>her</i> that--」	「それだってあいつが……」	It was <i>her</i> that--	「それだって<i>アイツ</i>が……」
+「Natsuki, I think that's enough.」	「ナツキ、それ位にしときましょ」	Natsuki, I think that's enough.	「ナツキ、それくらいにしときましょう」
+「You both said some things that you didn't mean.」	「あなたたち二人ともそういうつもりじゃなかったって言ったわよね」	You both said some things that you didn't mean.	「あなたたち、二人ともそういうつもりじゃなかったって言ったわよね」
+「Yuri apologized. Don't you think you should, too?」	「ユリは謝ったわ。今度はあなたの番じゃない？」	Yuri apologized. Don't you think you should, too?	「ユリは謝ったわ。今度はあなたの番じゃない？」
+「Nnn...!」	「うぬぬ……！」	Nnn...!	「うぬぬ……！」
+Natsuki clenches her fists.	ナツキは拳を握りしめる。	Natsuki clenches her fists.	ナツキは拳を握りしめる。
+In the end, nobody has taken her side.	とうとう、彼女の味方はいなくなってしまった。	In the end, nobody has taken her side.	とうとう、彼女の味方はいなくなってしまった。
+She's trapped, at this point being defiant only because she can't handle the pressure.	窮地に立たされた彼女は、プレッシャーに耐えられないばかりに喧嘩腰になっている。	She's trapped, at this point being defiant only because she can't handle the pressure.	窮地に立たされた彼女は、プレッシャーに耐えられないばかりに喧嘩腰になっている。
+I end up even feeling bad for her.	俺はナツキがかわいそうになってきた。	I end up even feeling bad for her.	俺はナツキがかわいそうになってきた。
+「U-Um!」	「え、えっと！」	U-Um!	「え、えっと！」
+「Sometimes when I'm hurt...」	「わたしが傷ついたときは……」	Sometimes when I'm hurt...	「わたしが傷ついたときは……」
+「It helps to take a walk and clear my head!」	「散歩して頭の中をスッキリさせるよ！」	It helps to take a walk and clear my head!	「散歩して頭の中をスッキリさせるよ！」
+「Sayori, she doesn't need to--」	「サヨリ、こいつには必要ない――」	Sayori, she doesn't need to--	「サヨリ、こいつには必要ない――」
+「You know what?」	「ああそうね」	You know what?	「何よ、まったく！」
+「I'm going to do that.」	「そうしてくる」	I'm going to do that.	「そうしてくるわよ」
+「It'll spare me from having to look at all your faces right now.」	「あんたたちの顔を拝むのももううんざりだわ」	It'll spare me from having to look at all your faces right now.	「アンタたちの顔を拝むのももううんざりだわ」
+Without warning, Natsuki snatches her own poem up from the desk and storms out.	なんの前触れなく、ナツキは机にある自分の詩を取り上げ部屋から飛び出した。	Without warning, Natsuki snatches her own poem up from the desk and storms out.	何の前触れもなく、ナツキは机にある自分の詩を取り上げ部屋から飛び出した。
+On her way out, she crumples up the poem with her hands and throws it in the trash.	出て行く際に彼女は、その詩をくしゃくしゃに丸めゴミ箱に投げ込む。	On her way out, she crumples up the poem with her hands and throws it in the trash.	出て行く際に彼女は、その詩をくしゃくしゃに丸めゴミ箱に投げ込む。
+「Natsuki...」	「ナツキちゃん……」	Natsuki...	「ナツキ……」
+「She really didn't need to do that...」	「そこまでする必要ないのに……」	She really didn't need to do that...	「そこまでする必要ないのに……」
+I look across the room.	俺は部屋を見渡す。	I look across the room.	俺は部屋を見渡す。
+Yuri has her chin buried in her hands while she stares down at her desk.	ユリは視線を机に落とし、手で口を覆っている。	Yuri has her chin buried in her hands while she stares down at her desk.	ユリは視線を机に落とし、手で口を覆っている。
+I gingerly approach her and sit in an adjacent chair.	俺は恐る恐る彼女に近づき、隣の席に座る。	I gingerly approach her and sit in an adjacent chair.	俺は恐る恐る彼女に近づき、隣の席に座る。
+「Sigh...」	「はあ……」	Sigh...	「はあ……」
+「Everything alright?」	「大丈夫か？」	Everything alright?	「大丈夫か？」
+「I'm so embarrassed...」	「自分が情けないです……」	I'm so embarrassed...	「自分が情けないです……」
+「I can't believe I acted like that.」	「あんな風に振舞ってしまうなんて」	I can't believe I acted like that.	「あんな風に振舞ってしまうなんて」
+「You probably hate me now...」	「きっとあなたに嫌われてしまいましたね……」	You probably hate me now...	「きっとあなたに嫌われてしまいましたね……」
+「No--Yuri!」	「そんなことない――ユリ！」	No--Yuri!	「そんなことない――ユリ！」
+「How could anyone not have gotten frustrated after being treated like that?」	「あんな風に言われて不満を抱かない奴がいると思うか？」	How could anyone not have gotten frustrated after being treated like that?	「あんな風に言われて不満を抱かない奴がいると思うか？」
+「You handled it as well as anyone could.」	「お前はできるだけ我慢したじゃないか」	You handled it as well as anyone could.	「お前はできるだけ我慢したじゃないか」
+「I don't think any less of you.」	「嫌ったりなんかしないよ」	I don't think any less of you.	「嫌ったりなんかしないよ」
+「Well...」	「そう……」	Well...	「今度は……」
+「...Alright, I believe you.」	「……それなら、あなたの言葉を信じます」	...Alright, I believe you.	「……それなら、あなたの言葉を信じます」
+「Thanks, [player]. You're too kind.」	「ありがとうございます、[player]さん。あなたはとても優しいんですね」	Thanks, [player]. You're too kind.	「ありがとうございます、[player]さん。あなたはとても優しいんですね」
+「I'm thankful to have you a part of this club now.」	「部活の一員になっていただいて感謝しています」	I'm thankful to have you a part of this club now.	「部活の一員になっていただいて感謝しています」
+「Er-- It's nothing.」	「そんな――何てことないさ」	Er-- It's nothing.	「そんな――何てことないさ」
+「One more thing...」	「それともう一つ……」	One more thing...	「それと、もう一つ……」
+「Um, that one thing that Natsuki said...」	「その、ナツキちゃんが言ってたことで……」	Um, that one thing that Natsuki said...	「その、ナツキちゃんが言っていたことで……」
+「About...you know...」	「あの……ええと……」	About...you know...	「あの……ええと……」
+「I would never do anything...so shameful...」	「そんな破廉恥なことは……決してしないので……」	I would never do anything...so shameful...	「そんな破廉恥なことは……決してしないので……」
+「So...」	「ですので……」	So...	「それで……」
+「...Eh?」	「……えっ？」	...Eh?	「……んっ？」
+「What thing did Natsuki say?」	「ナツキが何か言ったか？」	What thing did Natsuki say?	「ナツキが何か言ったか？」
+「--!」	「――！」	--!	「――っ！」
+「U-Um!」	「あ、あの！」	U-Um!	「え、えっと！」
+「Well, never mind that...」	「その、なんでもありません……」	Well, never mind that...	「その、何でもありません……」
+「I-I'm going to go make some tea...」	「お、お茶を淹れてきますね……」	I-I'm going to go make some tea...	「お、お茶を淹れてきますね……」
+「Ah, good idea.」	「ああ、いいんじゃないか」	Ah, good idea.	「ああ、いいんじゃないか」
+「Make enough for more than one person, okay?」	「人数分用意してきてくれ、な？」	Make enough for more than one person, okay?	「人数分用意してきてくれ、な？」
+「Y-Yeah.」	「わ、分かりました」	Y-Yeah.	「わ、わかりました」

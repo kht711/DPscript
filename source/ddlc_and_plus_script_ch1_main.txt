@@ -1,0 +1,88 @@
+「Hi again, [player]!」	「[player]君、今日も来たのね！」	Hi again, [player]!	「やっほー、[player]君！」
+「Glad to see you didn't run away on us. Hahaha!」	「すっぽかされなくて良かったわ、あははっ！」	Glad to see you didn't run away on us. Hahaha!	「すっぽかされなくて良かったわ、あははっ！」
+「Nah, don't worry.」	「いや、そんな心配するなって」	Nah, don't worry.	「いや、そんな心配するなって」
+「This might be a little strange for me, but I at least keep my word.」	「意外かも知れないが、これでも俺は約束だけは守るタイプなんだ」	This might be a little strange for me, but I at least keep my word.	「意外かもしれないけど、約束だけは守るタイプなんだ」
+Well, I'm back at the Literature Club.	そんなこんなで、俺は文芸部へ戻って来た。	Well, I'm back at the Literature Club.	そんなこんなで、俺は文芸部へ再びやってきた。
+I was the last to come in, so everyone else is already hanging out.	俺が最後に来たようで、他のみんなはとっくにのんびりとしていた。	I was the last to come in, so everyone else is already hanging out.	俺が最後に来たようで、他のみんなはとっくに到着して、のんびりしていた。
+「Thanks for keeping your promise, [player].」	「約束を守っていただいてありがとうございます、[player]さん」	Thanks for keeping your promise, [player].	「約束を守ってくださってありがとうございます、[player]さん」
+「I hope this isn't too overwhelming of a commitment for you.」	「あなたに気苦労を負わせていないと良いのですが」	I hope this isn't too overwhelming of a commitment for you.	「あなたに心労を負わせていないと良いのですが」
+「Making you dive headfirst into literature when you're not accustomed to it...」	「馴染みがない文学の世界に突然飛び込ませているようなものなので……」	Making you dive headfirst into literature when you're not accustomed to it...	「馴染みがない文芸の世界に、突然飛び込ませているようなものなので……」
+「Oh, come on! Like he deserves any slack.」	「もう、なによ！ 甘やかす必要なんてないでしょ」	Oh, come on! Like he deserves any slack.	「もう、何よ！ 甘やかす必要なんてないでしょ」
+「Sayori told me you didn't even want to join any clubs this year.」	「サヨリから聞いたけどあんた、今年はどこの部活にも入るつもりがなかったみたいじゃない」	Sayori told me you didn't even want to join any clubs this year.	「サヨリから聞いたけどアンタ、今年はどこの部活にも入るつもりがなかったみたいじゃない」
+「And last year, too!」	「それに、去年だって！」	And last year, too!	「て言うか、去年もそうだし！」
+「I don't know if you plan to just come here and hang out, or what...」	「あんたはここに来て、ただダラダラ過ごそうと考えているのかもしれないけど……」	I don't know if you plan to just come here and hang out, or what...	「アンタはここで、ただダラダラ過ごそうと考えているのかもしれないけど……」
+「But if you don't take us seriously, then you won't see the end of it.」	「真面目にやらないのなら、ここで過ごす時間もそう長くないと思いなさい」	But if you don't take us seriously, then you won't see the end of it.	「真面目にやらないなら、ここで過ごす時間もそう長くないと思いなさい」
+「Natsuki, you certainly have a big mouth for someone who keeps her manga collection in the clubroom.」	「ナツキ、部室にマンガコレクションを揃えてる割には大口叩くのね」	Natsuki, you certainly have a big mouth for someone who keeps her manga collection in the clubroom.	「ナツキ、部室にマンガコレクションを揃えてる割には大口叩くのね」
+「M-M-M...!!」	「モ……マ……ム……！！」	M-M-M...!!	「マ……モ……カ……！！」
+Natsuki finds herself stuck between saying "Monika" and "Manga".	ナツキは『モニカ』と『マンガ』、どちらともつかずの言葉を発しようとしている。	Natsuki finds herself stuck between saying "Monika" and "Manga".	ナツキは『モニカ』と『マンガ』、どちらともつかずの言葉を発しようとしている。
+「Manga is literature!!」	「マンガは文学なのっ！！」	Manga is literature!!	「マンガは文学なのっ！！」
+Swiftly defeated, Natsuki plops back into her seat.	あっさりと敗北し、ナツキはドサッと席へ戻った。	Swiftly defeated, Natsuki plops back into her seat.	あっさりと敗北し、ナツキはドカッと席へ着いた。
+「Don't worry, guys~」	「心配無用だよ、みんな～」	Don't worry, guys~	「心配いらないよ、みんな～」
+「[player] always gives it his best as long as he's having fun.」	「[player]は、楽しいことは全力でやるもんね」	[player] always gives it his best as long as he's having fun.	「[player]は、楽しいことは全力でやるもんね」
+「He helps me with busywork without me even asking.」	「わたしが頼んでもいないのに、何か手伝ってくれたりするんだよ」	He helps me with busywork without me even asking.	「わたしが頼んでもいないのに、何か手伝ってくれたりするんだよ」
+「Like cooking, cleaning my room...」	「料理とか、お部屋の掃除とか……」	Like cooking, cleaning my room...	「料理とか、お部屋の掃除とか……」
+「How dependable...」	「頼りになりますね……」	How dependable...	「頼りになりますね……」
+「Sayori, that's because your room is so messy it's distracting.」	「サヨリ、それはお前の部屋がすごく汚いからだぞ」	Sayori, that's because your room is so messy it's distracting.	「サヨリ、それはお前の部屋がすごく汚いからだぞ」
+「And you almost set your house on fire once.」	「それに家が火事寸前になったこともあったし」	And you almost set your house on fire once.	「それに家が火事寸前になったこともあったし」
+「Is that so... Ehehe...」	「あ、それは……えへへ……」	Is that so... Ehehe...	「あ、それは……えへへ……」
+「You two are really good friends, aren't you?」	「サヨリちゃんたち、本当に仲が良いんですね」	You two are really good friends, aren't you?	「サヨリちゃんたち、本当に仲が良いんですね」
+「I might be a little jealous...」	「少し羨ましいです……」	I might be a little jealous...	「少し羨ましいです……」
+「How come? You and [player] can become good friends too!」	「そうかな？ ユリちゃんと[player]だってきっとステキな友達になれるよ！」	How come? You and [player] can become good friends too!	「そうかな？ ユリちゃんと[player]だってきっとステキな友達になれるよ！」
+「U-Um...」	「え、えっと……」	U-Um...	「その……」
+「S-Sayori--」	「サ、サヨリ……」	S-Sayori--	「サ、サヨリ……」
+「Hmm?」	「んー？」	Hmm?	「うーん？」
+「...」	「……」	...	「……」
+As usual, Sayori seems oblivious to the weird situation she just put me into.	いつものことだが、俺をおかしな状況に巻き込んでいることにサヨリは気付いていないようだ。	As usual, Sayori seems oblivious to the weird situation she just put me into.	いつものことだが、俺をおかしな状況に巻き込んでいることにサヨリは気付いていないようだ。
+「Oh, oh! Yuri even brought you something today, you know~」	「そうだ！ ユリちゃんなんて[player]のために今日何か持ってきてくれたみたいだし～」	Oh, oh! Yuri even brought you something today, you know~	「そうだ！ ユリちゃんは[player]のために今日何か持ってきてくれたみたいだし～」
+「W-Wait! Sayori...」	「ま、待って！ サヨリちゃ……」	W-Wait! Sayori...	「ま、待って！ サヨリちゃ……」
+「Eh? Me?」	「え？ 俺？」	Eh? Me?	「え？ 俺？」
+「Um... Not really...」	「えっと……そういうものでは……」	Um... Not really...	「えっと……そういうものでは……」
+「Don't be shy~」	「恥ずかしがらなくていいのに～」	Don't be shy~	「恥ずかしがらなくていいのに～」
+「It's really nothing...」	「本当そういうものではなくて……」	It's really nothing...	「本当そういうものではなくて……」
+「What is it?」	「なになに？」	What is it?	「なになに？」
+「N-Never mind!」	「き、気にしないでください！」	N-Never mind!	「き、気にしないでください！」
+「Sayori made it sound like a big deal when it's really not...」	「大したものではないのに、サヨリちゃん大げさ過ぎます……」	Sayori made it sound like a big deal when it's really not...	「大したものではないのに、サヨリちゃんたら、大げさ過ぎます……」
+「Uuuuh, what do I do...」	「うううう、どうしよう……」	Uuuuh, what do I do...	「うううう、どうしよう……」
+「Eh? I'm sorry, Yuri, I wasn't thinking...」	「あれ？ ごめんねユリちゃん、わたし考えてなかった……」	Eh? I'm sorry, Yuri, I wasn't thinking...	「あれ？ ごめんねユリちゃん、わたし考えてなかった……」
+I guess that means it's up to me to rescue this situation...	つまり、この状況をどう切り抜けるかは俺次第なのか……	I guess that means it's up to me to rescue this situation...	つまり、この状況をどう切り抜けるかは俺次第なのか……
+「Hey, don't worry about it.」	「まあまあ、そんなに気にしなくていいよ」	Hey, don't worry about it.	「まあまあ、そんなに気にしなくていいよ」
+「First of all, I wasn't expecting anything in the first place.」	「そもそも俺は、何かを期待してた訳じゃないし」	First of all, I wasn't expecting anything in the first place.	「別に何かを期待してたわけじゃないし」
+「So any nice gesture from you is a pleasant surprise.」	「ユリが親切にしてくれること自体が嬉しいサプライズだよ」	So any nice gesture from you is a pleasant surprise.	「ユリが親切にしてくれること自体がうれしいサプライズだよ」
+「It'll make me happy no matter what.」	「どんなものでも俺は嬉しいよ」	It'll make me happy no matter what.	「どんなものでも俺はうれしいよ」
+「I-Is that so...」	「そ、そうでしょうか……」	I-Is that so...	「そ、そうでしょうか……」
+「Yeah. I won't make it a big deal if you don't want it to be.」	「まあな。もしお前がそう思われたくないなら大げさには扱わない」	Yeah. I won't make it a big deal if you don't want it to be.	「まあな。もしそう思われたくないなら、大げさには扱わない」
+「Alright...」	「分かりました……」	Alright...	「わかった……」
+「Well, here.」	「それでは、これを」	Well, here.	「それでは、これを」
+Yuri reaches into her bag and pulls out a book.	ユリはカバンから本を一冊取り出した。	Yuri reaches into her bag and pulls out a book.	ユリはカバンから本を一冊取り出した。
+「I didn't want you to feel left out...」	「仲間外れだと感じてほしくなくて……」	I didn't want you to feel left out...	「仲間外れだと感じてほしくなくて……」
+「So I picked out a book that I thought you might enjoy.」	「[player]さんが楽しめそうな本を選んでみました」	So I picked out a book that I thought you might enjoy.	「[player]さんが楽しめそうな本を選んでみました」
+「It's a short read, so it should keep your attention, even if you don't usually read.」	「短編なので、普段本を読まない[player]さんでも集中力が途切れにくいと思います」	It's a short read, so it should keep your attention, even if you don't usually read.	「短編なので、普段本を読まない[player]さんでも集中力が途切れにくいと思います」
+「And we could, you know...」	「それに、ほら、もしできたら……」	And we could, you know...	「それで、その、もしできたら……」
+「Discuss it...if you wanted...」	「話し合ったり……できればと……」	Discuss it...if you wanted...	「話し合ったり……できればと……」
+Th-This is...	こ、これは……	Th-This is...	こ、これは……
+How is this girl accidentally being so cute?	なんだか急にこいつが可愛く見えてきたぞ？	How is this girl accidentally being so cute?	なんだか急にこの子が、かわいく見えてきたぞ？
+She even picked out a book she thinks I'll like, despite me not reading much...	それに、読書に慣れてない俺が気に入りそうな本まで見繕ってくれて……	She even picked out a book she thinks I'll like, despite me not reading much...	読書に慣れてない俺が気に入りそうな本まで見繕ってくれて……
+「Yuri, thank you! I'll definitely read this!」	「ユリ、ありがとう！ 絶対読むよ！」	Yuri, thank you! I'll definitely read this!	「ユリ、ありがとう！ 絶対読むよ！」
+I enthusiastically take the book.	俺は心を込めて本を受け取った。	I enthusiastically take the book.	俺は心を込めて本を受け取った。
+「Phew...」	「ほっ……」	Phew...	「ふぅ……」
+「Well, you can read it at your own pace.」	「ご自身のペースで読み進めてくださいね」	Well, you can read it at your own pace.	「ご自身のペースで読み進めてくださいね」
+「I look forward to hearing what you think.」	「あなたの感想、楽しみにしてます」	I look forward to hearing what you think.	「あなたの感想、楽しみにしてます」
+Now that everyone's settled in, I expected Monika to kick off some scheduled activities for the club.	やっとみんながひと段落着いたところで、俺はモニカからの部活らしい指示があるのを待った。	Now that everyone's settled in, I expected Monika to kick off some scheduled activities for the club.	やっとみんながひと段落着いたところで、俺はモニカからの部活らしい指示があるのを待った。
+But that doesn't seem to be the case.	だがそういう訳でもないようだ。	But that doesn't seem to be the case.	だがそういうわけでもないようだ。
+Sayori and Monika are having a cheery conversation in the corner.	サヨリとモニカは部屋の隅でワイワイおしゃべりをしているし。	Sayori and Monika are having a cheery conversation in the corner.	サヨリとモニカは部屋の隅でワイワイおしゃべりしているし。
+Yuri's face is already buried in a book.	ユリは既に本に顔を埋めている。	Yuri's face is already buried in a book.	ユリはすでに読書に夢中だ。
+I can't help but notice her intense expression, like she was waiting for this chance.	この瞬間を待っていたかのような彼女の真剣な表情に、つい目が行ってしまう。	I can't help but notice her intense expression, like she was waiting for this chance.	この瞬間を待ち焦がれていたかのような彼女の真剣な表情に、つい目が行ってしまう。
+Meanwhile, Natsuki is rummaging around in the closet.	一方、ナツキはクローゼットを物色している。	Meanwhile, Natsuki is rummaging around in the closet.	一方、ナツキは物置を物色している。
+「By the way, did you remember to write a poem last night?」	「ところで、昨晩ちゃんと忘れずに詩を書いてきたかしら？」	By the way, did you remember to write a poem last night?	「ところで、昨晩ちゃんと忘れずに詩を書いてきたかしら？」
+「Y-Yeah...」	「あ、ああ」	Y-Yeah...	「あ、ああ、うん」
+My relaxation ends.	身が引き締まる。	My relaxation ends.	身が引き締まる。
+I can't believe I agreed to do something so embarrassing.	こんな恥ずかしいことに、なんで俺は賛成してしまったんだ。	I can't believe I agreed to do something so embarrassing.	こんな恥ずかしいことに、どうして俺は賛成してしまったんだ。
+I couldn't really find much inspiration, since I've never really done this before.	今までこんなことをやった経験がないからか、それといったインスピレーションも沸かなかった。	I couldn't really find much inspiration, since I've never really done this before.	今までこんなことをやった経験がないからか、それといったインスピレーションも湧かなかった。
+「Well, now that everyone's ready, why don't you find someone to share with?」	「さて、みんなも準備できたみたいだし、詩を見せる相手を見つけましょう！」	Well, now that everyone's ready, why don't you find someone to share with?	「さて、みんなも準備できたみたいだし、詩を見せる相手を見つけましょう！」
+「I can't wait~!」	「もう待ちきれないよ～！」	I can't wait~!	「楽しみ～！」
+Sayori and Monika enthusiastically pull out their poems.	サヨリとモニカは、張り切りながら詩を取り出している。	Sayori and Monika enthusiastically pull out their poems.	サヨリとモニカは、張り切りながら詩を取り出している。
+Sayori's is on a wrinkled sheet of loose leaf torn from a spiral notebook.	サヨリの詩はリングノートから破いた一枚の紙に書かれているようだ。	Sayori's is on a wrinkled sheet of loose leaf torn from a spiral notebook.	サヨリの詩はリングノートから破いた一枚の紙に書かれているようだ。
+On the other hand, Monika wrote hers in a composition notebook.	一方モニカの詩は、作文用のノートに書いてある。	On the other hand, Monika wrote hers in a composition notebook.	一方モニカの詩は、作文用のノートに書いてある。
+I can already see Monika's pristine handwriting from where I sit.	俺の席からでも、モニカの純朴な字が見て取れる。	I can already see Monika's pristine handwriting from where I sit.	俺の席からでも、モニカの純朴な字が見て取れる。
+Natsuki and Yuri reluctantly comply as well, reaching into their bags.	ナツキとユリも、しぶしぶバッグから取り出して応じる。	Natsuki and Yuri reluctantly comply as well, reaching into their bags.	ナツキとユリも、しぶしぶバッグから取り出して応じる。
+I do the same, myself.	同じように、俺もそうした。	I do the same, myself.	同じように、俺もそうした。
