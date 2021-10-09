@@ -44,6 +44,7 @@ function dataChange(value) {
         tr.appendChild(enTd);
         let jaTd = document.createElement("td");
         jaTd.innerHTML = line[1];
+        jaTd.className = "japanese";
         tr.appendChild(jaTd);
 
         let enPlusTd = document.createElement("td");
@@ -51,6 +52,7 @@ function dataChange(value) {
         tr.appendChild(enPlusTd);
         let jaPlusTd = document.createElement("td");
         jaPlusTd.innerHTML = line[3];
+        jaPlusTd.className = "japanese";
         tr.appendChild(jaPlusTd);
     }
 }
