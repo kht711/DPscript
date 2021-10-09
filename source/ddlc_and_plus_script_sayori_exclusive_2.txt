@@ -1,0 +1,247 @@
+「[player], [player]!」	「[player]、[player]！」	[player], [player]!	「[player]、[player]！」
+Sayori suddenly comes up to me.	サヨリが突然俺のところまでやってくる。	Sayori suddenly comes up to me.	サヨリが突然俺のところまでやってくる。
+「I'm gonna go get some supplies from another classroom.」	「今から他の教室に画材を探しにいくんだけど……」	I'm gonna go get some supplies from another classroom.	「今から他の教室に画材を探しに行くんだけど……」
+「Want to come with me?」	「一緒に行かない？」	Want to come with me?	「一緒に行かない？」
+「Supplies?」	「画材？」	Supplies?	「画材？」
+「What for?」	「何のために？」	What for?	「何のために？」
+「Well, you know how the festival is coming up?」	「もうすぐ文化祭でしょ？」	Well, you know how the festival is coming up?	「もうすぐ文化祭でしょ？」
+「Me and Monika were gonna make some posters and stuff.」	「わたしとモニカちゃんでポスターとか作ろうと思って」	Me and Monika were gonna make some posters and stuff.	「わたしとモニカちゃんでポスターとかつくろうと思って」
+「So I need to go find some crayons, and markers, and glue sticks...」	「だからクレヨンと、マーカーと、スティックのりを探しにいかないとで……」	So I need to go find some crayons, and markers, and glue sticks...	「だからクレヨンと、マーカーと、スティックのりを探しに行かないと……」
+「Ah, I see.」	「なるほど」	Ah, I see.	「ふーん、そっか」
+「Sure, I'll go with you.」	「よし、一緒に行くか」	Sure, I'll go with you.	「よし、一緒に行くか」
+「Yaay~」	「やった～」	Yaay~	「やった～！」
+「Okay Monika, we'll be back soon!」	「それじゃモニカちゃん、ちょっと行ってくるね！」	Okay Monika, we'll be back soon!	「それじゃモニカちゃん、ちょっと行ってくるね！」
+「Ah, are you going with [player] to get the supplies?」	「あら、[player]君と画材を探しに行くの？」	Ah, are you going with [player] to get the supplies?	「あら、[player]君と画材を探しに行くの？」
+「There's no need to trouble yourself.」	「いいわよゆっくりしてて」	There's no need to trouble yourself.	「いいわよ、ゆっくりしてて」
+「I'd be happy to go with him.」	「私が[player]君と行くから」	I'd be happy to go with him.	「私が[player]君と行くから」
+「Aw, but I wanted to go!」	「え～、わたし行きたい！」	Aw, but I wanted to go!	「え～、わたし行きたい！」
+「It's so much fun exploring empty classrooms and stuff!」	「誰もいない教室を探険したりするの楽しいんだもん！」	It's so much fun exploring empty classrooms and stuff!	「誰もいない教室を冒険したりするの楽しいんだもん！」
+「Hehe, okay, okay.」	「ふふ、はいはい」	Hehe, okay, okay.	「ふふ、はいはい」
+「It was just a suggestion.」	「ただ言ってみただけだから」	It was just a suggestion.	「ただ言ってみただけだけ」
+「See if you can find poster paper too, okay?」	「ついでにポスター用紙も探してきてくれる？」	See if you can find poster paper too, okay?	「ついでにポスター用紙も探してきてくれる？」
+「Okaay~!」	「はぁ～～い！」	Okaay~!	「はぁ～～い！」
+「Ready, [player]?」	「行くよ、[player]？」	Ready, [player]?	「行くよ、[player]？」
+「Yep, let's go.」	「ああ、行ってくるか」	Yep, let's go.	「ああ、行くか」
+Sayori and I exit the clubroom.	俺とサヨリは部室を出た。	Sayori and I exit the clubroom.	俺とサヨリは部室を出た。
+I follow behind as Sayori hums and skips around the hallway.	鼻歌を歌いながらスキップするサヨリの後を付いて行く。	I follow behind as Sayori hums and skips around the hallway.	鼻歌を歌いながらスキップするサヨリの後をついて行く。
+Honestly...	正直……	Honestly...	しかし正直……
+It feels like I'm taking a kid to the mall or something.	子供をモールに連れていってるような気分だ。	It feels like I'm taking a kid to the mall or something.	子どもをモールに連れてきたような気分だ。
+Sayori finds pleasure in the simplest things sometimes.	サヨリは単純なことで喜ぶことがある。	Sayori finds pleasure in the simplest things sometimes.	サヨリは単純なことで喜ぶ。
+「Hey, Sayori...」	「なあ、サヨリ……」	Hey, Sayori...	「なあ、サヨリ……」
+「What exactly are we doing for the festival, anyway?」	「結局俺たち、文化祭で何をするんだ？」	What exactly are we doing for the festival, anyway?	「結局俺たち、文化祭で何をするんだ？」
+「I'm not sure how you would make an event out of literature...」	「文学を題材にどんな出し物ができるのかさっぱりなんだが……」	I'm not sure how you would make an event out of literature...	「文芸を題材にどんな出し物ができるのかさっぱりなんだが……」
+「Ehehe!」	「えへへ！」	Ehehe!	「えへへ！」
+「Me and Monika have it all planned out!」	「わたしとモニカちゃんで計画してあるから！」	Me and Monika have it all planned out!	「わたしとモニカちゃんで計画してあるから！」
+「Don't you worry~」	「心配ご無用～」	Don't you worry~	「心配ご無用～」
+「Is that so...?」	「そうなのか……？」	Is that so...?	「そうなのですね……」
+「Yup!」	「うん！」	Yup!	「うん！」
+「We're gonna do a poetry performance!」	「詩の発表会をやるの！」	We're gonna do a poetry performance!	「詩の発表会をやるの！」
+「A performance...?」	「発表会？」	A performance...?	「発表会？」
+「Of what kind?」	「どんな？」	Of what kind?	「どんな？」
+「Well...」	「えっとね……」	Well...	「今度は……」
+「Everyone is gonna take turns on stage...」	「みんなで順番にステージに立って……」	Everyone is gonna take turns on stage...	「みんなで順番にステージに立って……」
+「And recite their favorite poems!」	「一番好きな詩を読むの！」	And recite their favorite poems!	「一番好きな詩を読むの！」
+「Ah...」	「あー……」	Ah...	「あのね……」
+「That sounds...」	「なんかそれ……」	That sounds...	「何かそれ……」
+...Kind of dull?	……つまんなそう？	...Kind of dull?	……面白いか？
+「[player]!」	「[player]！」	[player]!	「[player]！」
+「You're not thinking about it the right way at all!」	「全然分かってないよ！」	You're not thinking about it the right way at all!	「全然わかってないよ！」
+「It's not just about reading poems...」	「ただ詩を読むんじゃなくて……」	It's not just about reading poems...	「ただ詩を読むんじゃなくて……」
+「It's about performing them!」	「発表の仕方が大事なんだよ！」	It's about performing them!	「発表の仕方が大事なんだよ！」
+「Like, you say the lines of the poem like...」	「例えばこうやって……」	Like, you say the lines of the poem like...	「例えばこうやって……」
+「<i>Between my feet...</i>」	「<i>足元で……</i>」	<i>Between my feet...</i>	「<i>足元で……</i>」
+「<i>The last remaining flower beckons to me.</i>」	「<i>最後の花が私を招く</i>」	<i>The last remaining flower beckons to me.</i>	「<i>最後の花が私を招く</i>」
+「<i>I twist the stem, freeing it from its clinging roots...</i>」	「<i>茎をねじり、根の束縛から解放し……</i>」	<i>I twist the stem, freeing it from its clinging roots...</i>	「<i>茎をねじり、根の束縛から解放し……</i>」
+「<i>Caressing the final joyous moment between my fingers.</i>」	「<i>最期の喜びを指で愛でる</i>」	<i>Caressing the final joyous moment between my fingers.</i>	「<i>最期の喜びを指で愛でる</i>」
+「<i>But to what ends have I summoned this joy?</i>」	「<i>けれどこの喜びは何が為に？</i>」	<i>But to what ends have I summoned this joy?</i>	「<i>けれどこの喜びは何が為に？</i>」
+「<i>For now when I look in every direction...</i>」	「<i>見渡すかぎり……</i>」	<i>For now when I look in every direction...</i>	「<i>見渡すかぎり……</i>」
+「<i>The once-prosperous field before me...</i>」	「<i>緑豊かだった野原は……</i>」	<i>The once-prosperous field before me...</i>	「<i>緑豊かだった野原は……</i>」
+「<i>Is but a barren wasteland!</i>」	「<i>今や荒地なのに！</i>」	<i>Is but a barren wasteland!</i>	「<i>今や荒地なのに！</i>」
+「...」	「……」	...	「……」
+「Like that!!」	「みたいな感じで！！」	Like that!!	「みたいな感じで！！」
+「Sayori...」	「サヨリ……」	Sayori...	「……サヨリ……」
+How do I put this...	何といえばいいのか……	How do I put this...	何と言えばいいのか……
+「I'm sure it's just me, but it's impossible for me to take you seriously when you talk like that...」	「俺だけだとは思うが、普段のお前を見てるとそういう喋り方じゃ違和感満載だな……」	I'm sure it's just me, but it's impossible for me to take you seriously when you talk like that...	「俺だけだとは思うが、普段のお前を見てるとそのしゃべり方じゃ違和感満載だな……」
+「Ehhh?」	「えー？」	Ehhh?	「えー？」
+「You meanie!」	「ひどいー！」	You meanie!	「ひどーい！」
+「I'm working super hard on this, you know!」	「すっごく頑張って練習してるのに！」	I'm working super hard on this, you know!	「すっごくがんばって練習してるのに！」
+「Ah, I know, I know!」	「いや、それは分かってる！」	Ah, I know, I know!	「いや、それはわかってる！」
+「I just meant that it's a pretty unordinary contrast to your cute self.」	「ただ、いつもの可愛らしいお前とまったく雰囲気が違うというか」	I just meant that it's a pretty unordinary contrast to your cute self.	「ただ、いつものかわいらしいお前とまったく雰囲気が違うというか」
+「Ahaha! Don't say that, it's embarrassing!」	「あはは！ そう言われると照れちゃうよ～！」	Ahaha! Don't say that, it's embarrassing!	「あはは！ そう言われると照れちゃうよ～！」
+「But I guess that means I'm doing a good job~」	「でもそれって上手くできてるってことだよねぇ～」	But I guess that means I'm doing a good job~	「でもそれって、うまくできてるってことだよねぇ～」
+「Yeah, I guess so...」	「まあ、そういうことかもな……」	Yeah, I guess so...	「まあ、たぶんそうだ……」
+「Aaah, I'm so excited!」	「あー、楽しみだなぁ！」	Aaah, I'm so excited!	「あー、楽しみだなぁ！」
+「The festival is going to be so much fun~」	「文化祭、すっごく楽しいんだろうなぁ～」	The festival is going to be so much fun~	「文化祭、すっごく楽しいんだろうなぁ～」
+Sayori spins herself around in the hallway again.	サヨリは再び廊下でくるくる回りだした。	Sayori spins herself around in the hallway again.	サヨリは再び廊下でくるくる回りだした。
+「Hey, [player], this classroom over here is empty!」	「ねぇ[player]、こっちの教室なら誰もいないよ！」	Hey, [player], this classroom over here is empty!	「ねぇ[player]、こっちの教室には誰もいないよ！」
+「Let's begin the mission!」	「ミッション開始だ！」	Let's begin the mission!	「ミッション開始だ！」
+「The mission, eh...?」	「ミッション、ねぇ……」	The mission, eh...?	「ミッションねぇ……」
+It's been a long time since I've spent time with Sayori like this.	こうやってサヨリと二人きりで過ごすのは随分久しぶりだ。	It's been a long time since I've spent time with Sayori like this.	こうやってサヨリと二人きりで過ごすのは、ずいぶん久しぶりだ。
+But in the end, she hasn't changed one bit.	けれどあいつは何も変わってない。	But in the end, she hasn't changed one bit.	だが、あいつは何も変わってない。
+She's nothing but a ball of sunshine, drawing happy vibes from the world around her.	太陽のように明るい性格で、周りの世界からもどんどん幸せをかき集めている。	She's nothing but a ball of sunshine, drawing happy vibes from the world around her.	太陽のように明るい性格で、周りの世界からどんどん幸せを引き寄せている。
+It's a pretty nostalgic feeling for me.	なんだか懐かしい気持ちになる。	It's a pretty nostalgic feeling for me.	何だか懐かしい気持ちになる。
+As the years went by, I began to hole myself up in my room more and more.	俺はと言うと、年月が過ぎていくにつれて、どんどん部屋にこもりがちになった。	As the years went by, I began to hole myself up in my room more and more.	俺はと言うと、年月が過ぎていくにつれて、どんどん部屋にこもりがちになった。
+So going adventuring with Sayori brings about a special sort of feeling I forgot I had in me.	だからこうしてサヨリと冒険していると、ずっと忘れていた特別な気持ちのようなものが込み上げてくる。	So going adventuring with Sayori brings about a special sort of feeling I forgot I had in me.	だからこうしてサヨリと冒険していると、ずっと忘れていた特別な感情のようなものが込み上げてくる。
+The two of us enter the classroom.	俺たちは教室に入った。	The two of us enter the classroom.	俺たちは教室に入った。
+Sayori heads straight to the closet, and I follow.	サヨリはすぐさまクローゼットの方へ向かっていき、俺はそれについて行った。	Sayori heads straight to the closet, and I follow.	サヨリはすぐさま物置の方へ向かっていき、俺はそれについて行った。
+「Let's see what we have in here...」	「なにが入ってるかな……」	Let's see what we have in here...	「何かないかな……」
+「...Crayons!!」	「……クレヨンあった！！」	...Crayons!!	「……クレヨンあった！！」
+Sayori pulls a box full of crayons off the shelf.	サヨリは棚の上からクレヨンの箱を引っ張り出した。	Sayori pulls a box full of crayons off the shelf.	サヨリは棚の上からクレヨンの箱を引っ張り出した。
+「They're the best brand, too!」	「しかも一番いいメーカーのやつだ！」	They're the best brand, too!	「しかも一番いいメーカーのやつだ！」
+「They're kind of dirty, though...」	「ちょっと汚いけど……」	They're kind of dirty, though...	「ちょっと汚いけど……」
+Sayori starts pulling various crayons out of the box, reading the color names.	サヨリは箱から様々な色のクレヨンを取り出して、色の名前を確認しだした。	Sayori starts pulling various crayons out of the box, reading the color names.	サヨリは箱から様々な色のクレヨンを取り出すと、色の名前を確認し始めた。
+「Alright, that's one down.」	「よし、これで一つだな」	Alright, that's one down.	「よし、これで一つ発見だな」
+「Don't get distracted, we still need to find--」	「他の物も探さないといけないんだから、あまり――」	Don't get distracted, we still need to find--	「他の物も探さないといけないんだから、あまり――」
+「Wait, I'm looking for my favorite color...」	「ちょっと待って、一番好きな色を探してるから……」	Wait, I'm looking for my favorite color...	「ちょっと待って、一番好きな色を探してるから……」
+「Fine, fine...」	「はいはい……」	Fine, fine...	「はいはい……」
+「Then at least move aside so I can look for the poster paper.」	「せめてちょっと横にずれてくれよ。その間にポスター用紙探すから」	Then at least move aside so I can look for the poster paper.	「せめてちょっと横にずれてくれよ。その間にポスター用紙探すから」
+「Ah, I dropped one by accident--」	「あっ、一個落としちゃっ――」	Ah, I dropped one by accident--	「あっ、一個落としちゃっ――」
+<i>Smack!</i>	<i>ゴンッ！</i>	<i>Smack!</i>	<i>ゴンッ！</i>
+「Kya--!」	「きゃっ――！」	Kya--!	「きゃっ――！」
+Sayori bends over and smacks her forehead right into the shelf.	屈もうとしたサヨリはそのまま棚に額をぶつけてしまった。	Sayori bends over and smacks her forehead right into the shelf.	屈もうとしたサヨリはそのまま棚に額をぶつけてしまった。
+She falls to the floor, and the crayons spill all over her lap.	床に座り込むと、クレヨンはサヨリの膝の上で散らばってしまった。	She falls to the floor, and the crayons spill all over her lap.	床に尻餅をついたサヨリの膝にクレヨンが散らばる。
+「Owowowowow...」	「あいたたたたた……」	Owowowowow...	「あいたたたたた……」
+「You okay?」	「大丈夫か？」	You okay?	「大丈夫か？」
+「My forehead...」	「おでこがぁ……」	My forehead...	「おでこがぁ……」
+Sayori clutches her forehead.	サヨリは自分の額をおさえた。	Sayori clutches her forehead.	サヨリは自分の額をおさえている。
+「Jeez, Sayori...」	「ったく、サヨリ……」	Jeez, Sayori...	「ったく、サヨリ……」
+「That's just like you, isn't it?」	「お前らしいというか……」	That's just like you, isn't it?	「お前らしいというか……」
+「C'mon, let me see.」	「ほら、見せてみなよ」	C'mon, let me see.	「ほら、見せてみな」
+Since Sayori is sitting on the floor, I grab her by the waist and pull her out of the closet.	座り込んでしまっているから、俺はサヨリの腰を持ってクローゼットから引っ張り出してやる。	Since Sayori is sitting on the floor, I grab her by the waist and pull her out of the closet.	俺は、座り込んでしまっているサヨリの腰をつかんで物置から引っ張り出してやる。
+「You have to move your hands, Sayori...」	「手をどけないと分からないだろ、サヨリ……」	You have to move your hands, Sayori...	「手をどけないとわからないだろ、サヨリ……」
+「But it hurts...」	「でも痛い……」	But it hurts...	「でも痛い……」
+「Just do it for a second.」	「一瞬でいいから」	Just do it for a second.	「一瞬でいいから」
+Sayori slowly releases her hands from her forehead.	そう言うと、サヨリはゆっくりと額から手を離した。	Sayori slowly releases her hands from her forehead.	そう言うと、サヨリはゆっくりと額から手を離した。
+I gently brush her bangs to the side.	俺は彼女の前髪を優しく横に流す。	I gently brush her bangs to the side.	俺は彼女の前髪を優しく横に流す。
+「Ow--!」	「いっ――！」	Ow--!	「いっ――！」
+「Sorry...」	「悪い……」	Sorry...	「悪い……」
+There's a huge red mark on the center of her forehead.	額の中心が大きく真っ赤になってしまっている。	There's a huge red mark on the center of her forehead.	額の中心が広範囲にわたって真っ赤になっている。
+A bump is starting to form, as well.	たんこぶもできてしまっているようだ。	A bump is starting to form, as well.	たんこぶもできてしまっているようだ。
+「Man, that's gonna swell up.」	「結構腫れそうだな」	Man, that's gonna swell up.	「結構腫れそうだな」
+「I should find you some ice...」	「氷を取って来た方がいいな……」	I should find you some ice...	「氷を取って来た方がいいな……」
+「[player]...」	「[player]……」	[player]...	「[player]……」
+「Where would I even find ice around this time...?」	「けどこの時間に氷ってどこで貰えるんだ……？」	Where would I even find ice around this time...?	「けど、この時間に氷ってどこでもらえるんだ……？」
+「Ah, I guess a cold drink would do...」	「まあ、冷たい飲み物でもなんとかなるか……」	Ah, I guess a cold drink would do...	「まあ、冷たい飲み物でも何とかなるか……」
+「You don't have to--!」	「そんなことしなくても――！」	You don't have to--!	「そんなことしなくても――！」
+「I'm fine with--looking like a unicorn--」	「いいよ……わたし……ユニコーンみたいになってても……」	I'm fine with--looking like a unicorn--	「いいよ……わたし……ユニコーンみたいになってても……」
+Even wincing from the pain, Sayori makes a silly joke.	痛そうにしていながらも、サヨリは変な冗談を言う。	Even wincing from the pain, Sayori makes a silly joke.	痛そうに顔をしかめながらも、サヨリは変な冗談を言った。
+「Ahaha, what are you saying?」	「ははっ、何言ってんだよ」	Ahaha, what are you saying?	「ははっ、何言ってるんだよ」
+「I'll be right back, okay?」	「すぐ戻ってくるから、な？」	I'll be right back, okay?	「すぐ戻ってくるから、な？」
+「O-Okay...」	「う、うん……」	O-Okay...	「う、うん……」
+I pat Sayori on the shoulder and run out into the hallway.	俺はサヨリの肩をぽんぽんと叩いて廊下へ走り出る。	I pat Sayori on the shoulder and run out into the hallway.	俺はサヨリの肩をぽんぽんと叩いて廊下へ走り出る。
+I locate the nearest vending machine.	すぐさま近くに自販機を見つけた。	I locate the nearest vending machine.	すぐに近くの自販機が見つかった。
+「What should I get...?」	「どれにしようか……？」	What should I get...?	「どれにしようか……？」
+It doesn't really matter, since it will be used as an ice pack, rather than to drink.	飲むのではなく氷代わりに使うから、味なんてなんでもいいのだが。	It doesn't really matter, since it will be used as an ice pack, rather than to drink.	飲むのではなく氷代わりに使うから、味なんて何でもいいのだが。
+But I know Sayori likes apple juice, so I purchase that one.	サヨリはりんごジュースが好きだったから、とりあえずそれを買った。	But I know Sayori likes apple juice, so I purchase that one.	それでも、サヨリはりんごジュースが好きだから、それを買う。
+In just a moment, I'm already returning to the classroom where I left Sayori.	すぐに俺はサヨリを置いた教室へと再び戻った。	In just a moment, I'm already returning to the classroom where I left Sayori.	そしてすぐに、サヨリを残してきた教室へと戻った。
+She has one palm on her forehead and is using the other hand to clumsily scoop crayons back into the box.	サヨリは片手で額を押さえながら、もう片方の手で散らばったクレヨンを箱に戻していっていた。	She has one palm on her forehead and is using the other hand to clumsily scoop crayons back into the box.	サヨリは片手で額を押さえながら、もう片方の手で散らばったクレヨンを箱に戻していた。
+「At least they were already in the wrong spots before I spilled them...」	「元々ぐちゃぐちゃに入ってたのがせめてもの救いだね……」	At least they were already in the wrong spots before I spilled them...	「元々ぐちゃぐちゃに入ってたのがせめてもの救いだね……」
+「Sayori, here.」	「サヨリ、ほら」	Sayori, here.	「サヨリ、ほら」
+I hand Sayori the bottle of apple juice.	りんごジュースのボトルをサヨリに渡した。	I hand Sayori the bottle of apple juice.	りんごジュースのボトルをサヨリに渡した。
+「It's nice and cold...」	「冷たくてきもちいい……」	It's nice and cold...	「冷たくて気持ち良い……」
+Sayori opens the cap and starts drinking from it.	サヨリはキャップを開けて中身を飲み始めた。	Sayori opens the cap and starts drinking from it.	サヨリはキャップを開けて中身を飲み始めた。
+「Sayori, what are you doing?!」	「なにやってんだよサヨリ！」	Sayori, what are you doing?!	「何やってんだよ、サヨリ！」
+「It's for your forehead, idiot!」	「それは額に当てる用だろ、バカ！」	It's for your forehead, idiot!	「それは額に当てる用だろ、バカ！」
+「Ah--」	「あっ……」	Ah--	「えっと……」
+「Sorry, I forgot~」	「ごめん、ついうっかり～」	Sorry, I forgot~	「ごめん、ついうっかり～」
+「Ahahaha!」	「あはははっ！」	Ahahaha!	「あはははっ！」
+「How hard did you hit your head...?」	「頭を強くぶつけすぎたのか……？」	How hard did you hit your head...?	「よっぽどひどく頭をぶつけたんだな……」
+Sayori places the bottle against the bump on her head.	サヨリはボトルをたんこぶのところに当てた。	Sayori places the bottle against the bump on her head.	サヨリはボトルをたんこぶに当てた。
+「It stings...」	「ズキズキする……」	It stings...	「ズキズキする……」
+「Just bear with it, it'll feel better soon.」	「我慢だ、もう少しすればマシになるから」	Just bear with it, it'll feel better soon.	「我慢だ、もう少しすればマシになるから」
+「Looks like you cleaned up most of the crayons, so that's good.」	「クレヨンを片付けておいてくれて助かったよ」	Looks like you cleaned up most of the crayons, so that's good.	「クレヨンを片付けておいてくれて助かったよ」
+「Hey, [player]...」	「ねえ、[player]……」	Hey, [player]...	「ねえ、[player]君」
+「This kind of reminds you of growing up, doesn't it...?」	「なんか小っちゃい頃を思い出さない？」	This kind of reminds you of growing up, doesn't it...?	「なんか小っちゃい頃を思い出さない？」
+「Eh? What do you mean?」	「え？ どうして？」	Eh? What do you mean?	「え？ どしたの？」
+「You know how we used to play outside all the time...」	「昔はいつも外で遊んでて……」	You know how we used to play outside all the time...	「昔はいつも外で遊んでて……」
+「I would always try to keep up with you.」	「わたしはいつも[player]に追いつこうとしてて」	I would always try to keep up with you.	「わたしはいつも[player]を追いかけてて」
+「You were kind of oblivious in some ways...」	「[player]はよく遊びに没頭してたから……」	You were kind of oblivious in some ways...	「[player]は夢中で遊んでたからさ……」
+「Like I usually fell behind or had trouble climbing on the things you did...」	「わたしはいつも遅れちゃったり、[player]が登れるとこに登れなかったりしたんだよね……」	Like I usually fell behind or had trouble climbing on the things you did...	「いっつも置いてかれたり、[player]が登れるとこに登れなかったりしたんだよね……」
+「But sometimes when I tried to do things I couldn't, I would get myself hurt.」	「たまに出来ないことをしようとしたら、そのたびに怪我しちゃって」	But sometimes when I tried to do things I couldn't, I would get myself hurt.	「たまにできないことをしようとしたら、そのたびに怪我しちゃって」
+「I'd fall and scrape myself, or get a bump...」	「こけてどこか擦りむいたり、たんこぶ作っちゃったりして……」	I'd fall and scrape myself, or get a bump...	「こけてどこか擦りむいたり、タンコブつくっちゃったりして……」
+「And I would start crying really hard.」	「そしたらわたしそのたびに大泣きしたんだよね」	And I would start crying really hard.	「そのたびに大泣きしたんだよね」
+「Ahaha!」	「あははっ！」	Ahaha!	「でしょ！？」
+「And you would rush over as quick as you could.」	「そしたらね、いつも[player]が大急ぎでわたしのところまで走ってきてくれたの」	And you would rush over as quick as you could.	「そしたらね、いつも[player]が大急ぎで走ってきてくれたの」
+「You would try really hard to get me to stop crying.」	「わたしが泣き止むようにもう必死で」	You would try really hard to get me to stop crying.	「わたしが泣き止むように、もう必死で」
+「It was almost like you blamed yourself and were afraid of getting in trouble if someone found out...」	「全部自分のせいにして、誰かに見つかったら怒られる、って思ってたみたいだった……」	It was almost like you blamed yourself and were afraid of getting in trouble if someone found out...	「全部自分のせいにして、誰かに見つかったら怒られる、って思ってたみたいだった……」
+「Even though it really wasn't your fault at all, you know?」	「全然[player]のせいじゃないのにね？」	Even though it really wasn't your fault at all, you know?	「全然[player]のせいじゃないのにね？」
+「Did I really do that...?」	「本当に俺がそんなことを……？」	Did I really do that...?	「本当に俺がそんなことを……？」
+「Yeah...you don't remember?」	「そうだよ……憶えてない？」	Yeah...you don't remember?	「そうだよ……覚えてない？」
+「Come to think of it, maybe I do remember a bit...」	「言われてみれば……少しだけ憶えてる気がする」	Come to think of it, maybe I do remember a bit...	「言われてみれば……少しだけ覚えてる気がする」
+「I guess I was always so focused on my games that I didn't pay enough attention to you.」	「俺は自分の遊びに没頭するあまり、ちゃんとお前のことを見てやれてなかったのかも知れないな」	I guess I was always so focused on my games that I didn't pay enough attention to you.	「自分が遊ぶのに夢中で、お前のことをちゃんと見てやれてなかったのかもしれないな」
+「So in a way, it was my fault.」	「だからある意味、俺のせいだった」	So in a way, it was my fault.	「だからある意味、俺のせいだった」
+「Kind of like this time, too...」	「今回みたいに……」	Kind of like this time, too...	「今回みたいに……」
+「If I wasn't rushing you out of the closet, you probably wouldn't have hit your head.」	「俺が急かさなかったら、お前が棚に頭をぶつけることもきっとなかった」	If I wasn't rushing you out of the closet, you probably wouldn't have hit your head.	「俺が急かさなかったら、お前が棚に頭をぶつけることもきっとなかった」
+「[player]...」	「[player]……」	[player]...	「[player]さん……」
+「I don't think you realize it, but you're always thinking about other people.」	「自分では気づいてないかもしれないけど、[player]はいつも周りの人を想ってるんだね」	I don't think you realize it, but you're always thinking about other people.	「自分では気づいてないかもしれないけど、[player]はいつも周りの人を想ってるんだね」
+「Even after all these years...」	「何年も経った今でも変わらず……」	Even after all these years...	「何年も経っても、今でも変わらず……」
+「You're rushing to help me, even though I'm just being clumsy.」	「わたしがドジしてるだけなのに、すぐにわたしを助けてくれた」	You're rushing to help me, even though I'm just being clumsy.	「わたしがドジしてるだけなのに、すぐに助けてくれた」
+「You're really a sweetheart...」	「本当に優しいよね……」	You're really a sweetheart...	「本当に優しいよね……」
+「D-Don't call me that!」	「そ、そんなのじゃねえよ！」	D-Don't call me that!	「そ、そんなんじゃねえよ！」
+「And I don't really do this kind of thing all the time...」	「誰にでもこうする訳じゃないし……」	And I don't really do this kind of thing all the time...	「誰にでもこうするわけじゃないし……」
+「I guess when it comes to you, it just feels natural.」	「お前に対しては自然とこうなると言うか……」	I guess when it comes to you, it just feels natural.	「お前に対しては自然とこうなるというか……」
+「Before I even know it, I'm treating you like that.」	「気がつけばこういう扱いをしてるんだ」	Before I even know it, I'm treating you like that.	「気がつけばこういう扱いをしてるんだ」
+「I guess that's what happens when you've been friends for so long.」	「これだけ長い付き合いだからかも知れないな」	I guess that's what happens when you've been friends for so long.	「長い付き合いだからかもしれないな」
+「Really...?」	「そうなんだ……？」	Really...?	「そうか……？」
+「Maybe you're right...」	「そうなのかもね……」	Maybe you're right...	「そうなのかもね……」
+「[player]...」	「[player]……」	[player]...	「[player]……」
+「I'm so glad that nothing's changed between us.」	「お互い、何も変わってなくて本当に嬉しいよ」	I'm so glad that nothing's changed between us.	「昔と変わらない関係で、本当にうれしいよ」
+「Do you think it'll be like this forever?」	「ずっとこのままでいられるかな？」	Do you think it'll be like this forever?	「ずっとこのままでいられるかな？」
+「Forever...?」	「ずっと……？」	Forever...?	「ずっと……？」
+If I'm honest to myself...	正直に言うと……	If I'm honest to myself...	正直に言うと……
+There's no telling where we'll each end up for college, or after that.	お互い大学がどうなるかまだ分からないし、それ以降だってそうだ。	There's no telling where we'll each end up for college, or after that.	お互い大学がどうなるかまだわからないし、その先だってわからない。
+So it wouldn't be fair for me to make any promises.	だから約束するのは少し違う気がする。	So it wouldn't be fair for me to make any promises.	だから約束するのは少し違う気がする。
+But...	だが……	But...	「けど……」
+「Well, I hope so.」	「……そうだと良いな」	Well, I hope so.	「……そうだと良いな」
+「It's been this long already, right?」	「こんなにも長い間一緒だもんな」	It's been this long already, right?	「こんなに長い間、ずっと一緒だもんな」
+「I can't imagine you ever changing, so my hopes are up.」	「お前が変わることもないだろうから、そうなるように願ってる」	I can't imagine you ever changing, so my hopes are up.	「お前が変わってしまうのは想像できないし、ずっと一緒にいられるように願ってる」
+「I'm so happy...」	「よかったぁ……」	I'm so happy...	「よかったぁ……」
+Sayori has a whimsical expression in her eyes.	サヨリは何とも言えない表情をした。	Sayori has a whimsical expression in her eyes.	サヨリは何とも言えない表情をした。
+We remain silent for a moment.	しばらく、二人の間に沈黙が流れる。	We remain silent for a moment.	しばらく、二人の間に沈黙が流れる。
+She's so silly and clumsy on the outside that when I see her deep in thought like this...	いつもはドジでへらへらしてるあいつが、こうやって物思いにふけているのを見ると……	She's so silly and clumsy on the outside that when I see her deep in thought like this...	いつもはドジでへらへらしてるあいつが、こうやって物思いに耽っているのを見ると……
+It makes me not want to disturb her.	邪魔してはいけない気がする。	It makes me not want to disturb her.	邪魔してはいけない気がする。
+「I guess we should go back...」	「そろそろ戻らなきゃ……」	I guess we should go back...	「そろそろ戻らなきゃ……」
+「I don't want to worry Monika, you know?」	「モニカちゃんに心配かけたくないし」	I don't want to worry Monika, you know?	「モニカちゃんに心配かけたくないし」
+「Good luck with that.」	「それはせいぜい頑張れよ」	Good luck with that.	「それはどうかな」
+「She's gonna see your forehead either way.」	「どうしても額は見られるんだし」	She's gonna see your forehead either way.	「どのみち額は見られるんだし」
+「Not if I hide it under my bangs~」	「前髪で隠しちゃえばいいもん～」	Not if I hide it under my bangs~	「前髪で隠しちゃえばいいも～ん」
+Sayori hops to her feet.	サヨリは突然飛び上がる。	Sayori hops to her feet.	サヨリは突然跳び上がる。
+「A-Aaahh--!」	「い、いたあぁぁぁ！！」	A-Aaahh--!	「い、いたあぁぁぁ！！」
+She clutches her forehead again.	そしてまた額を押さえてしまった。	She clutches her forehead again.	そしてまた額を押さえてしまった。
+「Don't stand up so fast after hurting yourself!」	「怪我した直後に急に立ち上がるな！」	Don't stand up so fast after hurting yourself!	「怪我した直後に急に立ち上がるな！」
+「Uuuu...」	「うう……」	Uuuu...	「うう……」
+「Well, I guess it's too late now...」	「まあ、時すでに遅しか……」	Well, I guess it's too late now...	「まあ、時すでに遅しか……」
+「Anyway, let's go.」	「とにかく行くぞ」	Anyway, let's go.	「とにかく行くぞ」
+I follow Sayori out of the classroom.	サヨリに付いて教室を後にした。	I follow Sayori out of the classroom.	サヨリを連れて教室を後にした。
+Sayori plays with her bangs to try to hide the bump, but without much success.	サヨリはどうにかたんこぶを隠そうと前髪をいじるが、あまり上手くいってない。	Sayori plays with her bangs to try to hide the bump, but without much success.	サヨリはどうにかたんこぶを隠そうと前髪をいじるが、あまりうまくいってない。
+In a moment, we make it back to the clubroom.	ほどなくして、俺たちは部室へと戻った。	In a moment, we make it back to the clubroom.	ほどなくして、俺たちは部室へと戻った。
+「Ah, you're back!」	「あっ、おかえりなさい！」	Ah, you're back!	「あっ、おかえりなさい！」
+「Good timing, I was just about ready to start with sharing our poems.」	「ちょうどよかったわ、今から詩を見せ合おうとしていたところだったの」	Good timing, I was just about ready to start with sharing our poems.	「ちょうどよかったわ、今から詩を見せ合おうとしていたところだったの」
+「Eh? Sayori, your forehead...」	「あら？ サヨリ、あなたおでこが……」	Eh? Sayori, your forehead...	「あら？ サヨリ、あなたおでこが……」
+「She's fine, don't worry about--」	「大丈夫だ、あまり気にしな――」	She's fine, don't worry about--	「大丈夫だ、あまり気にしな――」
+「I was playing with the crayons and smacked my forehead into the shelf!」	「クレヨンで遊んでたら棚におでこぶつけちゃった！」	I was playing with the crayons and smacked my forehead into the shelf!	「クレヨンで遊んでたら棚におでこぶつけちゃった！」
+「...」	「……」	...	「……」
+「...」	「……」	...	「……」
+「...Well, anyway!」	「……まあ、とにかく！」	...Well, anyway!	「……まあ、とにかく！」
+「Were you able to find everything we needed?」	「必要なものは全部見つかったかしら？」	Were you able to find everything we needed?	「必要なものは全部見つかったかしら？」
+「Uh-huh! I have it right--」	「うん！ ここにちゃんと――」	Uh-huh! I have it right--	「うん！ ここにちゃんと――」
+「...Eh?」	「……んっ？」	...Eh?	「……んっ？」
+Sayori frantically glances around herself.	サヨリが落ち着かない様子で身の回りを探す。	Sayori frantically glances around herself.	サヨリが慌てた様子で身の回りを探す。
+「I...forgot all of the stuff!!」	「が……画材全部置いてきちゃった！」	I...forgot all of the stuff!!	「が……画材全部置いてきちゃった！」
+「Calm down, Sayori.」	「落ち着けサヨリ」	Calm down, Sayori.	「落ち着け、サヨリ」
+「I have it all right here.」	「俺が全部持ってるから」	I have it all right here.	「俺が全部持ってるから」
+「I found the poster paper, too.」	「ポスター用紙も見つけておいたぞ」	I found the poster paper, too.	「ポスター用紙も見つけておいたぞ」
+「Ahaha!」	「ふふふっ」	Ahaha!	「あははっ！」
+「Sounds like you ended up doing all the work, [player].」	「もしかして[player]君が仕事を全部してくれたの？」	Sounds like you ended up doing all the work, [player].	「もしかして[player]君が全部やってくれたのかな？」
+「Ah, well, Sayori--」	「あ、いや、サヨリも――」	Ah, well, Sayori--	「あ、いや、サヨリも――」
+I fail to come up with an excuse for Sayori.	サヨリの言い訳が思いつかない。	I fail to come up with an excuse for Sayori.	うまい言いわけが思いつかない。
+「I made it an adventure!」	「わたしが冒険にしたんだよ！」	I made it an adventure!	「わたしは冒険してた！」
+「...Yeah, that.」	「……そう、それ」	...Yeah, that.	「……そう、それ」
+「Ahaha, okay, okay.」	「あはは！ 分かったわ」	Ahaha, okay, okay.	「あはは！ わかったわ」
+「In any case, good work!」	「何はともあれ、二人ともお疲れ様！」	In any case, good work!	「何はともあれ、二人ともおつかれさま！」
+「I'll start working on the posters tonight.」	「今夜、ポスター制作に取り掛かるわね」	I'll start working on the posters tonight.	「今夜、ポスター制作に取りかかるわね」
+「Me too!」	「わたしも！」	Me too!	「わたしも！」
+「...Okay, everyone!」	「……よし、みんな！」	...Okay, everyone!	「……よし、みんな！」
+「Are you ready to share your poems?」	「そろそろ詩を見せ合いましょうか？」	Are you ready to share your poems?	「そろそろ詩の見せ合いっこをしましょうか？」
+「Guess I should grab mine...」	「俺の取りに行かなきゃ……」	Guess I should grab mine...	「俺の取りに行かなきゃ……」
+After making sure the crayon box is closed tightly, I return to my seat.	クレヨンの箱がしっかり閉まっているのを確認し、俺は自分の席へ戻った。	After making sure the crayon box is closed tightly, I return to my seat.	クレヨンの箱がしっかり閉まっているのを確認し、俺は自分の席へ戻った。
