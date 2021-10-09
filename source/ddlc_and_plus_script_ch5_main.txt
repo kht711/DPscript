@@ -1,0 +1,164 @@
+It's the day of the festival.	今日はとうとう文化祭の日だ。	It's the day of the festival.	今日はとうとう文化祭の日だ。
+Of all days, I expected this to be the one where I'd be walking to school with Sayori.	今日こそはサヨリと一緒に学校に登校できるだろうと思っていた。	Of all days, I expected this to be the one where I'd be walking to school with Sayori.	今日こそはサヨリと一緒に学校に登校できるだろうと思っていた。
+But Sayori isn't answering her phone.	しかし、サヨリは電話には出ない。	But Sayori isn't answering her phone.	しかし、サヨリは電話に出ない。
+I considered going to her house to wake her up, but decided that's a little too much.	俺はサヨリを起こしに彼女の家に行くことも考えたが、それは少しやりすぎかと思い遠慮した。	I considered going to her house to wake her up, but decided that's a little too much.	サヨリを起こしに彼女の家に行くことも考えたが、それは少しやりすぎだろうと思いとどまった。
+Meanwhile, the preparations for the event should be nearly complete.	一方、文化祭の準備はほとんど出来ている。	Meanwhile, the preparations for the event should be nearly complete.	一方、文化祭の準備はほとんどできている。
+I managed to carry all the cupcakes myself by carefully stacking two trays.	なんとかトレイを重ねて慎重に運び、一人で全てのカップケーキを運ぶ。	I managed to carry all the cupcakes myself by carefully stacking two trays.	何とかトレイを重ねて慎重に運び、一人ですべてのカップケーキを運ぶ。
+Natsuki is already texting up a storm, but I can't respond, thanks to my hands being full.	ナツキからは何件もメッセージが届いているが、両手がふさがっていて返信できない。	Natsuki is already texting up a storm, but I can't respond, thanks to my hands being full.	ナツキからは何件もメッセージが届いているが、両手がふさがっていて返信できない。
+The banner Yuri and I painted is dry, and I gently rolled it up to take with me.	俺は昨日ユリと描いた横幕を丁寧に丸めて持って来た。	The banner Yuri and I painted is dry, and I gently rolled it up to take with me.	昨日ユリと描いた、すっかり乾いた横断幕を丁寧に丸めて持って来た。
+She sent me a pleasant text reminding me not to forget anything, and I reassured her.	ユリから何も忘れないように、と丁寧なメッセージが届いたので大丈夫だ、と送り返した。	She sent me a pleasant text reminding me not to forget anything, and I reassured her.	ユリから忘れ物のないように、と丁寧なメッセージが届いたので大丈夫だ、と送り返した。
+Funnily enough, I probably feel the same way as Natsuki about the event.	おかしなことに、俺はもしかすると文化祭についてナツキと同じ事を考えているのかもしれない。	Funnily enough, I probably feel the same way as Natsuki about the event.	おかしなことに、俺はもしかすると文化祭についてナツキと同じように考えているのかもしれない。
+I'm more excited for it to be over so I can spend time with Sayori and [ch4_name] at the festival.	どちらかと言えば、さっさと文芸部の方を終わらせてサヨリや[ch4_name!t]と一緒に文化祭を楽しみたいのだ。	I'm more excited for it to be over so I can spend time with Sayori and [ch4_name] at the festival.	どちらかと言えば、さっさと文芸部の方を終わらせてサヨリや[ch4_name]と一緒に文化祭を楽しみたいのだ。
+But knowing Monika, I'm sure the event will be great, too.	まあモニカのことだから、きっと文芸部の出し物も良いものなんだろうけど。	But knowing Monika, I'm sure the event will be great, too.	まあモニカのことだから、きっと文芸部の出し物も良いものなんだろうけど。
+「[player]!」	「[player]君！」	[player]!	「[player]君！」
+「You're the first one here.」	「あなたが一番乗りなのね」	You're the first one here.	「あなたが一番乗りね」
+「Thanks for being early!」	「早めに来てくれて嬉しいわ！」	Thanks for being early!	「早めに来てくれて、うれしいわ！」
+「That's funny, I thought at least Yuri would be here by now.」	「変だな、少なくともユリはもう来てると思ってたんだが」	That's funny, I thought at least Yuri would be here by now.	「変だな、少なくともユリはもう来てると思ってたんだが」
+Monika is placing little booklets on each of the desks in the classroom.	モニカは小冊子を教室の机１つ１つの上に並べている。	Monika is placing little booklets on each of the desks in the classroom.	モニカは小冊子を教室の机に一冊ずつ並べている。
+They must be the ones she prepared that have all the poems we're performing.	おそらく俺たちが発表する詩が載っているのだろう。	They must be the ones she prepared that have all the poems we're performing.	俺たちが発表する詩が載っているのだろう。
+In the end, I found a random poem online that I thought Monika would like, and submitted it.	結局、俺はモニカが好きそうな詩を適当にネットから見つけてきて、それを提出した。	In the end, I found a random poem online that I thought Monika would like, and submitted it.	結局、俺はモニカが好きそうな詩を適当にネットから見つけてきて、それを提出した。
+So, that's the one I'll be performing.	だから俺はそれを発表することになっている。	So, that's the one I'll be performing.	だから、俺はそれを発表することになっている。
+「I'm surprised you didn't bring Sayori with you.」	「サヨリと一緒に来ると思ってたんだけど意外ね」	I'm surprised you didn't bring Sayori with you.	「サヨリと一緒に来ると思ってたんだけど、意外ね」
+「Yeah, she overslept again...」	「ああ、あいつまた寝坊しちまって」	Yeah, she overslept again...	「ああ、あいつまた寝坊しちまって」
+「That dummy.」	「あのバカ」	That dummy.	「あのバカ」
+「You'd think that on days this important, she'd try a little harder...」	「今日は大事な文化祭の日なんだし、ちょっとは頑張ると思ったんだけどなあ……」	You'd think that on days this important, she'd try a little harder...	「今日は大事な文化祭の日なんだし、ちょっとはがんばると思ったんだけどなあ……」
+I say that, but I suddenly remember what Sayori told me yesterday...	そう口に出してすぐ、サヨリが昨日言っていたことを思い出した。	I say that, but I suddenly remember what Sayori told me yesterday...	そう口に出してすぐ、サヨリが昨日言っていたことを思い出した。
+And I suddenly feel awful, knowing it's not nearly that simple for her.	そして彼女にとってはそう単純な問題ではないことに気づき、ひどい罪悪感に苛まれる。	And I suddenly feel awful, knowing it's not nearly that simple for her.	そして彼女にとってはそう単純な問題ではないことに気づき、ひどい罪悪感に苛まれる。
+I only said it because it's the way I'm used to thinking.	俺はただいつもそういう風に捉えていたからそう発言してしまったのだ。	I only said it because it's the way I'm used to thinking.	ただ、俺はいつもそういう風に捉えていたから、そう発言してしまったのだ。
+But...	でも……	But...	「けど……」
+Maybe I should have gone to wake her up after all?	もしかしたら起こしに行った方が良かったのだろうか？	Maybe I should have gone to wake her up after all?	もしかしたら起こしに行った方が良かったのだろうか？
+「Ahaha.」	「ふふっ」	Ahaha.	「あははっ」
+「You should take a little responsibility for her, [player]!」	「[player]君はもうちょっと責任を持った方がいいかもしれないわ！」	You should take a little responsibility for her, [player]!	「[player]君はもうちょっと責任を持った方がいいかもしれないわ！」
+「I mean, especially after your exchange with her yesterday...」	「昨日あんなやり取りも交わしたばかりなのに……」	I mean, especially after your exchange with her yesterday...	「昨日あんなやり取りがあったばかりなのに……」
+「You kind of left her hanging this morning, you know?」	「今朝まであの子を宙ぶらりんにさせちゃって」	You kind of left her hanging this morning, you know?	「今朝まであの子を宙ぶらりんにさせちゃって」
+「Exchange...?」	「やり取り……？」	Exchange...?	「やり取り……？」
+「Monika-- You know about that??」	「モニカ――まさかお前知ってるのか？」	Monika-- You know about that??	「モニカ――まさかお前知ってるのか？」
+「Of course I do.」	「もちろんよ！」	Of course I do.	「もちろんよ！」
+「I'm the club president, after all.」	「なんてったってこの文芸部の部長なんだから」	I'm the club president, after all.	「何たってこの文芸部の部長なんだから」
+「But--!」	「で、でも――！」	But--!	「で、でも――！」
+I stammer, embarrassed.	恥ずかしくなって、言葉に詰まってしまう。	I stammer, embarrassed.	恥ずかしくなって、言葉に詰まってしまう。
+Did Sayori really tell her about it that quickly?	サヨリはもうモニカに言ったのか？	Did Sayori really tell her about it that quickly?	サヨリはもうモニカに言ったのか？
+That we're...a couple now?	俺たちが付き合い始めたことを……？	That we're...a couple now?	俺たちが付き合い始めたことを……？
+I didn't really plan on bringing it up with anyone yet...	俺はまだ、誰にも言うつもりなんか無かったのに……	I didn't really plan on bringing it up with anyone yet...	俺はまだ、誰にも言うつもりなんかなかったのに……
+About how I basically turned down her confession?	どうやって彼女を振ったのかも？	About how I basically turned down her confession?	どうやって彼女を振ったのかも？
+That makes me really seem like the bad guy here...	そうだとしたら俺はかなり悪い立場にいることになる。	That makes me really seem like the bad guy here...	そうだとしたら、俺の立場はかなり悪い。
+But I'm the one who knows what's best for her, right?	でもあいつにとって何が最善かは俺が一番知っているはずだ。	But I'm the one who knows what's best for her, right?	でも、あいつにとって何が最善かは俺が一番知っているはずだ。
+「Jeez...」	「えっと……」	Jeez...	「はあ……」
+「You don't know the full story at all, so...」	「それでも全部知ってるわけじゃないよな、なら……」	You don't know the full story at all, so...	「それでも全部知ってるわけじゃないよな、なら……」
+「Don't worry.」	「心配しないで」	Don't worry.	「心配しないで」
+「I probably know a lot more than you think.」	「あなたが思ってるより色々知ってるのよ？ 私」	I probably know a lot more than you think.	「あなたが思うより、いろいろ知ってるのよ？ 私」
+「Eh...?」	「えっ……？」	Eh...?	「え……？」
+Monika is being as friendly as usual, but for some reason I felt a chill down my spine after hearing that.	いつものように気さくなモニカだが、その言葉を聞いて何故か背筋が寒くなった。	Monika is being as friendly as usual, but for some reason I felt a chill down my spine after hearing that.	いつものように気さくなモニカだが、その言葉を聞いて何故か背筋が寒くなった。
+「Hey, do you want to check out the pamphlets?」	「ねえ、パンフレット確認しない？」	Hey, do you want to check out the pamphlets?	「ねえ、パンフレットを見てみない？」
+「They came out really nice!」	「とってもいい感じに仕上がったから！」	They came out really nice!	「とってもいい感じに仕上がったから！」
+「Yeah, sure.」	「ああ、そうするよ」	Yeah, sure.	「……そうね」
+I grab one of the pamphlets laid out on the desks.	机にある小冊子を一部取る。	I grab one of the pamphlets laid out on the desks.	机にある小冊子を一部取る。
+「Oh yeah, they really did.」	「ほんとだ、いい感じだ」	Oh yeah, they really did.	「ほんとだ、いい感じだ」
+「Something like this will definitely help people take the club more seriously.」	「これなら、みんなもっとこの部活のことを真剣に見てくれるだろうな」	Something like this will definitely help people take the club more seriously.	「これなら、みんなもっとこの部活のことを真剣に見てくれるだろうな」
+「Yeah, I thought so too!」	「ええ、私もそう思うわ！」	Yeah, I thought so too!	「ええ、私もそう思うわ！」
+I flip through the pages.	ページをぱらぱらとめくっていく。	I flip through the pages.	ページをぱらぱらとめくる。
+Each member's poem is neatly printed on its own page, giving it an almost professional feel.	それぞれのメンバーの詩が、まるでプロの仕事のような鮮やかさで印刷されている。	Each member's poem is neatly printed on its own page, giving it an almost professional feel.	それぞれのメンバーの詩が各ページに整然と印刷されていて、まるでプロの詩人が書いたみたいだ。
+I recognize Natsuki's and Yuri's poems from the ones they performed during our practice.	ナツキとユリの詩は、二人が練習の時に読んだものと同じみたいだ。	I recognize Natsuki's and Yuri's poems from the ones they performed during our practice.	ナツキとユリの詩は、二人が練習の時に読んだものと同じだった。
+「What's this...?」	「ん？ なんだこれ……」	What's this...?	「ん？ 何だ、これ……」
+I flip to Sayori's poem.	俺はサヨリのページを開いた。	I flip to Sayori's poem.	俺はサヨリのページを開いた。
+It's different from the one she practiced.	そこには彼女が練習で読んでいたものとは違う詩が載っていた。	It's different from the one she practiced.	そこには彼女が練習で読んでいたものとは違う詩が載っていた。
+It's one that I haven't read before...	それに俺が今まで読んだことのない……	It's one that I haven't read before...	俺が今まで読んだことのない詩……
+「Ah--」	「なっ――」	Ah--	「えっと……」
+What is this...?	これは何だ……？	What is this...?	これは何だ……？
+Reading the poem, I get a pit in my stomach.	この詩を読むと、とても胸がざわつく。	Reading the poem, I get a pit in my stomach.	この詩を読むと、胸がざわつく。
+「[player]?」	「[player]君？」	[player]?	「[player]君？」
+「What's wrong?」	「どうかしたの？」	What's wrong?	「どうかしたの？」
+「Ah, nothing...」	「いや、なんでも……」	Ah, nothing...	「あれ、何か……」
+This poem feels completely different from everything else Sayori's written.	この詩はどう考えても、いつものサヨリの詩と何もかも違っている。	This poem feels completely different from everything else Sayori's written.	いつものサヨリの詩とは何もかも違っている。
+But more than that...	だが、それよりも……	But more than that...	だが、それよりも……
+「I-I changed my mind!」	「ご、ごめん、ちょっと気が変わった」	I-I changed my mind!	「ご、ごめん、ちょっと気が変わった」
+「I'm going to go get Sayori, so...」	「やっぱりサヨリのこと迎えに行ってくるから……」	I'm going to go get Sayori, so...	「やっぱり、サヨリのこと、迎えに行ってくる……」
+「Ah--」	「あー……」	Ah--	「えっと……」
+「Well, alright!」	「分かったわ」	Well, alright!	「わかったわ」
+「Try not to take too long, okay?」	「あんまり遅くならないでね？」	Try not to take too long, okay?	「あんまり遅くならないでね？」
+I quickly leave the classroom.	俺は急いで教室から出た。	I quickly leave the classroom.	俺は急いで教室から出た。
+「Don't strain yourself~」	「無理しないでね～」	Don't strain yourself~	「無理しないでね～」
+Monika calls that out after me.	モニカが呼びかけるのが聞こえる。	Monika calls that out after me.	モニカが呼びかけるのが聞こえた。
+I quicken my pace.	どんどんペースを上げていく。	I quicken my pace.	足を速める。
+What was I thinking?	俺は何を考えていたんだ？	What was I thinking?	俺は何を考えていたんだ？
+I should have tried a little bit harder for Sayori.	もう少しサヨリのために頑張るべきだった。	I should have tried a little bit harder for Sayori.	もう少しサヨリのためにしてやるべきだった。
+It's not a big deal to at least wait for her, or help her wake up.	あいつを待つことや、朝起こしてやることなんて簡単なことじゃないか。	It's not a big deal to at least wait for her, or help her wake up.	簡単なことじゃないか。あいつを待てば良かった。朝起こしてやれば良かった。
+Even the simple gesture of walking her to school makes her really happy.	単に一緒に学校に行くだけでもサヨリは幸せになるのに。	Even the simple gesture of walking her to school makes her really happy.	ただ、一緒に学校に行くだけでもサヨリは幸せになれるのに。
+Besides...	しかも……	Besides...	「それに……」
+I told her yesterday that things will be the same as they always have been.	俺はつい昨日、いつも通りの日常を共に過ごすとあいつに言ったばかりじゃないか。	I told her yesterday that things will be the same as they always have been.	いつも通りの日常を共に過ごすと昨日あいつに言ったばかりじゃないか。
+That's all she needs, and what I want to give her.	彼女にはそれが必要で、俺もそうしてやりたかった。	That's all she needs, and what I want to give her.	彼女にはそれが必要で、俺もそうしてやりたかったんじゃないのか。
+I reach Sayori's house and knock on the door.	俺はサヨリの家に着いて、ドアをノックした。	I reach Sayori's house and knock on the door.	サヨリの家に着いた。ドアをノックする。
+I don't expect an answer, since she's not picking up her phone, either.	電話にも出ていないから、返事がないのも当然だろう。	I don't expect an answer, since she's not picking up her phone, either.	電話にも出ないんだ。ノックしても返事がないのは当然だろう。
+Like yesterday, I open the door and let myself in.	昨日のようにドアを開けて入った。	Like yesterday, I open the door and let myself in.	昨日のようにドアを開けて入った。
+「Sayori?」	「サヨリ？」	Sayori?	「サヨリ？」
+She really is a heavy sleeper...	あいつ、本当にぐっすり寝てるな……	She really is a heavy sleeper...	あいつ、本当にぐっすり寝てるな……
+I swallow.	唾を飲む。	I swallow.	思わず唾を飲み込む。
+I can't believe I ended up doing this after all.	こんな事をしている自分が信じられない。	I can't believe I ended up doing this after all.	こんなことまでしていいのか。
+Waking her up in her own house...	彼女の家に上がり込んで起こすとか……	Waking her up in her own house...	家に上がり込んで女の子を起こすとか……
+That really is something that a boyfriend would do, isn't it?	そんなのまさに彼氏のすることじゃないか。	That really is something that a boyfriend would do, isn't it?	そんなのまさに、彼氏のすることじゃないか。
+Isn't that more like something a boyfriend would do?	彼氏がするようなことじゃないか……？	Isn't that more like something a boyfriend would do?	そんなの、彼氏がするようなことじゃないか……？
+In any case...	なんにせよ……	In any case...	いや、いずれにせよ……
+It just feels right.	こうするのが正しい気がする。	It just feels right.	こうするのが正しい気がする。
+Outside Sayori's room, I knock on her door.	サヨリの部屋の前に着いた俺はドアをノックした。	Outside Sayori's room, I knock on her door.	サヨリの部屋の前に着いた俺はドアをノックした。
+「Sayori?」	「サヨリ？」	Sayori?	「サヨリ？」
+「Wake up, dummy...」	「早く起きろよ、ねぼすけ」	Wake up, dummy...	「早く起きろよ、ねぼすけ」
+There's no response.	反応は無い。	There's no response.	返事はない。
+I really didn't want to have to enter her room like this...	こんな感じであいつの部屋には入りたくなかったんだが……	I really didn't want to have to enter her room like this...	こんな風にあいつの部屋には入りたくなかったが……
+Isn't it kind of a breach of privacy?	なんだか、プライバシーの侵害みたいじゃないか？	Isn't it kind of a breach of privacy?	だって、プライバシーの侵害みたいじゃないか？
+But she really leaves me no choice.	でも他に選択はない。	But she really leaves me no choice.	でも他に選択肢はない。
+I gently open the door.	俺はゆっくりとドアを開ける。	I gently open the door.	俺はゆっくりとドアを開けた。
+「.......Sayo--」	「……サヨ	.......Sayo--	「……サヨ
+...	……	...	「……」
+What the hell...?	なんだよこれ……？	What the hell...?	何だよ、これ……？
+<i>What the hell??</i>	<i>なんなんだよこれ？？</i>	<i>What the hell??</i>	<i>何なんだよ、これ？？</i>
+Is this a nightmare?	これは悪夢なのか？	Is this a nightmare?	これは悪夢なのか？
+It...has to be.	そうに……そうに違いない。	It...has to be.	そう……そうに違いない。
+This isn't real.	こんなの現実じゃない。	This isn't real.	こんなの現実じゃない。
+There's no way this can be real.	こんなこと現実のはずがない。	There's no way this can be real.	こんなこと現実のはずがない。
+Sayori wouldn't do this.	サヨリがこんなことするわけない。	Sayori wouldn't do this.	サヨリがこんなことするわけない。
+Everything was normal up until a few days ago.	ほんの数日前まで、何もかもいつも通りだったじゃないか。	Everything was normal up until a few days ago.	ほんの数日前まで、何もかもいつも通りだったじゃないか。
+That's why I can't believe what my eyes are showing me...!	だからこそ、今目の前に広がってる光景が信じられない。	That's why I can't believe what my eyes are showing me...!	だからこそ、目の前の光景が信じられない。
+I suppress the urge to vomit.	吐きそうになるのを必死に堪える。	I suppress the urge to vomit.	吐きそうになるのを必死に堪える。
+Just yesterday...	つい昨日……	Just yesterday...	昨日……
+I told Sayori I would be there for her.	ずっと傍にいてやるって言ったばかりなのに。	I told Sayori I would be there for her.	ずっとそばにいてやるって言ったばかりなのに。
+I told her I know what's best, and that everything will be okay.	サヨリの望みはわかってるから何も問題ないって言ったばかりなのに。	I told her I know what's best, and that everything will be okay.	サヨリのことを一番理解してるのは俺だから何も問題ないって言ったばかりなのに。
+Then why...?	だったら何で……？	Then why...?	なのに、何で……？
+Why would she do this...?	何であいつはこんなことを……？	Why would she do this...?	何で、こんなことを……？
+How could I be so helpless?	なんて俺は無力なんだ？	How could I be so helpless?	俺は何て無力なんだ。
+What did I do wrong?	俺は何を間違えたんだ？	What did I do wrong?	「俺の何が悪かったって言うんだよ？」
+Confessing to her...	あいつに告白したこと……か？	Confessing to her...	あいつに告白したこと……か？
+I shouldn't have confessed to her.	俺は告白なんてするべきじゃなかったんだ。	I shouldn't have confessed to her.	告白なんてするべきじゃなかったんだ。
+That's not what Sayori needed at all.	あいつはそんなこと望んでなかった……	That's not what Sayori needed at all.	あいつはそんなこと望んでなかった……
+She even told me how painful it is for others to care about her.	他人から気にかけられる事がどれだけ苦しいか言ってたじゃないか！	She even told me how painful it is for others to care about her.	他人から気にかけられることが、どれだけ苦しいか言ってたじゃないか！
+Then why did I confess to her, and make her feel even worse?	じゃあなんで俺は、告白なんかしてあいつの心をさらに傷つけてしまったんだ？	Then why did I confess to her, and make her feel even worse?	それなのにどうして俺は、告白なんかしてあいつの心をさらに傷つけてしまったんだ？
+Turning down her confession...	告白を受け入れなかったこと……	Turning down her confession...	告白を受け入れなかったこと……か？
+That has to have been what pushed her over the edge.	それがあいつの心を壊してしまったんだ。	That has to have been what pushed her over the edge.	それがあいつを追い詰めてしまったんだ。
+Her agonized scream still echoes in my ears.	あいつの苦悶の叫びがいまだに耳の中に残る。	Her agonized scream still echoes in my ears.	あいつの苦悶の叫びが、今も耳の奥に響いている。
+Why did I do that to her when she needed me the most?	サヨリは本当に俺のことを必要としていたのに、なんであんな事をしてしまったんだ？	Why did I do that to her when she needed me the most?	サヨリは本当に俺のことを必要としていたのに、なんであんなことをしてしまったんだ？
+Why was I so selfish?	なんて俺は自分勝手だったんだ。	Why was I so selfish?	俺は、何て自分勝手だったんだ。
+This is my fault--!	全部俺のせいじゃないか……！	This is my fault--!	全部俺のせいじゃないか……！
+My swarming thoughts keep telling me everything I could have done to prevent this.	どうすればこんなことにならなかったのか。頭の中で思考が駆けめぐる。	My swarming thoughts keep telling me everything I could have done to prevent this.	どうすれば防げたのか。頭の中を思考が駆けめぐる。
+If I just spent more time with her.	もし、もっと一緒に過ごしていたら。	If I just spent more time with her.	もし、もっと一緒に過ごしていたら。
+Walked her to school.	一緒に学校に行っていれば。	Walked her to school.	一緒に学校に行っていれば。
+And remained friends with her, like it always has been...	そして、今までのようにあいつと友達のままだったら……	And remained friends with her, like it always has been...	そして、今までのようにあいつと友達のままだったら……
+And gave her what I know she wanted out of our relationship...	そして、あいつが二人の関係から期待していたことをしてあげられたなら。	And gave her what I know she wanted out of our relationship...	そして、俺たちの関係があいつの期待どおりになっていたら……
+...Then I could have prevented this.	……そうすればこんなことには……	...Then I could have prevented this.	……そうすればこんなことには……
+I know I could have prevented this!	こんなことにはならなかったはずだ！	I know I could have prevented this!	こんなことにはならなかったはずだ！
+Screw the Literature Club.	文芸部なんてもう知るか。	Screw the Literature Club.	文芸部なんて、もう知るか。
+Screw the festival.	文化祭なんてもう知るか。	Screw the festival.	文化祭なんて、もう知るか。
+I just...lost my best friend.	俺は今、一番の友達を失ったんだ。	I just...lost my best friend.	俺は今、一番の友達を失った。
+Someone I grew up with.	小さいころからずっと一緒だった友達を。	Someone I grew up with.	小さいころからずっと一緒だった友達。
+She's gone forever now.	サヨリは死んでしまったんだ。	She's gone forever now.	サヨリは死んでしまったんだ。
+Nothing I do can bring her back.	あいつを取り戻す方法なんて何もない。	Nothing I do can bring her back.	あいつを取り戻す方法なんてない。
+This isn't some game where I can reset and try something different.	ゲームのようにリセットしてやり直すなんてこともできやしないんだ。	This isn't some game where I can reset and try something different.	ゲームのようにリセットしてやり直すなんてこともできやしないんだ。
+I had only one chance, and I wasn't careful enough.	たった一度しかないチャンスだったのに、うかつだったんだ。	I had only one chance, and I wasn't careful enough.	たった一度しかないチャンスだったのに、うかつだった。
+And now I'll carry this guilt with me until I die.	そして死ぬまでこの罪を背負っていくんだ。	And now I'll carry this guilt with me until I die.	死ぬまでこの罪を背負っていくんだ。
+Nothing in my life is worth more than hers...	俺の人生なんかサヨリほどの価値はない……	Nothing in my life is worth more than hers...	俺の人生でサヨリ以上に価値があるものなんかない……
+But I still couldn't do what she needed from me.	でもあいつがして欲しかったことができなかった。	But I still couldn't do what she needed from me.	でもあいつが望むことをしてやれなかった。
+And now...	そして今……	And now...	そして今……
+I can never take it back.	もう取り戻すことはできない。	I can never take it back.	もう取り戻すことはできない。
+Never.	絶対に。	Never.	絶対に。
+Never.	絶対に。	Never.	絶対に。
+Never.	絶対に。	Never.	絶対に。
+Never.	絶対に。	Never.	絶対に。
+Never...	絶対に……	Never...	絶対に……
