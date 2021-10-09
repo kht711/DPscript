@@ -1,0 +1,178 @@
+「Okay, everyone!」	「よし、みんな！」	Okay, everyone!	「よし、みんな！」
+「We're all done reading each other's poems, right?」	「もうお互いの詩を読み終わったわよね？」	We're all done reading each other's poems, right?	「もうお互いの詩を読み終わったわよね？」
+「We have something we need to go over today, so if everyone could come sit at the front of the room...」	「今日はもうひとつやることがあるから、みんな部屋の前の方まで来てくれる？」	We have something we need to go over today, so if everyone could come sit at the front of the room...	「今日はもう一つやることがあるから、みんな部屋の前の方まで来てくれる？」
+「Is this about the festival?」	「文化祭に関係あること？」	Is this about the festival?	「文化祭に関係あること？」
+「Well, sort of~」	「ええ、まあね」	Well, sort of~	「ええ、まあね」
+「Ugh. Do we really have to do something for the festival?」	「うう……本当に文化祭で何かしなきゃいけないわけ？」	Ugh. Do we really have to do something for the festival?	「うう……本当に文化祭で何かしなきゃいけないわけ？」
+「It's not like we can put together anything good in just a few days.」	「あと数日しかないのに何かやろうとしたって、何もできっこないわよ」	It's not like we can put together anything good in just a few days.	「あと数日しかないのに何かやろうとしたって、できっこないわよ」
+「We'll just end up embarrassing ourselves instead of getting any new members.」	「新入部員も入ってこない上に恥をかくだけよ」	We'll just end up embarrassing ourselves instead of getting any new members.	「新入部員も入ってこない上に恥をかくだけよ」
+「That's a concern of mine as well.」	「私も心配です」	That's a concern of mine as well.	「私も心配です」
+「I don't really do well with last-minute preparations...」	「あまり時間がない状況で準備するなんて、うまくやれないですし……」	I don't really do well with last-minute preparations...	「あまり時間がない状況で準備するなんて、うまく行くかどうか……」
+「Don't worry so much!」	「そんなに心配しないで！」	Don't worry so much!	「心配しないで！」
+「We're going to keep it simple, okay?」	「簡単なことにするから、ね？」	We're going to keep it simple, okay?	「簡単なことにするから、ね？」
+「Look...」	「みんな、聞いて……」	Look...	「ねえ……」
+「I know everyone's been a little more...lively...ever since [player] joined and we've started with some club activities.」	「[player]君が入部して、新しい活動を始めてからみんなも……活発、にはなってきたわ」	I know everyone's been a little more...lively...ever since [player] joined and we've started with some club activities.	「[player]君が入部して新しい活動を始めてから、みんなも……活発、にはなってきたわ」
+「But this isn't the time for us to become complacent.」	「でもこれで満足してしまうにはまだ早いわ」	But this isn't the time for us to become complacent.	「でも、これで満足してはいけないわ」
+「We still only have four members...」	「この部には未だに４人しかいない……」	We still only have four members...	「この部は、いまだに４人しかいない……」
+「And the festival is our only real chance to find more, you know?」	「そして文化祭こそが私たちにとってもっと部員を獲得する唯一のチャンスなのよ」	And the festival is our only real chance to find more, you know?	「そして文化祭こそが、私たちにとって部員を獲得する唯一のチャンスなのよ」
+「What's so great about getting new members, anyway?」	「新しく部員が入ってくるってそんなにいいことかしらね？」	What's so great about getting new members, anyway?	「新しく部員が入ってくるって、そんなにいいことかしらね？」
+「We already have enough to be considered an official club.」	「正式な部として認められるだけの人数は満たしてるんだし」	We already have enough to be considered an official club.	「正式な部として認められるだけの人数は満たしてるんだし」
+「More members will just mean everything gets noisier and more difficult to manage.」	「部員が増えたところで騒がしくなって面倒が増えるだけよ」	More members will just mean everything gets noisier and more difficult to manage.	「部員が増えたところで騒がしくなって面倒が増えるだけよ」
+「Natsuki...」	「ナツキ……」	Natsuki...	「ナツキ……」
+「I don't think you're looking at it the right way at all.」	「そういうことじゃないのよ」	I don't think you're looking at it the right way at all.	「そういうことじゃないのよ」
+「Don't you want to share your passion with as many people as you can?」	「あなたの内にある情熱をできるだけ多くの人たちにも知ってもらいたくないかしら？」	Don't you want to share your passion with as many people as you can?	「あなたの内にある情熱を、できるだけ多くの人たちにも知ってもらいたくないかしら？」
+「To inspire them to find the same feelings that brought you here in the first place?」	「私たちを文芸部へと導いたこの気持ちをその人たちにも見つけてほしいとは思わない？」	To inspire them to find the same feelings that brought you here in the first place?	「私たちを文芸部へと導いたこの気持ちを、その人たちにも見つけてほしいとは思わない？」
+「The Literature Club should be a place where people can express themselves like they can't do anywhere else.」	「文芸部は他のどの場所でもできない、自分自身を表現することができる場所でなければいけないのよ」	The Literature Club should be a place where people can express themselves like they can't do anywhere else.	「文芸部は他のどの場所でもできない、自分自身を表現できる場でなければいけないのよ」
+「It should be a place so intimate that you never want to leave.」	「そこを離れたくないような居心地のいい場所でなければいけないのよ」	It should be a place so intimate that you never want to leave.	「そこを離れたくないような、居心地のいい場所であるべきなの」
+「I know you feel that way, too.」	「あなたもそう思っているはず」	I know you feel that way, too.	「あなたもそう思っているはず」
+「I know we all do!」	「私たちみんな、そう思っているはず！」	I know we all do!	「私たちみんな、そう思っているはず！」
+「So that's why we should work hard and put something together for the festival...even if it's something small!」	「だから文化祭のためにみんなで何かをやらないと……たとえそれが小さなものであってもね」	So that's why we should work hard and put something together for the festival...even if it's something small!	「だから文化祭のためにみんなでがんばりましょう……例えそれが小さなものであってもね！」
+「Right, [player]?」	「でしょ、[player]君？」	Right, [player]?	「でしょ、[player]君？」
+「Ah...」	「ああ……」	Ah...	「あのね……」
+「Oh, come on!」	「ちょっと！」	Oh, come on!	「ちょっと！」
+「You can't take advantage of [player] to agree with you just because he doesn't know how to say no to anything.」	「[player]が嫌だって言えないことを利用するのはやめなさいよ」	You can't take advantage of [player] to agree with you just because he doesn't know how to say no to anything.	「[player]が嫌だって言えないことを利用するのは止めなさいよ」
+「Look, Monika.」	「ねえ、モニカ」	Look, Monika.	「ねえ、モニカ」
+「Do you really think any of us here joined the club with other people in mind?」	「わたしたちがここに入部するときに、他人のことを考えてたなんて本当に思ってるの？」	Do you really think any of us here joined the club with other people in mind?	「アタシたちがここに入部するとき、他人のことを考えてたなんて本当に思ってるの？」
+「Yuri never even talked until [player] joined.」	「ユリは[player]が部に入るまで誰かとお喋りすることなんてなかったのよ」	Yuri never even talked until [player] joined.	「ユリは[player]が部に入るまで、誰かとおしゃべりすることなんてなかったのよ」
+「As for me, I just like it better here than I do at home.」	「わたしは、家にいるよりはこっちの方がまだマシなだけ」	As for me, I just like it better here than I do at home.	「アタシは、家にいるよりはこっちの方がまだマシなだけ」
+「And [player] isn't even passionate about literature in the first place.」	「[player]なんて最初は文学への興味すら無かったし」	And [player] isn't even passionate about literature in the first place.	「[player]なんて、最初は文学への興味すらなかったし」
+「And that's everyone.」	「みんなこんな感じよ」	And that's everyone.	「みんな、そんななのよ」
+「Sorry, but you're really the only one who's so interested in finding new members.」	「悪いけど、新入部員を見つけようとしてるのはあんた一人だけよ」	Sorry, but you're really the only one who's so interested in finding new members.	「悪いけど、新入部員を見つけようとしてるのはアンタ一人だけよ」
+「The rest of us are fine like this.」	「わたしたちは現状のままでいいと思ってる」	The rest of us are fine like this.	「アタシたちは今のままでいいと思ってる」
+「I know you're President and all, but you should really consider our opinions for once.」	「いくらあんたが部長だっていっても、わたしたちの意見もちょっとは聞いてよ」	I know you're President and all, but you should really consider our opinions for once.	「いくらアンタが部長だって言っても、ちょっとはアタシたちの意見を聞いてよ」
+「...」	「……」	...	「……」
+Monika is clearly taken aback by Natsuki's words.	モニカはナツキの言葉に明らかに圧倒されている。	Monika is clearly taken aback by Natsuki's words.	モニカはナツキの言葉に明らかに圧倒されている。
+「That's...not true at all.」	「それは……違うわ」	That's...not true at all.	「それは……違うわ」
+「I'm sure Yuri and [player] want to get more members too...」	「ユリも[player]君も部員がもっと増えてほしいと思っているはず……」	I'm sure Yuri and [player] want to get more members too...	「ユリも[player]君も、部員がもっと増えてほしいと思っているはず……」
+「...Right?」	「……そうでしょう？」	...Right?	「……でしょ？」
+「...」	「……」	...	「……」
+「...」	「……」	...	「……」
+I don't know about Yuri, but I'm kind of indifferent.	ユリの気持ちはわからないが、俺に関して言えばそれについては関心がない。	I don't know about Yuri, but I'm kind of indifferent.	ユリの気持ちはわからないが、俺に関して言えばそれについては関心がない。
+If I showed as much enthusiasm as Monika wanted, then I would probably be lying.	モニカが期待しているほど俺が部員獲得に熱心だと言えば、それは嘘になる。	If I showed as much enthusiasm as Monika wanted, then I would probably be lying.	モニカが期待しているほど俺が部員獲得に熱心だと言えば、それは嘘になる。
+Still, if it's up to me to rescue this situation...	それでも、この状況をなんとかしなければいけないだろう……	Still, if it's up to me to rescue this situation...	それでも、この状況を何とかしなければいけないだろう……
+「Um--」	「その……」	Um--	「ええと――」
+「No.」	「いえ」	No.	「いえ」
+「Natsuki's right, isn't she?」	「ナツキの言うことの方が正しいのよね」	Natsuki's right, isn't she?	「ナツキの言うことの方が正しいのよね」
+「This club...」	「この部活は……」	This club...	「この部活は……」
+「It's nothing more than a place for a few people to hang out.」	「少ない人数で楽しくやる以上のことをするような場所じゃなかった」	It's nothing more than a place for a few people to hang out.	「少ない人数で楽しくやる以上のことをするような場所じゃなかった」
+「Why did I think that everyone here saw it the same way as I did?」	「どうして私、みんなが同じ思いだなんて考えちゃったのかしら？」	Why did I think that everyone here saw it the same way as I did?	「どうして私、みんなが同じ思いだなんて考えちゃったのかしら？」
+「But that doesn't mean that we're against getting new members or anything...」	「だからといって俺たちが新入部員を集めることに反対なわけじゃ……」	But that doesn't mean that we're against getting new members or anything...	「だからといって俺たちが新入部員を集めることに反対なわけじゃ……」
+「[player], why did you even join this club?」	「[player]君、どうしてこの部活に入ってくれたの？」	[player], why did you even join this club?	「[player]君、どうしてこの部活に入ってくれたの？」
+「What were you hoping to get out of it?」	「入部することで何を手に入れようと思っていたの？」	What were you hoping to get out of it?	「入部することで何を手に入れようと思っていたの？」
+「Well--」	「えっと……」	Well--	「それは――」
+That's not really something I can be honest about, is it?	これは正直に答えてしまっていい質問ではないだろう。	That's not really something I can be honest about, is it?	これは正直に答えてしまっていい質問ではないだろう。
+「In fact...」	「いえ……」	In fact...	「いえ……」
+「If I remember, you weren't even given a choice not to join.」	「あなたに入部しないという選択肢は無かったわよね」	If I remember, you weren't even given a choice not to join.	「あなたには、入部しないという選択肢はなかったわよね」
+Monika sits down and stares at her desk.	モニカは椅子に座り込み机を見つめる。	Monika sits down and stares at her desk.	モニカは椅子に座り込み、机を見つめる。
+「What's the point of all this, anyway?」	「こんなことして何になるの？」	What's the point of all this, anyway?	「こんなことして何になるの？」
+「What if starting this club was a mistake?」	「この部活を始めたのも間違いだったのかしら？」	What if starting this club was a mistake?	「この部活を始めたのも間違いだったのかしら？」
+「...」	「……」	...	「……」
+「Now you've done it, Natsuki...」	「やってしまいましたね、ナツキちゃん……」	Now you've done it, Natsuki...	「やってしまいましたね、ナツキちゃん……」
+「What, me?」	「なに、わたしのせい？」	What, me?	「何、アタシのせい？」
+「I just spoke my mind...」	「わたしはただ自分の思っていることを言っただけよ……」	I just spoke my mind...	「アタシはただ、自分の思っていることを言っただけよ……」
+「Is it a crime to be honest?」	「正直なことが悪いって言うの？」	Is it a crime to be honest?	「正直なのが悪いって言うの？」
+「It's not about being honest.」	「そういうわけではありませんが」	It's not about being honest.	「そういうわけではありませんが」
+「It's about word choice.」	「言い方というものがあるでしょう」	It's about word choice.	「言い方というものがあるでしょう」
+「Besides, you have no right to speak for everyone else in the club like that...」	「それに、ああいう風に他の部員を代表しているかのように話す権利はあなたにはありませんし……」	Besides, you have no right to speak for everyone else in the club like that...	「それに、ああいう風に他の部員を代表しているかのように話す権利はあなたにはありませんし……」
+「You don't understand at all!」	「あんた何も分かってないのね！」	You don't understand at all!	「アンタ、何もわかってないのね！」
+「I just...」	「わたしはただ……」	I just...	「アタシはただ……」
+「I just want a place that feels nice to hang out with a few friends.」	「わたしはただ、何人かの友達と楽しく過ごせる場所が欲しいだけ」	I just want a place that feels nice to hang out with a few friends.	「アタシはただ、何人かの友達と楽しく過ごせる場所がほしいだけ」
+「Is there a problem with the club being that for me?」	「文芸部がわたしにとって居心地のいい場所で何が悪いのよ？」	Is there a problem with the club being that for me?	「文芸部がアタシにとって居心地のいい場所で何が悪いのよ？」
+「There aren't...there aren't many other places like that for me...」	「こういう場所は……こういう場所は、わたしには他にいくつも無いの……」	There aren't...there aren't many other places like that for me...	「こういう場所は……こういう場所は、アタシには他に……」
+「And now Monika wants to take it away from me!」	「それをモニカがわたしから取り上げようとしてるのよ！」	And now Monika wants to take it away from me!	「それをモニカが取り上げようとしてるのよ！」
+「She's not taking anything away--」	「取り上げるだなんて、そんな――」	She's not taking anything away--	「取り上げるだなんて、そんな――」
+「No, [player].」	「違うわ、[player]」	No, [player].	「違うわ、[player]」
+「It's not the same.」	「今まで通りにはいかない」	It's not the same.	「今まで通りじゃなくなる」
+「It won't be the same with the direction she wants to take it.」	「モニカの方向性じゃこの部は変わってしまうわ」	It won't be the same with the direction she wants to take it.	「モニカの方向性じゃ、この部は変わってしまうわ」
+「If I wanted that, then I could have just joined any other stupid club.」	「そうなるなら最初から他のくだらない部活に入部してたって同じだったもの」	If I wanted that, then I could have just joined any other stupid club.	「それなら、最初から他のくだらない部活に入部してたわ」
+「But this one...」	「それでもここに……」	But this one...	「それでもここが……」
+「I mean...」	「こだわるのは……」	I mean...	「ここが……」
+「At least for a little bit of time...」	「ほんの短い間だったけど、ここが……」	At least for a little bit of time...	「ほんの短い間だったけど……」
+「Things were nice.」	「楽しかったから」	Things were nice.	「楽しかったのに」
+Natsuki starts packing up her things.	ナツキは荷物をまとめ始める。	Natsuki starts packing up her things.	ナツキは荷物をまとめ始める。
+「I'm going home.」	「帰るわ」	I'm going home.	「帰るわ」
+「I feel like...I don't belong here right now.」	「今は……ここにはいたくない」	I feel like...I don't belong here right now.	「今は……ここに、いたくない」
+「Natsuki...」	「ナツキちゃん……」	Natsuki...	「ナツキちゃん……」
+Natsuki ignores Yuri and walks right out of the classroom.	ナツキはユリを無視し教室の外へ出ていった。	Natsuki ignores Yuri and walks right out of the classroom.	ナツキはユリを無視し教室の外へ出ていった。
+「...」	「……」	...	「……」
+「This is bad...」	「困りましたね……」	This is bad...	「困りましたね……」
+「I don't know what to do...」	「どうすればいいんでしょうか……」	I don't know what to do...	「どうすればいいんでしょうか……」
+「Well...」	「うーん……」	Well...	「今度は……」
+「Do you have an opinion on the festival?」	「ユリは文化祭についてどう思ってるんだ？」	Do you have an opinion on the festival?	「ユリは文化祭についてどう思ってるんだ？」
+「I-I don't know...」	「ま、まだ不確かですが……」	I-I don't know...	「よ、よくわからない……」
+「I'm kind of indifferent, I guess...」	「多分、私も同じ意見だと思います……」	I'm kind of indifferent, I guess...	「たぶん、私も同じ意見だと思います……」
+「Who cares about that obnoxious brat?」	「あの目障りなクソガキなんてどうでもいいでしょう？」	Who cares about that obnoxious brat?	「あの目障りなクソガキなんて、どうでもいいでしょう？」
+「I mean, I like how nice and quiet the club is right now...」	「今の静かで心地よい文芸部が気に入っているというか……」	I mean, I like how nice and quiet the club is right now...	「今の静かで心地よい文芸部が気に入っているというか……」
+「And I'm just...happy with you here...」	「私はあなたと過ごしていられれば……それでいいですし……」	And I'm just...happy with you here...	「私はあなたと過ごしていられれば……それでいいですし……」
+「But still!」	「しかし！」	But still!	「しかし！」
+「I'm the Vice President...」	「私は副部長ですから……」	I'm the Vice President...	「私は副部長ですから……」
+「It's not right for me to ignore my responsibilities like that...」	「その責任は果たさなければなりません……」	It's not right for me to ignore my responsibilities like that...	「その責任は果たさなければなりません……」
+「Nobody would cry if she killed herself.」	「あれがたとえ自殺したって誰も悲しみませんよ」	Nobody would cry if she killed herself.	「例え、あれが自殺したところで誰も悲しまない」
+「I should do my best to consider everyone's perspective and make the decision that's right for the club.」	「部員全員の思いを考慮して、文芸部にとって正しい決定を下すように努力しなければ」	I should do my best to consider everyone's perspective and make the decision that's right for the club.	「部員全員の思いを考慮して、文芸部にとって正しい決定を下すように努力しなければ」
+「But what about you, [player]?」	「[player]さんはどうですか？」	But what about you, [player]?	「[player]さんはどうですか？」
+「What do you want to get out of this club?」	「あなたはこの部活から何を手に入れたいと考えているんですか？」	What do you want to get out of this club?	「あなたはこの部活で何を手に入れたいと考えているんですか？」
+Yuri repeats the same question as Monika.	ユリは先ほどのモニカと同じ問いを投げかけてくる。	Yuri repeats the same question as Monika.	ユリは先ほどのモニカと同じ問いを投げかけてくる。
+I decide giving an indirect answer is better than nothing.	曖昧な答えでも何も言わないよりかはマシだろう。	I decide giving an indirect answer is better than nothing.	曖昧な答えでも何も言わないよりかはマシだろう。
+「...I think the most important thing is for everyone to get along...」	「……一番大切なことはみんなが仲良くやっていけることで……」	...I think the most important thing is for everyone to get along...	「……一番大切なことはみんなが仲良くやっていけることで……」
+「...And for the club to provide something that you can't get anywhere else.」	「……あと、文芸部が何か特別なものを与えられるようにすることだと思う」	...And for the club to provide something that you can't get anywhere else.	「……あと、文芸部が何か特別なものを与えられるようにすることだと思う」
+「I don't think it's about how many members, but rather the quality of each member.」	「大事なのは部員の数というより、それぞれの部員が持つ特色だ」	I don't think it's about how many members, but rather the quality of each member.	「大事なのは部員の数というより、それぞれの部員が持つ特色だ」
+「That's what will end up making the Literature Club a special place.」	「それが文芸部が特別な場所になるってことなんじゃないかな」	That's what will end up making the Literature Club a special place.	「それが文芸部が特別な場所になるってことなんじゃないかな」
+「I see...」	「なるほど……」	I see...	「そうか……」
+「I really agree with you.」	「あなたに心の底から同意します」	I really agree with you.	「あなたに、心の底から同意します」
+「Each member contributes their own qualities in a special way.」	「それぞれの部員がそれぞれの特色で貢献する」	Each member contributes their own qualities in a special way.	「それぞれの部員がそれぞれの特色で貢献する」
+「With each change in members, the identity of the club as a whole will change, too.」	「部員が変われば部の持つ特色もまた変わる」	With each change in members, the identity of the club as a whole will change, too.	「部員が変われば、部の持つ特色もまた変わる」
+「I don't think that's necessarily a bad thing.」	「それは必ずしも悪いことではないと思います」	I don't think that's necessarily a bad thing.	「それは必ずしも悪いことではないと思います」
+「Stepping out of your comfort zone once in a while...」	「時には心地よい安寧からも外へ踏み出してみなければ……」	Stepping out of your comfort zone once in a while...	「時には心地よい安寧からも外へ踏み出してみなければ……」
+「So if you would like to help Monika with the festival, then I'm on your side as well.」	「もしあなたが文化祭のことでモニカちゃんを手伝いたいなら、私はあなたに味方します」	So if you would like to help Monika with the festival, then I'm on your side as well.	「もしあなたが文化祭のことでモニカちゃんを手伝いたいなら、私はあなたに味方します」
+「Alright.」	「そうだな」	Alright.	「わかった」
+「Well, maybe we can all talk to Natsuki tomorrow...」	「明日ナツキともこういう話ができるといいけど……」	Well, maybe we can all talk to Natsuki tomorrow...	「明日ナツキともこういう話ができるといいけど……」
+Yuri nods.	ユリは頷く。	Yuri nods.	ユリはうなずく。
+「Hey, Yuri...」	「ねえ、ユリ……」	Hey, Yuri...	「ねえ、ユリ……」
+「Eh?」	「え？」	Eh?	「えっ？」
+「Um, I know things were a little awkward yesterday...」	「その、昨日あんなことはあったけど……」	Um, I know things were a little awkward yesterday...	「その、昨日あんなことはあったけど……」
+「But I feel like you deserve to know that I still think you're a wonderful vice president.」	「あなたは今でも素晴らしい副部長だっていうことを言っておきたいの」	But I feel like you deserve to know that I still think you're a wonderful vice president.	「あなたは今でも素晴らしい副部長だっていうことは伝えておきたいの」
+「And also, a wonderful friend.」	「それに、友達としてもね」	And also, a wonderful friend.	「それに、友達としてもね」
+「M-Monika...」	「モ、モニカちゃん……」	M-Monika...	「モ、モニカちゃん……」
+「I want to do everything I can to make this the best club ever.」	「私、この部を良くするために出来ることは全てやりたいの」	I want to do everything I can to make this the best club ever.	「私、この部を良くするためにできることは、すべてやりたいの」
+「Okay?」	「分かってくれる？」	Okay?	「わかってくれる？」
+「...Me too.」	「……私もです」	...Me too.	「……私もです」
+「Yeah...」	「うん……」	Yeah...	よし……
+「Let's all go home for today.」	「今日はもうみんな帰りましょうか」	Let's all go home for today.	「今日はもうみんな帰りましょうか」
+「We'll talk about the festival tomorrow.」	「文化祭については明日話しましょう」	We'll talk about the festival tomorrow.	「文化祭については明日話しましょう」
+「Okay.」	「はい」	Okay.	「わかりました」
+「I look forward to it.」	「楽しみにしています」	I look forward to it.	「楽しみにしています」,Must
+「Shall we go, [player]?」	「行きましょうか、[player]さん」	Shall we go, [player]?	「行きましょうか、[player]さん」
+「Um--」	「あっ……」	Um--	「ねえ――」
+「Please don't take this the wrong way, but...」	「変な意味に取らないでほしいんだけど……」	Please don't take this the wrong way, but...	「変な意味に取らないでほしいんだけど……」
+「I'm going to chat a little bit with [player] before we leave.」	「帰る前に少し[player]君と話がしたいの」	I'm going to chat a little bit with [player] before we leave.	「帰る前に少し[player]君と話がしたいの」
+「Just to see what he thinks of his time here and all that...」	「ここで過ごす時間についてどう考えているか、とか……」	Just to see what he thinks of his time here and all that...	「ここで過ごす時間についてどう考えているか、とか……」
+「It's important to me, as President.」	「部長として、聞いておかないといけないから」	It's important to me, as President.	「部長として、聞いておかないといけないから」
+「...」	「……」	...	「……」
+Yuri looks a little troubled, but she doesn't protest.	ユリは少し困っている様子を見せるが、異を唱えることはしない。	Yuri looks a little troubled, but she doesn't protest.	ユリは少し困っている様子を見せるが、異を唱えることはしない。
+「Okay.」	「分かりました」	Okay.	「わかりました」
+「I trust your judgment, Monika.」	「あなたの判断を信じます、モニカちゃん」	I trust your judgment, Monika.	「あなたの判断を信じます、モニカちゃん」
+「In that case, I'll see the two of you tomorrow.」	「それではお二人とも、また明日」	In that case, I'll see the two of you tomorrow.	「それではお二人とも、また明日」
+「See you tomorrow~」	「また明日ね～」	See you tomorrow~	「また明日ね～」
+Monika waves as Yuri exits the classroom.	モニカは教室を出ていくユリに向かって手を振る。	Monika waves as Yuri exits the classroom.	モニカは教室を出ていくユリに向かって手を振る。
+「Phew...」	「ふぅ……」	Phew...	「ふぅ……」
+「Things have been a bit hectic lately, haven't they?」	「最近はいろいろ目まぐるしいわね」	Things have been a bit hectic lately, haven't they?	「最近はいろいろ目まぐるしいわね」
+「[player], I just wanted to make sure you're enjoying your time at this club.」	「[player]君に残ってもらったのは、ただこの部活で楽しめているかどうかを確認したかっただけ」	[player], I just wanted to make sure you're enjoying your time at this club.	「[player]君に残ってもらったのは、この部活で楽しめているかどうかを確認したかっただけ」
+「I would really hate to see you unhappy.」	「あなたがつまらなさそうにしているなんて耐えられないもの」	I would really hate to see you unhappy.	「あなたがつまらなさそうにしているなんて耐えられないもの」
+「I feel kind of like I'm responsible for that, as President...」	「部長として、責任を感じるわ……」	I feel kind of like I'm responsible for that, as President...	「部長として、責任を感じるというか……」
+「And I really do care about you...you know?」	「私、あなたを本当に気に掛けているのよ？」	And I really do care about you...you know?	「私、あなたを本当に気にかけているのよ？」
+「I don't like seeing the other girls give you a hard time.」	「あの二人があなたに手を焼かせるのは見てられないわ」	I don't like seeing the other girls give you a hard time.	「あの二人があなたに手を焼かせるのは見てられないわ」
+「With how mean Natsuki is and everything...」	「ナツキは色々困らせてくれるし……」	With how mean Natsuki is and everything...	「ナツキはいろいろ困らせてくれるし……」
+「And Yuri being a little bit...you know.」	「ユリもちょっと……ね」	And Yuri being a little bit...you know.	「ユリもちょっと……ね」
+「Ahaha...」	「あはは……」	Ahaha...	「そうだな……」
+「Sometimes it feels like you and I are the only real people here.」	「時々、ここではあなたと私だけが実在の人物だと思うことがあるわ」	Sometimes it feels like you and I are the only real people here.	「時々、ここではあなたと私だけが実在の人物だと思うことがあるわ」
+「You know what I mean?」	「この言葉の意味、分かる？」	You know what I mean?	「この言葉の意味、わかる？」
+「But it's weird, because in all the time you've been here, we've hardly gotten to spend any time together.」	「でも変な話よね、あなたはいつもここにいるのに、一緒に過ごす時間があまり無いなんて」	But it's weird, because in all the time you've been here, we've hardly gotten to spend any time together.	「でも変な話よね、あなたはいつもここにいるのに、一緒に過ごす時間があまりないなんて」
+「Ah...I mean...」	「えーと……つまり……」	Ah...I mean...	「えーと……つまり……」
+「I guess it's technically only been a couple days...」	「厳密に言えばまだ数日しか経ってないだろうけど……」	I guess it's technically only been a couple days...	「厳密に言えば、まだ数日しか経ってないだろうけど……」
+「Sorry, I didn't mean to say something weird!」	「ごめんなさい、変なことを言うつもりはなかったのよ！」	Sorry, I didn't mean to say something weird!	「ごめんなさい、変なことを言うつもりはなかったのよ！」
+「There are just some things I've been hoping to talk about with you...」	「あなたと話したいことがいくつかあるの……」	There are just some things I've been hoping to talk about with you...	「あなたと話したいことがいくつかあるの……」
+「Things I know only you could understand.」	「あなたにだけ理解してもらえることよ」	Things I know only you could understand.	「あなたにだけ理解してもらえることよ」
+「So that's why--」	「だから……」	So that's why--	「だから……」
+「Wait, not yet!」	「待って、まだ！」	Wait, not yet!	「待って、まだ！」
+「No!」	「だめ！」	No!	「えっ！？」
+「Stop it!」	「止まって！」	Stop it!	「お願い、待って！」

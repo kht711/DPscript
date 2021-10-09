@@ -1,0 +1,58 @@
+「Hi again, [player]!」	「[player]君、今日も来たのね！」	Hi again, [player]!	「[player]君、今日も来たのね！」
+「Glad to see you didn't run away on us. Hahaha!」	「すっぽかされなくて良かったわ、あははっ！」	Glad to see you didn't run away on us. Hahaha!	「すっぽかされなくて良かったわ、あははっ！」
+「Nah, don't worry.」	「いや、そんな心配するなって」	Nah, don't worry.	「いや、そんな心配するなって」
+「This might be a little strange for me, but I at least keep my word.」	「意外かも知れないが、これでも俺は約束だけは守るタイプなんだ」	This might be a little strange for me, but I at least keep my word.	「意外かもしれないけど、約束だけは守るタイプなんだ」
+Well, I'm back at the Literature Club.	そんなこんなで、俺は文芸部へ戻って来た。	Well, I'm back at the Literature Club.	そんなこんなで、俺は文芸部へ再びやってきた。
+I was the last to come in, so everyone else is already hanging out.	俺が最後に来たようで、他のみんなはとっくにのんびりとしていた。	I was the last to come in, so everyone else is already hanging out.	俺が最後に来たようで、他のみんなはとっくに到着して、のんびりしていた。
+「Thanks for keeping your promise, [player].」	「約束を守っていただいてありがとうございます、[player]さん」	Thanks for keeping your promise, [player].	「約束を守ってくださってありがとうございます、[player]さん」
+「I hope this isn't too overwhelming of a commitment for you.」	「あなたに気苦労を負わせていないと良いのですが」	I hope this isn't too overwhelming of a commitment for you.	「あなたに心労を負わせていないと良いのですが」
+「Making you dive headfirst into literature when you're not accustomed to it...」	「馴染みがない文学の世界に突然飛び込ませているようなものなので……」	Making you dive headfirst into literature when you're not accustomed to it...	「馴染みがない文芸の世界に、突然飛び込ませているようなものなので……」
+「Oh, come on! Like he deserves any slack.」	「もう、なによ！ 甘やかす必要なんてないでしょ」	Oh, come on! Like he deserves any slack.	「もう、何よ！ 甘やかす必要なんてないでしょ」
+「You already had to be dragged here by Monika.」	「最初だってモニカに連れてこられないといけなかったんだし」	You already had to be dragged here by Monika.	「そもそも最初からモニカに連れてこられたようなもんだし」
+「I don't know if you plan to just come here and hang out, or what...」	「あんたはここに来て、ただダラダラ過ごそうと考えているのかもしれないけど……」	I don't know if you plan to just come here and hang out, or what...	「アンタはここで、ただダラダラ過ごそうと考えているのかもしれないけど……」
+「But if you don't take us seriously, then you won't see the end of it.」	「真面目にやらないのなら、ここで過ごす時間もそう長くないと思いなさい」	But if you don't take us seriously, then you won't see the end of it.	「真面目にやらないなら、ここで過ごす時間もそう長くないと思いなさい」
+「Natsuki, you certainly have a big mouth for someone who keeps her manga collection in the clubroom.」	「ナツキ、部室にマンガコレクションを揃えてる割には大口叩くのね」	Natsuki, you certainly have a big mouth for someone who keeps her manga collection in the clubroom.	「ナツキ、部室にマンガコレクションを揃えてる割には大口叩くのね」
+「M-M-M...!!」	「モ……マ……ム……！！」	M-M-M...!!	「マ……モ……カ……！！」
+Natsuki finds herself stuck between saying 「Monika」 and \"Manga\".	ナツキは『モニカ』と『マンガ』、どちらともつかずの言葉を発しようとしている。	Natsuki finds herself stuck between saying "Monika" and "Manga".	ナツキは『モニカ』と『マンガ』、どちらともつかずの言葉を発しようとしている。
+「Manga is literature!!」	「マンガは文学なのっ！！」	Manga is literature!!	「マンガは文学なのっ！！」
+Swiftly defeated, Natsuki plops back into her seat.	あっさりと敗北し、ナツキはドサッと席へ戻った。	Swiftly defeated, Natsuki plops back into her seat.	あっさりと敗北し、ナツキはドカッと席へ着いた。
+「I'm sorry, [player]...」	「ごめんなさい、[player]さん……」	I'm sorry, [player]...	「ごめんなさい、[player]さん……」
+「We'll make sure to put your comfort first, okay?」	「あなたがここに慣れてくれることを優先しますから」	We'll make sure to put your comfort first, okay?	「あなたがここに慣れてくれることを優先しますから」
+Yuri shoots Natsuki with a disappointed glance.	ユリはナツキに失望の眼差しを向けた。	Yuri shoots Natsuki with a disappointed glance.	ユリはナツキに失望の眼差しを向けた。
+「Um, anyway...」	「あの、それより……」	Um, anyway...	「あの、それより……」
+「Now that you're in the club and all...」	「これで部員になったことですし……」	Now that you're in the club and all...	「これで部員になったことですし……」
+「...Perhaps you might have interest in picking up a book to read?」	「なにか本を読み始めてみるのはどうですか？」	...Perhaps you might have interest in picking up a book to read?	「……なにか本を読み始めてみるのはどうですか？」
+「Well...」	「それは……」	Well...	「今度は……」
+「I can't really say no either way.」	「まあ、拒否はできないよな」	I can't really say no either way.	「まあ、拒否はできないよな」
+「Like you said, I'm in this club now.」	「ユリの言う通り俺はもうここの部員だし」	Like you said, I'm in this club now.	「ユリの言う通り、俺はもうここの部員だし」
+「So it only feels right for me to do something like that, if you ask.」	「だからそう言うのなら、その通りにするべきだろうな」	So it only feels right for me to do something like that, if you ask.	「だからユリがそう言うのなら、その通りにするべきだろうな」
+「W-Wait...」	「ま、待ってください……」	W-Wait...	「ま、待ってください……」
+「I didn't mean it like that!」	「そういうつもりで言った訳じゃないんです！」	I didn't mean it like that!	「そういうつもりで言ったわけじゃないんです！」
+「Uu...」	「うう……」	Uu...	「うう……」
+「If you don't really want to, then forget I said anything, I guess...」	「嫌だったのなら今言ったことは忘れてください……」	If you don't really want to, then forget I said anything, I guess...	「嫌だったのなら今言ったことは忘れてください……」
+「Ah--No, it's not that, Yuri.」	「あっ、いや、違うんだユリ」	Ah--No, it's not that, Yuri.	「あっ、いや、違うんだ、ユリ」
+「I want to try to be a part of this club.」	「俺はちゃんとこの部の一員になりたいんだ」	I want to try to be a part of this club.	「俺はちゃんとこの部の一員になりたいんだ」
+「So even if I don't read often, I'd be happy to pick up a book if you wanted me to.」	「だから読書に慣れていなかったとしても、ユリがそう言ってくれるなら喜んで本を読むよ」	So even if I don't read often, I'd be happy to pick up a book if you wanted me to.	「だから読書に慣れていなかったとしても、ユリがそう言ってくれるなら喜んで本を読むよ」
+「A-Are you sure...?」	「ほ、本当にですか……？」	A-Are you sure...?	「ほ、本当にですか……？」
+「I just felt like...」	「私はただ……」	I just felt like...	「私はただ……」
+「...Well, as Vice President and all...」	「……その、私も副部長ですし……」	...Well, as Vice President and all...	「……その、私も副部長ですし……」
+「...That I should help you get started on something you might like.」	「……あなたが気に入りそうなものを探すのがその務めだと思いまして」	...That I should help you get started on something you might like.	「……あなたが気に入りそうなものを探すのが務めだと思いまして」
+Yuri reaches into her bag and pulls out a book.	ユリはカバンから本を一冊取り出した。	Yuri reaches into her bag and pulls out a book.	ユリはカバンから本を一冊取り出した。
+「I didn't want you to feel left out...」	「仲間外れだと感じてほしくなくて……」	I didn't want you to feel left out...	「仲間外れだと感じてほしくなくて……」
+「So I picked out a book that I thought you might enjoy.」	「[player]さんが楽しめそうな本を選んでみました」	So I picked out a book that I thought you might enjoy.	「[player]さんが楽しめそうな本を選んでみました」
+「It's a short read, so it should keep your attention, even if you don't usually read.」	「短編なので、普段本を読まない[player]さんでも集中力が途切れにくいと思います」	It's a short read, so it should keep your attention, even if you don't usually read.	「短編なので、普段本を読まない[player]さんでも集中力が途切れにくいと思います」
+「And we could, you know...」	「それに、ほら、もしできたら……」	And we could, you know...	「それで、その、もしできたら……」
+「Discuss it...if you wanted...」	「話し合ったり……できればと……」	Discuss it...if you wanted...	「話し合ったり……できればと……」
+Th-This is...	こ、これは……	Th-This is...	こ、これは……
+How is this girl accidentally being so cute?	なんだか急にこいつが可愛く見えてきたぞ？	How is this girl accidentally being so cute?	なんだか急にこの子が、かわいく見えてきたぞ？
+She even picked out a book she thinks I'll like, despite me not reading much...	それに、読書に慣れてない俺が気に入りそうな本まで見繕ってくれて……	She even picked out a book she thinks I'll like, despite me not reading much...	読書に慣れてない俺が気に入りそうな本まで見繕ってくれて……
+「Yuri, thank you! I'll definitely read this!」	「ユリ、ありがとう！ 絶対読むよ！」	Yuri, thank you! I'll definitely read this!	「ユリ、ありがとう！ 絶対読むよ！」
+I enthusiastically take the book.	俺は心を込めて本を受け取った。	I enthusiastically take the book.	俺は心を込めて本を受け取った。
+「Phew...」	「ほっ……」	Phew...	「ふぅ……」
+「Well, you can read it at your own pace.」	「ご自身のペースで読み進めてくださいね」	Well, you can read it at your own pace.	「ご自身のペースで読み進めてくださいね」
+「I look forward to hearing what you think.」	「あなたの感想、楽しみにしてます」	I look forward to hearing what you think.	「あなたの感想、楽しみにしてます」
+Now that everyone's settled in, I expected Monika to kick off some scheduled activities for the club.	やっとみんながひと段落着いたところで、俺はモニカからの部活らしい指示があるのを待った。	Now that everyone's settled in, I expected Monika to kick off some scheduled activities for the club.	やっとみんながひと段落着いたところで、俺はモニカからの部活らしい指示があるのを待った。
+But that doesn't seem to be the case.	だがそういう訳でもないようだ。	But that doesn't seem to be the case.	だがそういうわけでもないようだ。
+Yuri's face is already buried in a book.	ユリは既に本に顔を埋めている。	Yuri's face is already buried in a book.	ユリはすでに読書に夢中だ。
+I can't help but notice her intense expression, like she was waiting for this chance.	この瞬間を待っていたかのような彼女の真剣な表情に、つい目が行ってしまう。	I can't help but notice her intense expression, like she was waiting for this chance.	この瞬間を待ち焦がれていたかのような彼女の真剣な表情に、つい目が行ってしまう。
+Meanwhile, Natsuki is rummaging around in the closet.	一方、ナツキはクローゼットを物色している。	Meanwhile, Natsuki is rummaging around in the closet.	一方、ナツキは物置を物色している。

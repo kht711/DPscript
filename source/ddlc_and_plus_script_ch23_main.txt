@@ -1,0 +1,112 @@
+「Hi, [player]!」	「こんにちは、[player]さん」	Hi, [player]!	「こんにちは、[player]さん！」
+「I've been waiting for you.」	「あなたの事を待ってました」	I've been waiting for you.	「あなたのことを待っていました」
+「Are you ready to continue reading?」	「続きを読む用意はできていますか？」	Are you ready to continue reading?	「続きを読む用意はできていますか？」
+「I brought my best tea today--」	「今日は私の一番気に入っているお茶を持ってきたん――」	I brought my best tea today--	「今日は、私の一番のお気に入りのお茶を持ってきたん――」
+「Monika!」	「モニカ！」	Monika!	「モニカちゃんって言うんだ！」
+「I told you not to--」	「それはやめてって言ってるで――」	I told you not to--	「やめてって言ってるで――」
+「Ugh...」	「うう……」	Ugh...	「あれ……」
+「Is she really late again?」	「モニカはまた遅刻なの？」	Is she really late again?	「モニカはまた遅刻なの？」
+「Inconsiderate as usual, Natsuki.」	「相変わらずそそっかしいですね、ナツキちゃんは」	Inconsiderate as usual, Natsuki.	「相変わらずそそっかしいですね、ナツキちゃんは」
+「Excuse me?」	「何ですって？」	Excuse me?	「何ですって？」
+「Must you always interrupt my conversations with your incessant yelling?」	「まくし立てて私が話すのを邪魔しようとしないでくださいます？」	Must you always interrupt my conversations with your incessant yelling?	「私が話すのをまくし立てて邪魔しないでくれます？」
+「What are you talking about?!」	「何言ってんの？」	What are you talking about?!	「何言ってんの？」
+「You say that like I do it on a regular basis or something.」	「それだとわたしがいつも邪魔してるみたいじゃん」	You say that like I do it on a regular basis or something.	「アタシがいつも邪魔してるみたいじゃない」
+「I just wasn't paying attention, okay? I'm sorry.」	「わたしが気づかなかっただけ、分かった？ 悪かったわね」	I just wasn't paying attention, okay? I'm sorry.	「気づかなかっただけ、悪かったわね。これでいい？」
+「Seriously... What's gotten into you lately?」	「真面目な話、最近どうしちゃったの？」	Seriously... What's gotten into you lately?	「真面目な話、最近どうしちゃったの？」
+「Look...」	「ねえ……」	Look...	「ねえ……」
+「I did some thinking about yesterday.」	「昨日のことをちょっと考えてたんだけど」	I did some thinking about yesterday.	「昨日のことをちょっと考えてたんだけど」
+「I was a little more hostile than I meant to be...」	「わたしって自分が思ってたよりちょっとキツイ感じだったかも……」	I was a little more hostile than I meant to be...	「アタシって自分が思ってたよりちょっとキツイ感じだったかも……」
+「I guess I really felt threatened or something.」	「実際怯えか何かを感じてたというか……」	I guess I really felt threatened or something.	「実際、怯えか何かを感じてたっていうか……」
+「But I know this is something we're doing together.」	「でもこれはみんなでやるべきことでしょ？」	But I know this is something we're doing together.	「でも、これはみんなでやるべきことでしょ？」
+「Another new member wouldn't hurt, as long as they're cool...」	「良いやつなら新入部員が入ってくるのも悪くないし……」	Another new member wouldn't hurt, as long as they're cool...	「良いやつなら新入部員が入ってくるのも悪くないし……」
+「And I guess another girl would be nice this time...」	「それに今度は女子が入ってきたら嬉しいじゃない……」	And I guess another girl would be nice this time...	「それに、今度は女子が入ってきたら、うれしいじゃない……」
+「So...」	「だから……」	So...	「それで……」
+「Natsuki...」	「ナツキちゃん……」	Natsuki...	「ナツキ……」
+「Nobody cares.」	「どうでもいいです」	Nobody cares.	「どうでもいいです」
+「Why don't you go look for some coins under the vending machines or something?」	「自販機の下にある小銭でも探して来たらどうですか？」	Why don't you go look for some coins under the vending machines or something?	「自販機の下の小銭でも探して来たらどうですか？」
+「--!」	「っ！」	--!	「――っ！」
+「...」	「……」	...	「……」
+「...」	「……」	...	「……」
+「Aw, man...」	「あら……」	Aw, man...	「あら……」
+「I'm the last one here again!」	「また私が最後だったのね」	I'm the last one here again!	「また私が最後だったのね！」
+「Were you practicing piano again?」	「またピアノを練習していたんですか？」	Were you practicing piano again?	「またピアノを練習していたんですか？」
+「Yeah...」	「そうなの……」	Yeah...	よし……
+「Ahaha...」	「あはは……」	Ahaha...	「そうだな……」
+「You must have a lot of determination.」	「モニカちゃんは意志が強いですね」	You must have a lot of determination.	「モニカちゃんは意志が強いですね」
+「Starting this club, and still trying to make time for piano...」	「この部活を作ったり、今度はピアノの練習だったり……」	Starting this club, and still trying to make time for piano...	「文芸部をつくったり、今度はピアノの練習だったり……」
+「Well, maybe not determination...」	「うーん、たぶん意志が強いっていうよりは……」	Well, maybe not determination...	「うーん、たぶん意志が強いっていうよりは……」
+「But I guess passion.」	「そう、これはきっと熱意ね」	But I guess passion.	「そう、これはきっと熱意ね」
+「It motivates me to work hard for the festival, too.」	「情熱が文化祭に向けて私をやる気にさせてるんだから」	It motivates me to work hard for the festival, too.	「文化祭に向けて、情熱が私をやる気にさせてるんだから」
+「Me?」	「私？」	Me?	「アタシ？」
+「N-Nothing...」	「な、何でも……」	N-Nothing...	「な、何でも……」
+「...」	「……」	...	「……」
+「Is it really that bad...?」	「そんなに悪いの……？」	Is it really that bad...?	「そんなにおかしいですか……？」
+「See, it <i>is</i> something.」	「ほら、やっぱり何があったんじゃない」	See, it <i>is</i> something.	「ほら、やっぱり<i>何かある</i>んじゃない」
+「I'll get over it!」	「もうこの話はやめましょう！」	I'll get over it!	「もうこの話はやめましょう！」
+「It's not even anything noteworthy...」	「大したことではありませんし……」	It's not even anything noteworthy...	「大したことではありませんし……」
+「I've just been feeling a little on edge lately...」	「最近ちょっとイライラしているだけです……」	I've just been feeling a little on edge lately...	「最近ちょっとイライラしているだけです……」
+「A-Anyway, we don't need to talk about it!」	「と、とにかく、この話を続ける必要はありません！」	A-Anyway, we don't need to talk about it!	「と、とにかく、この話を続ける必要はありません！」
+「Well, I just felt like I needed to bring it up.」	「まあ、聞いてみようと思っただけよ」	Well, I just felt like I needed to bring it up.	「まあ、聞いてみようと思っただけよ」
+「It's not like I really care or anything...」	「別に気にしてる訳じゃないし……」	It's not like I really care or anything...	「別に気にしてるわけじゃないし……」
+「Aw, man...」	「あら……」	Aw, man...	「あら……」
+「I'm the last one here again!」	「また私が最後だったのね」	I'm the last one here again!	「また私が最後だったのね！」
+「Well, [player] just walked in too.」	「まあ、[player]も今来たとこだし」	Well, [player] just walked in too.	「まあ、[player]も来たところだしね」
+「Were you practicing piano again?」	「またピアノを練習していたんですか？」	Were you practicing piano again?	「またピアノを練習していたんですか？」
+「Yeah...」	「そうなの……」	Yeah...	「そうね……」
+「Ahaha...」	「あはは……」	Ahaha...	「あはは……」
+「You must have a lot of determination.」	「モニカちゃんは意志が強いですね」	You must have a lot of determination.	「モニカちゃんは意志が強いですね」
+「Starting this club, and still trying to make time for piano...」	「この部活を作ったり、今度はピアノの練習だったり……」	Starting this club, and still trying to make time for piano...	「この部活をつくったり、今度はピアノの練習だったり……」
+「Well, maybe not determination...」	「うーん、たぶん意志が強いっていうよりは……」	Well, maybe not determination...	「うーん、たぶん意志が強いっていうよりは……」
+「But I guess passion.」	「そう、これはきっと熱意ね」	But I guess passion.	「そう、これはきっと熱意ね」
+「It motivates me to work hard for the festival and...」	「情熱が文化祭に向けて私をやる気にさせてるし……」	It motivates me to work hard for the festival and...	「情熱が文化祭に向けて私をやる気にさせてるし……」
+「Um...」	「その……」	Um...	「その……」
+「...」	「……」	...	「……」
+「Right...」	「そうね……」	Right...	「そうね……」
+「I-I forgot...」	「わ、忘れちゃった……」	I-I forgot...	「わ、忘れちゃった……」
+「Um, about that, Natsuki...」	「えっと、そんなことよりナツキちゃん……」	Um, about that, Natsuki...	「えっと、そんなことよりナツキちゃん……」
+「We were all talking yesterday, and...」	「昨日、私たち色々話しあって、それで……」	We were all talking yesterday, and...	「昨日、私たちいろいろ話し合って、それで……」
+「Well...we decided that we would like to support the festival as well.」	「あの……私たちは文化祭の準備を手伝うつもりなんです」	Well...we decided that we would like to support the festival as well.	「あの……私たちは文化祭の準備を手伝うつもりなんです」
+「However...!」	「とはいえ……！」	However...!	「とはいえ……！」
+「I understand how you feel about not wanting the club to change.」	「この部活が変わってほしくないというあなたの気持ちも分かります」	I understand how you feel about not wanting the club to change.	「この部活が変わってほしくないというあなたの気持ちもわかります」
+「I think we all kind of feel that way.」	「私たちみんなそう感じてるのではないでしょうか」	I think we all kind of feel that way.	「私たちみんなそう感じているのではないでしょうか」
+「So as long as we're all working together, this club will never become something we don't want.」	「だから、私達全員が一緒に活動していれば、きっとこの部活が望まない方向に進むことはないと思うんです」	So as long as we're all working together, this club will never become something we don't want.	「だから、私達全員が一緒に活動している限りは、この部活が望まない方向に進むことはないと思うんです」
+「...」	「……」	...	「……」
+「Um, also...」	「えっと、それに……」	Um, also...	「えっと、それに……」
+「If you help us out with the festival...」	「ナツキちゃんがお手伝いしてくれるのなら……」	If you help us out with the festival...	「ナツキちゃんがお手伝いしてくれるのなら……」
+「...Then I'll buy you a new manga!」	「……その時はあなたに新しいマンガを買いますから！」	...Then I'll buy you a new manga!	「……その時はあなたに新しいマンガを買いますから！」
+「...」	「……」	...	「……」
+「Ahahaha!」	「あははは！」	Ahahaha!	「あはははっ！」
+「Sorry, that last part was really funny.」	「ごめん、最後のとこが本当に面白くて」	Sorry, that last part was really funny.	「ごめん、最後のとこが本当に面白くて」
+「Look...」	「ねえ……」	Look...	「ねえ……」
+「I did some thinking about yesterday.」	「昨日のことをちょっと考えてたんだけど」	I did some thinking about yesterday.	「昨日のことをちょっと考えてたんだけど」
+「I was a little more hostile than I meant to be...」	「わたしって自分が思ってたよりちょっとキツイ感じだったかも……」	I was a little more hostile than I meant to be...	「アタシって自分が思ってたよりちょっとキツイ感じだったかも……」
+「I guess I really felt threatened or something.」	「実際怯えか何かを感じてたというか……」	I guess I really felt threatened or something.	「実際、怯えか何かを感じてたっていうか……」
+「But I know this is something we're doing together.」	「でもこれはみんなでやるべきことでしょ？」	But I know this is something we're doing together.	「でも、これはみんなでやるべきことでしょ？」
+「Another new member wouldn't hurt, as long as they're cool...」	「良いやつなら新入部員が入ってくるのも悪くないし……」	Another new member wouldn't hurt, as long as they're cool...	「良いヤツなら新入部員が入ってくるのも悪くないし……」
+「And I guess another girl would be nice this time...」	「それに今度は女子が入ってきたら嬉しいじゃない……」	And I guess another girl would be nice this time...	「それに、今度は女子が入ってきたら、うれしいじゃない……」
+「...But more importantly, I would hate to see the event suck just because I chose to back out!」	「……でも第一、わたしが断ったせいで酷い出来の文化祭を見るハメになるのはゴメンだわ！」	...But more importantly, I would hate to see the event suck just because I chose to back out!	「……でも万一、アタシが断ったせいでひどい出来の文化祭を見るハメになるのはゴメンだわ！」
+「I'm a pro, you know!」	「わたしはプロなのよ！」	I'm a pro, you know!	「アタシはプロなのよ！」
+「So I'm gonna help too, and we'll make sure it's done right.」	「だから手伝うつもりだし、わたしたちならちゃんとできるわよ」	So I'm gonna help too, and we'll make sure it's done right.	「だから手伝うつもりだし、アタシたちならちゃんとできるわよ」
+「Thank goodness...」	「良かった……」	Thank goodness...	「良かった……」
+「Isn't that great, Monika?」	「これって素敵じゃないですか、モニカちゃん？」	Isn't that great, Monika?	「これって素敵じゃないですか、モニカちゃん？」
+「...Monika?」	「……モニカ？」	...Monika?	「……モニカ？」
+「Ah--」	「あ――」	Ah--	「えっと……」
+「Yeah, that's wonderful!」	「ええ、素晴らしいわ！」	Yeah, that's wonderful!	「ええ、素晴らしいわ！」
+「It wouldn't be the same without you, Natsuki.」	「ナツキ、あなたがいてくれて本当に助かるわ」	It wouldn't be the same without you, Natsuki.	「ナツキ、あなたがいてくれて本当に助かるわ」
+「Anyway, [player]...」	「さて、[player]君……」	Anyway, [player]...	「さて、[player]君……」
+「What do you want to do today?」	「今日は何したい？」	What do you want to do today?	「今日は何したい？」
+「I was thinking we could--」	「よかったら一緒に――」	I was thinking we could--	「よかったら一緒に――」
+「We already have plans today.」	「今日やる事はもう決まっていますよ」	We already have plans today.	「今日やることは、もう決まっていますよ」
+「Ah...」	「えっ……」	Ah...	「あのね……」
+「Is that so, Yuri?」	「ユリ、そうなの？」	Is that so, Yuri?	「ユリ、そうなの？」
+「That's correct.」	「ええ、そうです」	That's correct.	「ええ、そうです」
+「[player] is already engaged in a novel that we're reading together.」	「[player]さんは私たち二人で読んでいる小説にもう読み更けていますから」	[player] is already engaged in a novel that we're reading together.	「[player]さんは、私たち二人で読んでいる小説にもう熱中していますから」
+「Aren't you glad I've already gotten him into literature, Monika?」	「[player]さんがもう文学にのめり込んでるだなんて喜ばしいことですよね、モニカちゃん？」	Aren't you glad I've already gotten him into literature, Monika?	「[player]さんがもう文学にのめり込んでるだなんて、喜ばしいことですよね、モニカちゃん？」
+「I...」	「私……」	I...	「アタシは……」
+「I suppose...」	「思うんだけど……」	I suppose...	「思うんだけど……」
+「I was just--」	「私はただ……」	I was just--	「私はただ……」
+「Actually, it doesn't matter.」	「いえ、何でもないわ」	Actually, it doesn't matter.	「いえ、何でもないわ」
+「It really doesn't.」	「大したことでもないし」	It really doesn't.	「大したことでもないし」
+「You guys can do whatever you want.」	「あなたたちがしたいことなら何でもいいわ」	You guys can do whatever you want.	「あなたたちがしたいことなら、何でもいいわ」
+「<i>(Yes!)</i>」	「<i>(やった！)</i>」	<i>(Yes!)</i>	「<i>（やった！）</i>」
+「Um... Thank you for understanding, Monika.」	「ええ……分かってくれてありがとうございます、モニカちゃん」	Um... Thank you for understanding, Monika.	「ええ……わかってくれてありがとうございます、モニカちゃん」

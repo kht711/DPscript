@@ -1,0 +1,32 @@
+[gtext]	[gtext]	[gtext]	[gtext]
+「Alright, it's festival time!」	「よし、今日は文化祭ね！」	Alright, it's festival time!	「よし、今日は文化祭ね！」
+「Wow, you got here before me?」	「あれ？ わたしより来るのが早いなんて」	Wow, you got here before me?	「あれ？ アタシより来るのが早いなんて」
+「I thought I was pretty ea--」	「てっきりわたしが一番だと思ったの――」	I thought I was pretty ea--	「てっきりアタシが一番だと思ったの――」
+「EYAH!」	「ひいっ！」	EYAH!	「ひいっ！」
+「AAAAAAAAAAAAAAAHHHH!!!」	「キャアアアアアアアアアアアアアアアアアア！！！」	AAAAAAAAAAAAAAAHHHH!!!	「キャアアアアアアアアアアアアアアアアアア！！！」
+Natsuki runs away.	ナツキは走って出ていった。	Natsuki runs away.	ナツキは走って出ていった。
+「...」	「……」	...	「……」
+「I'm here!」	「おはよう！」	I'm here!	「おはよう！」
+「[player], did something happen?」	「[player]君、何かあったの？」	[player], did something happen?	「[player]君、何かあったの？」
+「Natsuki just ran past me...」	「ナツキが目の前を走って行ったけど……」	Natsuki just ran past me...	「ナツキが目の前を走って行ったけど……」
+「...Oh...」	「……あら……」	...Oh...	「……あら……」
+「...Oh.」	「……あらら」	...Oh.	「……あらら」
+「...」	「……」	...	「……」
+「Ahahaha!」	「あははは！」	Ahahaha!	「あはははっ！」
+「Well, that's a shame.」	「まあ、これは残念ね」	Well, that's a shame.	「まあ、これは残念ね」
+「Wait, were you here the entire weekend, [player]?」	「もしかして[player]君は週末中ずっとここにいたの？」	Wait, were you here the entire weekend, [player]?	「もしかして[player]君は週末ずっとここにいたの？」
+「Oh, jeez...」	「ええ、気の毒に……」	Oh, jeez...	「ああ、残念……」
+「I didn't realize the script was broken that badly.」	「こんなにスクリプトが壊れてるとは知らなかったの」	I didn't realize the script was broken that badly.	「こんなにスクリプトが壊れてるとは知らなかったの」
+「I'm super sorry!」	「本当にごめんなさい！」	I'm super sorry!	「本当にごめんなさい！」
+「It must have been pretty boring...」	「週末はすごく退屈だったでしょうね……」	It must have been pretty boring...	「週末はすごく退屈だったでしょうね……」
+「I'll make it up to you, okay?」	「埋め合わせをさせて欲しいんだけど、いいかしら？」	I'll make it up to you, okay?	「埋め合わせをさせてほしいんだけど、いいかしら？」
+「Just gimme a sec...」	「ちょっと待っててね……」	Just gimme a sec...	「ちょっと待っててね……」
+「I'm almost done.」	「もうちょっとだから」	I'm almost done.	「もうちょっとだから」
+「I just want to have a cupcake real quick!」	「その前にちょっとカップケーキを食べたいの！」	I just want to have a cupcake real quick!	「その前にちょっとカップケーキを食べたいの！」
+Monika lifts the foil from [gtext]'s tray and takes a cupcake.	モニカは[gtext]のトレイにかかっているアルミホイルを外してカップケーキを取った。	Monika lifts the foil from [gtext]'s tray and takes a cupcake.	モニカは[gtext]のトレイにかかっているアルミホイルを外してカップケーキを取った。
+「Seriously, these are the best!」	「これ、本当に美味しいわよね！」	Seriously, these are the best!	「これ、本当においしいわよね！」
+「I really just had to have one, since it's the last time I'll ever get the chance to.」	「これが最後になるからどうしても食べておきたかったの」	I really just had to have one, since it's the last time I'll ever get the chance to.	「これが最後になるから、どうしても食べておきたかったの」
+「You know, before they stop existing and everything.」	「存在がなくなる前にね」	You know, before they stop existing and everything.	「存在がなくなる前にね」
+「...But anyway, I really shouldn't be making you wait any longer.」	「……ともかく、これ以上は待たせないから」	...But anyway, I really shouldn't be making you wait any longer.	「……ともかく、これ以上は待たせないから」
+「Just bear with me, okay?」	「もうちょっとだけ、ね？」	Just bear with me, okay?	「もうちょっとだけ、ね？」
+「This should only take a second.」	「一瞬で終わるから」	This should only take a second.	「一瞬で終わるから」

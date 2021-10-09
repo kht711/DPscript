@@ -1,0 +1,145 @@
+「Okay, everyone!」	「よし、みんな！」	Okay, everyone!	「よし、みんな！」
+「It's time to figure out the festival preparations.」	「文化祭の準備をする時間よ」	It's time to figure out the festival preparations.	「文化祭の準備をする時間よ」
+「Let's hurry and get this over with.」	「急いでさっさと片付けてしまいましょ」	Let's hurry and get this over with.	「急いでさっさと片付けてしまいましょ」
+「...」	「……」	...	「……」
+「Jeez...」	「もう……」	Jeez...	「はあ……」
+「Why is the mood so weird today?」	「なんで今日は全体的に妙な雰囲気なのよ？」	Why is the mood so weird today?	「じゃあ、何で今日はこんな妙な空気なのよ？」
+「Look, even Yuri isn't immune to it.」	「ほら、ユリですら影響を受けちゃってるし」	Look, even Yuri isn't immune to it.	「ほら、ユリも影響を受けちゃってるし」
+「Uu...」	「うう……」	Uu...	「うう……」
+「Stagnating air is common foreshadowing that something terrible is about to happen...」	「淀んだ空気は大抵、何か不吉なことが起きる前兆です……」	Stagnating air is common foreshadowing that something terrible is about to happen...	「淀んだ空気は大抵、何か不吉なことが起きる前兆です……」
+「Look, can we just get this done?」	「ほら、いいから終わらせましょう？」	Look, can we just get this done?	「ほら、いいから終わらせましょう？」
+「I'm going to be printing and assembling all the poetry pamphlets.」	「私は詩を集めて印刷してパンフレットにするわ」	I'm going to be printing and assembling all the poetry pamphlets.	「私は、詩のパンフレットをつくって印刷してくるわ」
+「Natsuki, you can make cupcakes.」	「ナツキ、あなたカップケーキを作れるでしょ？」	Natsuki, you can make cupcakes.	「ナツキ、あなたカップケーキをつくれるでしょ？」
+「I know you're at least good at that.」	「それだけは得意だものね」	I know you're at least good at that.	「それだけは得意だものね」
+「...」	「……」	...	「……」
+「Natsuki, I was thinking--」	「ナツキ、私が思うに――」	Natsuki, I was thinking--	「ナツキ、私が思うに――」
+「I want to make cupcakes!」	「わたし、カップケーキ作りたい！」	I want to make cupcakes!	「アタシ、カップケーキつくりたい！」
+「...Yeah, that.」	「……その意気よ」	...Yeah, that.	「……そう、それ」
+「Glad we're on the same page.」	「分かってもらえて嬉しいわ」	Glad we're on the same page.	「わかってもらえて、うれしいわ」
+「Yuri, you can...」	「ユリ、あなたは……」	Yuri, you can...	「ユリ、あなたには……」
+「...Well, it doesn't matter.」	「……まあ、何をしたって構わないわ」	...Well, it doesn't matter.	「……まあ、何をしたって構わないわ」
+「Do whatever you want, as long as you think it'll help.」	「手伝いになりそうなことなら何でもして」	Do whatever you want, as long as you think it'll help.	「手伝いになりそうなことなら何でもして」
+「Monika...」	「モニカちゃん……」	Monika...	「モニカちゃん……」
+「I'm not useless, you know!」	「私は役立たずではありません！」	I'm not useless, you know!	「私は役立たずではありません！」
+「I-I know that!」	「そ、それくらい分かってるわよ！」	I-I know that!	「わ、わかってます！」
+「I already know what I'd like to do.」	「私が何をしたいかはもう決めてます」	I already know what I'd like to do.	「何をしたいかはもう決めてます」
+「We can't run a successful poetry event without having the right atmosphere for the occasion.」	「詩の朗読会はそれに適したムードの中でないと成功しません」	We can't run a successful poetry event without having the right atmosphere for the occasion.	「詩の朗読会はそれに適したムードの中でないと成功しません」
+「So I'm going to make decorations and set up some nice mood lighting.」	「だから、飾り付けをして、雰囲気を作る照明を取り付けるんです」	So I'm going to make decorations and set up some nice mood lighting.	「だから、飾りつけをして、雰囲気をつくる照明を取りつけるんです」
+「There, see?」	「ほらね？」	There, see?	「ほらね？」
+「That's a great idea!」	「良いアイデアが出てきたじゃない！」	That's a great idea!	「良いアイデアが出てきたじゃない！」
+「And that gives us all something to do.」	「これでみんなの役割が決まったわね」	And that gives us all something to do.	「これでみんなの役割が決まったわね」
+「Eh?」	「え？」	Eh?	「えっ？」
+「What about [player]?」	「[player]さんは何をするのですか？」	What about [player]?	「[player]さんは何をするのですか？」
+「[player] is going to help me.」	「[player]君は私のお手伝いよ」	[player] is going to help me.	「[player]君は私のお手伝いよ」
+「Wait, you?」	「待って、モニカの？」	Wait, you?	「待って、モニカの？」
+「You have the easiest job, Monika!」	「モニカはいっちばん簡単な仕事じゃない！」	You have the easiest job, Monika!	「モニカはいっちばん簡単な仕事じゃない！」
+「Sorry, but that's just how it is.」	「ごめんなさいね、でもそういうことよ」	Sorry, but that's just how it is.	「ごめんなさいね、でもそういうことなの」
+「Like hell it is!」	「最悪！」	Like hell it is!	「最悪！」
+「What are you trying to pull?」	「何をするつもりなのよ？」	What are you trying to pull?	「何を企んでるのよ？」
+「I-I agree with Natsuki!」	「な、ナツキちゃんに同意です！」	I-I agree with Natsuki!	「な、ナツキちゃんに同意です！」
+「Not only is your work already most suitable for one person...」	「一人でも十分にこなせる仕事ですし……」	Not only is your work already most suitable for one person...	「一人でも十分にこなせる仕事ですし……」
+「But my task is laborious enough to benefit from an extra pair of hands.」	「私のする作業は猫の手を借りたいほどですもの」	But my task is laborious enough to benefit from an extra pair of hands.	「でも、私の作業は猫の手を借りたいほどですもの」
+「Mine too!」	「わたしもよ！」	Mine too!	「アタシもよ！」
+「What, your cupcakes?」	「えっ、カップケーキが？」	What, your cupcakes?	「えっ、カップケーキづくりが？」
+「Please.」	「本気ですか……？」	Please.	「冗談でしょう」
+「Like {i}you{/i} would fucking know!」	「{i}あんたに{/i}何が分かるのよ！ 」	Like <i>you</i> would fucking know!	「<i>アンタに</i>何がわかるのよ！」
+「All you care about now is dragging [player] around with you and your stupid books.」	「あんたは自分の読書に[player]を巻き込むことしか頭にないんだから」	All you care about now is dragging [player] around with you and your stupid books.	「アンタは自分の読書に[player]を引き摺りこむことしか頭にないんだから」
+「You {i}and{/i} Monika!」	「あんた{i}と{/i}モニカよ！」	You <i>and</i> Monika!	「違うわ、アンタ<i>と</i>モニカよ！」
+「Hey!」	「ちょっと！」	Hey!	「ちょっと！」
+「I didn't even do anything!」	「私は何もしてないじゃない！」	I didn't even do anything!	「私は何もしてないじゃない！」
+「Okay, then why not let [player] decide who to help instead of abusing your power?」	「分かったわ。モニカが権力を悪用しないように、[player]に誰を手伝うか決めさせない？」	Okay, then why not let [player] decide who to help instead of abusing your power?	「わかったわ。モニカが権力を悪用しないように、[player]に誰を手伝うか決めさせない？」
+「I'm not...abusing my power.」	「私は……権力を悪用なんてしてないわ」	I'm not...abusing my power.	「私は……権力を悪用なんてしてないわ」
+「Yes you are, Monika.」	「していますよ、モニカちゃん」	Yes you are, Monika.	「していますよ、モニカちゃん」
+「Just let [player] make the choice, okay?」	「[player]さんに選ばせましょう、それでいいですよね？」	Just let [player] make the choice, okay?	「[player]さんに選んでもらいましょう、それでいいですよね？」
+「Okay, fine!」	「ええ、良いわ！」	Okay, fine!	「ええ、良いわ！」
+「Fine.」	「もちろん」	Fine.	「もちろん」
+「Jeez...」	「まったく……」	Jeez...	「まったくもう……」
+「[player], I know how fed up you are with these two by now.」	「[player]、あんたが二人にどれだけうんざりしてるかよく分かるわ」	[player], I know how fed up you are with these two by now.	「[player]、アンタが二人にどれだけうんざりしてるかよくわかるわ」
+「We can just--」	「わたしたちはただ――」	We can just--	「アタシたちはさ――」
+「Natsuki, shut your fucking mouth and let him decide for himself.」	「ナツキちゃん、今すぐそのふざけた口をつぐんで彼に選択させましょう」	Natsuki, shut your fucking mouth and let him decide for himself.	「ナツキちゃん、今すぐそのふざけた口を閉じて彼に選んでもらってください」
+「{i}You{/i} shut your mouth!」	「あんたこそ黙りなさいよ！」	<i>You</i> shut your mouth!	「<i>アンタこそ</i>黙りなさいよ！」
+「Jesus christ...」	「ああもう……」	For god's sake...	「ああ、もう……」
+「This is never going to end. Just make the choice, okay?」	「このままじゃ終わらないわ。いいから選ぶのよ、分かった？」	This is never going to end. Just make the choice, okay?	「このままじゃ終わらないわ。いいから選ぶのよ、わかった？」
+[gtext]	[gtext]	[gtext]	[gtext]
+Monika	モニカ	Monika	モニカ
+Monika	モニカ	Monika	モニカ
+Monika	モニカ	Monika	モニカ
+Monika	モニカ	Monika	モニカ
+Monika	モニカ	Monika	モニカ
+Monika	モニカ	Monika	モニカ
+Monika	モニカ	Monika	モニカ
+Monika	モニカ	Monika	モニカ
+Monika	モニカ	Monika	モニカ
+Monika	モニカ	Monika	モニカ
+「Yay, you picked me!」	「やったー！ 私を選んでくれるのね」	Yay, you picked me!	「やった、私を選んでくれるのね！」
+「We can meet at your house this weekend.」	「週末はあなたの家で会いましょう」	We can meet at your house this weekend.	「週末はあなたの家で会いましょう」
+「I promise it'll be fun.」	「きっと楽しいわよ」	I promise it'll be fun.	「きっと楽しいわよ」
+「Is Sunday okay with you?」	「日曜日は空いているかしら？ 」	Is Sunday okay with you?	「日曜日は空いているかしら？」
+「Are you fucking kidding me?」	「冗談でしょ？」	Are you fucking kidding me?	「冗談でしょ？」
+「This isn't fair at all!」	「ぜんっぜん不公平だから！」	This isn't fair at all!	「ぜんっぜん不公平だから！」
+「It is fair, Natsuki.」	「公平よ、ナツキ」	It is fair, Natsuki.	「公平よ、ナツキ」
+「It's what he chose.」	「これは彼の選択だもの」	It's what he chose.	「これは彼の選択だもの」
+「No, it's not fair!」	「いえ、不公平です！」	No, it's not fair!	「いえ、不公平です！」
+「Giving us all this work and then taking [player] for yourself.」	「私たちに仕事を押し付けておいて、自分は[player]さんを取るだなんて」	Giving us all this work and then taking [player] for yourself.	「私たちに仕事を押しつけておいて、自分は[player]さんを取るだなんて」
+「What a shameful thing to do!」	「恥ずべきことをしています！」	What a shameful thing to do!	「恥ずべきことをしています！」
+「Yuri, I didn't even give you any work.」	「ユリ、私は今まであなたに仕事を一つも押し付けてなんかないわ」	Yuri, I didn't even give you any work.	「ユリ、私は今まであなたに仕事を一つも押しつけてなんかないわ」
+「You decided it for yourself.」	「あなた自身で決めたことでしょ」	You decided it for yourself.	「あなた自身で決めたことでしょ」
+「You're being a little unreasonable here.」	「それは少し不合理なんじゃない？」	You're being a little unreasonable here.	「それは筋違いじゃない？」
+「I'm being unreasonable?」	「不合理ですって？」	I'm being unreasonable?	「筋違いですって？」
+「Ahahaha!」	「アハハハ！」	Ahahaha!	「あはははっ！」
+「Monika, I can't believe how delusional and self-important you are!」	「モニカちゃん、あなたのその妄想と偉そうな態度が信じられません！」	Monika, I can't believe how delusional and self-important you are!	「モニカちゃん、あなたのその妄想と偉そうな態度が信じられません！」
+「Pulling [player] away from me every single time you're not included in something.」	「部外者になるたびに毎回毎回[player]さんを私から奪い取って」	Pulling [player] away from me every single time you're not included in something.	「自分が部外者になるたびに毎回毎回[player]さんを私から奪い取って」
+「Are you jealous?」	「妬んでるのですか？」	Are you jealous?	「妬んでいるのですか？」
+「Crazy?」	「いかれてるのですか？」	Crazy?	「頭がおかしいのですか？」
+「Or maybe you just hate yourself so much that you take it out on others?」	「それとも自己嫌悪で周りに八つ当たりしてるだけですか？」	Or maybe you just hate yourself so much that you take it out on others?	「それとも自己嫌悪で周りに八つ当たりしているだけですか？」
+「Here's a suggestion. Have you considered killing yourself?」	「一つ提案があります。あなた自殺を考えたことはありますか？」	Here's a suggestion. Have you considered killing yourself?	「一つ提案があります。あなた自殺を考えたことはありますか？」
+「It would be beneficial to your mental health.」	「あなたの精神衛生に役立つのではないですか」	It would be beneficial to your mental health.	「あなたの精神衛生に役立つのではないですか」
+「Yuri, you're scaring me a little...」	「ユリ、ちょっと怖がらせないでよ……」	Yuri, you're scaring me a little...	「ユリ、ちょっと怖がらせないでよ……」
+「Natsuki, let's just go.」	「ナツキ、行くわよ」	Natsuki, let's just go.	「ナツキ、行くわよ」
+「I don't think she wants us around right now.」	「ユリは私たちにここにいて欲しくないみたいだし」	I don't think she wants us around right now.	「ユリは私たちにここにいてほしくないみたいだし」
+「See, that wasn't very hard.」	「ほら、難しいことではないでしょう」	See, that wasn't very hard.	「ほら、簡単なことでしょう」
+「All I want is to spend a little time with him.」	「私は[player]さんとしばらく一緒にいたいだけなのです」	All I want is to spend a little time with him.	「私は[player]さんと少し一緒にいたいんです」
+「Is that so much to ask?」	「そんなに大変なお願いでしたか？」	Is that so much to ask?	「そんなに大変なお願いですか？」
+Yuri follows Monika and Natsuki to the door.	ユリはモニカとナツキをドアへと進ませる。	Yuri follows Monika and Natsuki to the door.	ユリはモニカとナツキをドアへと進ませる。
+「Hey, [player]...」	「ねえ、[player]君……」	Hey, [player]...	「ねえ、[player]君」
+「Yuri is really something, isn't she?」	「ユリったらどうしちゃったのかしらね？」	Yuri is really something, isn't she?	「ユリったら、どうしちゃったのかしらね？」
+Monika giggles as Yuri pushes her out the door.	ユリにドアの外に追いやられながら、モニカはくすくす笑う。	Monika giggles as Yuri pushes her out the door.	ユリにドアの外に追いやられながら、モニカはくすくす笑う。
+「Finally.」	「やっと」	Finally.	「やっと」
+「Finally!」	「やっと！」	Finally!	「やっと！」
+「This is really all I wanted.」	「この時を待ち望んでいました！」	This is really all I wanted.	「この時を待ち望んでいました！」
+「[player], there's no need to spend the weekend with Monika.」	「[player]さん、モニカちゃんと週末を過ごす必要なんてありません！」	[player], there's no need to spend the weekend with Monika.	「[player]さん、モニカちゃんと週末を過ごす必要なんてありません！」
+「Don't listen to her.」	「あんなのなんて無視して……」	Don't listen to her.	「あんなの無視して……」
+「Just come to my house instead.」	「代わりに私の家に来てください」	Just come to my house instead.	「代わりに私の家に来てください」
+「The whole day, with just the two of us...」	「一日中、ただ二人きりで……」	The whole day, with just the two of us...	「一日中、ただ二人きりで……」
+「Doesn't that sound wonderful?」	「素敵だと思いませんか……？」	Doesn't that sound wonderful?	「素敵だと思いませんか……？」
+「Ahahaha!」	「アハハハ！」	Ahahaha!	「あはははっ！」
+「Wow... There's really something wrong with me, isn't there?」	「ああ……本当に私ったらどうかしてしまったのでしょうか？」	Wow... There's really something wrong with me, isn't there?	「ああ……本当に私ったらどうかしてしまったのでしょうか？」
+「But you know what?」	「でもね」	But you know what?	「でもね」
+「I don't care anymore.」	「そんなこともうどうでもいいんです」	I don't care anymore.	「そんなこと、もうどうでもいいんです」
+「I've never felt this good my whole life.」	「今までの人生でこんなにも良い気分になったことはありません」	I've never felt this good my whole life.	「今までの人生でこんなにも良い気分になったことはありません」
+「Just being with you is a far greater pleasure than anything I could imagine.」	「あなたと一緒にいることは私の最高の喜びなんです」	Just being with you is a far greater pleasure than anything I could imagine.	「あなたと一緒にいることは私の最高の喜びなんです」
+「I'm addicted to you.」	「私はあなたに夢中なんです」	I'm addicted to you.	「私はあなたに夢中なんです」
+「It feels like I'm going to die if I'm not breathing the same air as you.」	「あなたと同じ空気を吸っていないと死んでしまいそう」	It feels like I'm going to die if I'm not breathing the same air as you.	「あなたと同じ空気を吸っていないと死んでしまいそう」
+「Doesn't it feel nice to have someone care about you so much?」	「誰かからひどく慕われるのは気持ちが良いでしょう？」	Doesn't it feel nice to have someone care about you so much?	「誰かからひどく慕われるのは気持ちが良いでしょう？」
+「To have someone who wants to revolve their entire life around you?」	「あなたを人生の軸にしたい人がいるのは気持ちが良いでしょう？」	To have someone who wants to revolve their entire life around you?	「あなたを人生の軸にしたいという人がいるのは気持ちが良いでしょう？」
+「But if it feels so good...」	「でも、気持ち良くなるのなら……」	But if it feels so good...	「でも、気持ちが良くなるのに……」
+「Then why does it feel more and more like something horrible is going to happen?」	「そう思うごとにどうしてますます不吉なことが起こるような予感になるんでしょう」	Then why does it feel more and more like something horrible is going to happen?	「そう思うごとに、どうしてますます不吉な予感がするんでしょう」
+「Maybe that's why I tried stopping myself at first...」	「初めはそんな理由で自分を抑えようとしていたのでしょうね……」	Maybe that's why I tried stopping myself at first...	「初めはそんな理由で自分を抑えようとしていたのでしょうね……」
+「But the feeling is too strong now.」	「でも、今ではこの感情を抑えきれない」	But the feeling is too strong now.	「でも、今ではこの感情を抑えきれない」
+「I don't care anymore, [player]!」	「もう何もかもどうでも良いんです、 [player]さん！」	I don't care anymore, [player]!	「もう何もかもどうでもいいんです、[player]さん！」
+「I have to tell you!」	「あなたに話さないといけない！」	I have to tell you!	「あなたに話さないといけない！」
+「I'm...I'm madly in love with you!」	「私は……私はあなたを狂おしい程愛しています！」	I'm...I'm madly in love with you!	「私は……私はあなたを狂おしいほどに愛しています！」
+「It feels like every inch of my body...every drop of blood in me...is screaming your name.」	「私の身体の細胞の一つ一つが……血の一滴一滴が……あなたの名前を叫んでいるんです！」	It feels like every inch of my body...every drop of blood in me...is screaming your name.	「私の身体の細胞一つひとつが……血の一滴一滴が……あなたの名前を叫んでいるんです！」
+「I don't care what the consequences are anymore!」	「もはやどうなろうと構わない！」	I don't care what the consequences are anymore!	「もはやどうなろうと構わない！」
+「I don't care if Monika is listening!」	「モニカちゃんが聞いていようと知ったことじゃない！」	I don't care if Monika is listening!	「モニカちゃんが聞いていようと知ったことじゃない！」
+「Please, [player], just know how much I love you.」	「[player]さん、お願い、あなたをどれだけ愛してるかを知って欲しいんです」	Please, [player], just know how much I love you.	「[player]さん、お願い、私があなたをどれだけ愛してるかを知ってほしいんです」
+「I love you so much that I even touch myself with the pen I stole from you.」	「あなたの事を愛し過ぎてあなたから盗んだペンで自らを慰めてしまう程なんです」	I love you so much that I even touch myself with the pen I stole from you.	「あなたのことを愛し過ぎて、あなたから盗んだペンで自らを慰めてしまうほどなんです」
+「I just want to pull your skin open and crawl inside of you.」	「あなたの皮膚を切り裂いてあなたの中に入り込みたいんです」	I just want to pull your skin open and crawl inside of you.	「あなたの皮膚を切り裂いてあなたの中に入り込みたいんです」
+「I want you all to myself.」	「あなたの全てが欲しい」	I want you all to myself.	「あなたのすべてがほしい」
+「And I will be only yours.」	「そして私もあなただけのものになる」	And I will be only yours.	「そして私もあなただけのものになる」
+「Doesn't that sound perfect?」	「これで完璧でしょう？」	Doesn't that sound perfect?	「これで完璧でしょう？」
+「Tell me, [player].」	「[player]さん、教えてください」	Tell me, [player].	「[player]さん、教えてください」
+「Tell me you want to be my lover.」	「私の恋人になってくれるか」	Tell me you want to be my lover.	「私の恋人になってくれませんか」
+「Do you accept my confession?」	「私の告白を受け入れてくれますか？」	Do you accept my confession?	「私の告白を受け入れてくれますか？」
+Yes.	はい	Yes.	「はい」
+No.	いいえ	No.	いいえ
