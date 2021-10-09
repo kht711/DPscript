@@ -1,0 +1,135 @@
+「Aw, man...」	「あら……」	Aw, man...	「あら……」
+「I'm the last one here again!」	「また私が最後だったのね」	I'm the last one here again!	「また私が最後だったのね！」
+「Don't worry, I just walked in too.」	「気にすんな。俺も今来たところだ」	Don't worry, I just walked in too.	「気にすんな。俺も今来たところだ」
+「Were you practicing piano again?」	「またピアノを練習していたんですか？」	Were you practicing piano again?	「またピアノを練習していたんですか？」
+「Yeah...」	「そうなの……」	Yeah...	よし……
+「Ahaha...」	「あはは……」	Ahaha...	「そうだな……」
+「You must have a lot of determination.」	「モニカちゃんは意志が強いですね」	You must have a lot of determination.	「モニカちゃんは意志が強いですね」
+「Starting this club, and now picking up piano...」	「この部活を作ったり、今度はピアノの練習だったり……」	Starting this club, and now picking up piano...	「文芸部をつくったり、今度はピアノの練習だったり……」
+「Well, maybe not determination...」	「うーん、たぶん意志が強いっていうよりは……」	Well, maybe not determination...	「うーん、たぶん意志が強いっていうよりは……」
+「But I guess passion.」	「そう、これはきっと熱意ね」	But I guess passion.	「そう、これはきっと熱意ね」
+「Remember that the club wouldn't be here if it wasn't for all of you.」	「この部活だって、みんながいなかったら成り立たなかったもの」	Remember that the club wouldn't be here if it wasn't for all of you.	「この部活だって、みんながいなかったら成り立たなかったもの」
+「And I'm super happy that you're all willing to help out for the festival, too!」	「それにみんな文化祭に向けて手伝ってくれて、私とても嬉しいわ！」	And I'm super happy that you're all willing to help out for the festival, too!	「それにみんな文化祭に向けて手伝ってくれて、とてもうれしいわ！」
+「Aaah, I can't wait for the festival!」	「あー、文化祭待ちきれない！」	Aaah, I can't wait for the festival!	「あー、文化祭が待ちきれない！」
+「It's gonna be great!」	「超楽しみ！」	It's gonna be great!	「超楽しみ！」
+「Eh?」	「え？」	Eh?	「えっ？」
+「Weren't you complaining about it just yesterday, Natsuki?」	「ナツキ、あなた昨日は不満そうにしてなかった？」	Weren't you complaining about it just yesterday, Natsuki?	「ナツキ、あなた昨日は不満そうにしてなかった？」
+「Well, yeah.」	「まあ、そうね」	Well, yeah.	「そうだけど？」
+「I'm not talking about {i}our{/i} part of the festival.」	「{i}わたしたちの{/i}出し物は楽しみじゃないからね」	I'm not talking about <i>our</i> part of the festival.	「<i>わたしたちの</i>出し物は楽しみじゃないからね」
+「But it's a whole day of school where we get to play and eat all kinds of delicious food!」	「でも文化祭自体は一日中遊んでいろんな物を食べられる最高な日なのよ！」	But it's a whole day of school where we get to play and eat all kinds of delicious food!	「でも文化祭自体は一日中遊んでいろんな物を食べられる最高な日なのよ！」
+「You sound a bit like Sayori all of a sudden...」	「お前サヨリみたいなこと言ってるな……」	You sound a bit like Sayori all of a sudden...	「お前サヨリみたいなこと言ってるな……」
+「Monika! Do they usually have fried squid?」	「モニカ！ イカ焼きは定番よね？」	Monika! Do they usually have fried squid?	「モニカ！ イカ焼きは定番よね？」
+「Squid...?」	「イカ……？」	Squid...?	「イカ……？」
+「That's a pretty specific thing to look forward to...」	「変に具体的な質問をするわね……」	That's a pretty specific thing to look forward to...	「変に具体的な質問をするわね……」
+「Oh, come on.」	「はあ、まったく」	Oh, come on.	「何よ、もう」
+「Are you saying you don't like squid?」	「あんたもしかしてイカが好きじゃないの？」	Are you saying you don't like squid?	「アンタもしかしてイカが好きじゃないの？」
+「You, of all people?」	「あんたに限ってそれはないでしょ？」	You, of all people?	「アンタに限ってそれはないでしょ？」
+「Eh? I didn't say I don't like it.」	「え？ 好きじゃないとは言ってないけど」	Eh? I didn't say I don't like it.	「え？ 好きじゃないとは言ってないけど」
+「Besides, what do you mean by 'you of all people'?」	「それに、『あなたに限って』ってどういう意味？」	Besides, what do you mean by 'you of all people'?	「それに、『アンタに限って』ってどういう意味？」
+「Because!」	「だから！」	Because!	「だから！」
+「It's right in your name!」	「あんたの名前の通りよ！」	It's right in your name!	「アンタの名前の通りよ！」
+「Mon-ika!」	「MON-IKA(イカ)！」	Mon-ika!	「MON-IKA（イカ）！」
+「Eh?!」	「え！？」	Eh?!	「えっ！？」
+「That's not how you say my name at all!」	「私の名前はそんなふうに読まない！」	That's not how you say my name at all!	「私の名前をそんな風に読まないで！」
+「Also, that joke makes no sense in translation!」	「それに、そのダジャレ翻訳したら通じないわよ！」	Also, that joke makes no sense in translation!	「それに、そういうダジャレは翻訳者さんが一番困るのよ？」
+「...?」	「……？」	...?	「……？」
+「Ah...never mind!」	「あ……何でもないわ！」	Ah...never mind!	「あ……何でもないわ！」
+「Let's just focus on our own event for now, okay?」	「今は私たちの出し物に集中しましょう、いいわね？」	Let's just focus on our own event for now, okay?	「今は私たちの出し物に集中しましょう、いいわね？」
+「Ehehe.」	「えへへ」	Ehehe.	「えへへ」
+「Fine, fine.」	「はいはい」	Fine, fine.	「はい、はい」
+「Your reactions aren't as fun as Yuri's or Sayori's, anyway.」	「どうせモニカのリアクション、ユリやサヨリのほど面白くないもん」	Your reactions aren't as fun as Yuri's or Sayori's, anyway.	「どうせモニカのリアクション、ユリやサヨリのほど面白くないもん」
+「Excuse me...」	「ちょっと……」	Excuse me...	「ちょっと……」
+「Where is Sayori, anyway...?」	「そもそも、サヨリはどこなんだ……？」	Where is Sayori, anyway...?	「そもそも、サヨリはどこなんだ……？」
+「Oh, there you are.」	「ああ、いたいた」	Oh, there you are.	「ああ、いたいた」
+Sayori is sitting at a desk in the corner of the room, looking down at nothing.	サヨリは部屋の隅で座っており、ぼんやりと下を見つめている。	Sayori is sitting at a desk in the corner of the room, looking down at nothing.	サヨリは部屋の隅で座っており、ぼんやりと下を見つめている。
+I walk over to her.	俺は彼女のほうへ歩く。	I walk over to her.	俺は彼女へと歩み寄る。
+「Hey, Sayori.」	「よお、サヨリ」	Hey, Sayori.	「よお、サヨリ」
+I wave my hand in front of her face.	彼女の顔の前で手を振ってみる。	I wave my hand in front of her face.	彼女の顔の前で手を振ってみる。
+「Eh--?」	「えっ？」	Eh--?	「えっ？」
+「You're spacing out again.」	「またぼーっとしてるぞ」	You're spacing out again.	「またぼーっとしてるぞ」
+「A-Ah...」	「あ、あっ……」	A-Ah...	「う、うん……」
+「Ehehe, sorry...」	「えへへ、ごめん……」	Ehehe, sorry...	「えへへ、ごめん……」
+「Don't mind me.」	「気にしなくていいから」	Don't mind me.	「気にしなくていいから」
+「You can go talk to everyone else.」	「他のみんなと話してていいよ」	You can go talk to everyone else.	「他のみんなと話してていいよ」
+「Huh...」	「はあ……」	Huh...	「ふむ……」
+「Is everything alright?」	「なんかお前、大丈夫か？」	Is everything alright?	「大丈夫か？」
+「O-Of course!」	「も、もちろん！」	O-Of course!	「も、もちろん！」
+「Why wouldn't it be?」	「なんでそう思うの？」	Why wouldn't it be?	「どうかした？」
+「It just feels like you're a little off...」	「今日のお前、ちょっと変だからさ……」	It just feels like you're a little off...	「いや、今日のお前、ちょっと変だぞ……」
+「Sorry for assuming things.」	「勝手に思い込んじゃってごめんな」	Sorry for assuming things.	「余計なお世話かもしれないけど」
+「Jeez, you worry too much about me.」	「えー、わたしのこと心配しすぎだよ」	Jeez, you worry too much about me.	「えー、わたしのこと心配しすぎだよ」
+「I'm fine, see?」	「ほら、わたしなら大丈夫だから」	I'm fine, see?	「ほら、わたしなら大丈夫だから」
+Sayori shows me a big smile.	サヨリは大きな笑顔を見せる。	Sayori shows me a big smile.	サヨリは大きな笑顔を見せる。
+「Don't let me distract you from having fun with everyone.」	「それに、みんなと楽しそうにしている[player]を邪魔したくないよ」	Don't let me distract you from having fun with everyone.	「それに、みんなと楽しそうにしている[player]を邪魔したくないよ」
+「Well...alright.」	「そうか……分かったよ」	Well...alright.	「そうか……わかったよ」
+「If you say so.」	「お前がそういうなら」	If you say so.	「まあモニカがそう言うなら」
+I worriedly glance at Sayori before turning back toward everyone else.	心配しながらちらりとサヨリに目を向けてから、俺は他のみんなのほうへと振り向く。	I worriedly glance at Sayori before turning back toward everyone else.	ちらりとサヨリに心配のまなざしを向けてから、俺は他のみんなの方へと振り向く。
+But the conversation has already dispersed, with everyone back at their usual activities.	しかし会話はすでに終わっており、みんなはいつもの行動へと移っている。	But the conversation has already dispersed, with everyone back at their usual activities.	しかし会話はすでに終わっており、みんなはいつもの行動へと移っている。
+Maybe I should ask Monika if she's noticed anything about Sayori recently...	ちょっとサヨリのことで何か気づいていないか、モニカに聞いてみようか……	Maybe I should ask Monika if she's noticed anything about Sayori recently...	サヨリのことで何か気づいたことがないか、モニカに聞いてみようか……
+Since they've been preparing for the festival, they must be spending a lot of time together.	文化祭の準備をしている中で、一緒に過ごしている時間も多いはずだ。	Since they've been preparing for the festival, they must be spending a lot of time together.	文化祭の準備をしている中で、二人は一緒に過ごしている時間も多いはずだ。
+I timidly approach Monika, who is shuffling through some papers at her desk.	おどおどと、俺は書類を整理しているモニカに近づく。	I timidly approach Monika, who is shuffling through some papers at her desk.	俺はこっそり、書類を整理しているモニカに近づく。
+「[player]! What's up?」	「あら[player]君、どうしたの？」	[player]! What's up?	「あら[player]君、どうしたの？」
+「Hey, this might sound a little strange, but...」	「ああ、ちょっと変な質問かもしれないけれど……」	Hey, this might sound a little strange, but...	「ああ、ちょっと変な質問かもしれないけど……」
+「Have you noticed anything up with Sayori recently?」	「最近サヨリに何か変わったことはなかったか？」	Have you noticed anything up with Sayori recently?	「最近サヨリに何か変わったことはなかったか？」
+「Anything up with her...?」	「何か変わったこと……？」	Anything up with her...?	「何か変わったこと……？」
+「In what way do you mean?」	「それはどういう意味で？」	In what way do you mean?	「それはどういう意味で？」
+「Maybe I'm reading into it a little too much, but she seems a bit downcast today...」	「考えすぎかもしれないけど、今日はちょっと浮かない表情をしている気がするんだ……」	Maybe I'm reading into it a little too much, but she seems a bit downcast today...	「考えすぎかもしれないけど、今日は何か浮かない顔をしてる気がするんだ……」
+「Oh? You think so?」	「あら？ そうかしら？」	Oh? You think so?	「あら？ そうかしら？」
+「I can't say I've noticed anything about her...」	「私は特に何も気づかなかったけれど……」	I can't say I've noticed anything about her...	「私は特に何も気づかなかったけれど……」
+Monika peers across the room at Sayori, who is idly dragging a rubber eraser up and down her desk.	モニカは部屋の向こう側で、ぼんやりと机に消しゴムを擦り付けているサヨリに目をやる。	Monika peers across the room at Sayori, who is idly dragging a rubber eraser up and down her desk.	モニカは、部屋の向こう側でぼんやりと机に消しゴムを擦り付けているサヨリに目をやる。
+「Maybe there is something on her mind...」	「何か悩み事があるかもしれないわね……」	Maybe there is something on her mind...	「何か悩み事があるのかもしれないわね……」
+「But I'm surprised I'm not the one asking you, [player].」	「でも、それを[player]君のほうから聞いてくるなんてね」	But I'm surprised I'm not the one asking you, [player].	「でも、それを[player]君のほうから聞いてくるなんてね」
+「You certainly know her a lot better than I do.」	「私なんかよりも、サヨリについてよく知っているのはあなたなんだし」	You certainly know her a lot better than I do.	「私なんかよりも、サヨリについてよく知っているのはあなたなんだし」
+「Yeah, but she's never really like this...」	「ああ、でもあいつがこうしているのは初めてだ……」	Yeah, but she's never really like this...	「ああ、でもあいつがあんな風になるなんて初めてで……」
+「She's always talked to me about things that bothered her.」	「何か気がかりなことがあったら、いつも俺に相談しに来ていたんだし」	She's always talked to me about things that bothered her.	「何か気がかりなことがあったら、いつも俺に相談しに来てたんだ」
+「But this time, when I asked her, she was really dismissive.」	「なのに今回は、聞いても避けられているみたいなんだ」	But this time, when I asked her, she was really dismissive.	「なのに今回は、聞いても避けられているみたいなんだ」
+「...Sorry, I know it's not your problem!」	「……ごめん、お前には関係ない事だった！」	...Sorry, I know it's not your problem!	「……ごめん、お前には関係ないことだった！」
+「I just wanted to ask if you knew anything, so I'll drop it now...」	「ただ聞いてみただけなんだ、もうこの話はやめるよ……」	I just wanted to ask if you knew anything, so I'll drop it now...	「ただ聞いてみただけなんだ、もうこの話はやめるよ……」
+「No, no...」	「いえ、そんなこと……」	No, no...	「いえ、そんなこと……」
+「It's important to me, too.」	「これは私にとっても大事なんだし」	It's important to me, too.	「これは私にとっても大事なことだわ」
+「I mean, I'm also friends with her...」	「私だってサヨリの友達よ……」	I mean, I'm also friends with her...	「私だってサヨリの友達よ……」
+「And I also care about the well-being of my club members, you know?」	「それに我が部員のことなら、私だって放ってはおけないわ」	And I also care about the well-being of my club members, you know?	「それに我が部員のことなら、私だって放ってはおけないわ」
+「Maybe I'll try talking to her myself...」	「私から話しかけてみようかしら……」	Maybe I'll try talking to her myself...	「私から話しかけてみようかしら……」
+「Eh? Are you sure about that...?」	「え？ 本気か……？」	Eh? Are you sure about that...?	「え？ 本当か……？」
+「She seemed like she wanted to be left alone...」	「なんだか一人にしておいて欲しいみたいだったけれど……」	She seemed like she wanted to be left alone...	「でも、何か一人にしておいてほしいみたいだったけど……」
+「Are you sure?」	「そうかしら？」	Are you sure?	「うーん……」
+「Maybe she just has a hard time bringing it up with the person of interest...」	「もしかしたら、気になる人には言いづらいことなのかもね……」	Maybe she just has a hard time bringing it up with the person of interest...	「もしかしたら、気になる人には言いづらいことなのかもね……」
+「Person of interest...?」	「気になる人……？」	Person of interest...?	「気になる人……？」
+「What do you mean by that?」	「それは一体どういうことだ？」	What do you mean by that?	「それって一体どういうことだ？」
+「I'm saying that maybe the thing on her mind is you, [player].」	「つまり、あなたのことを考えているのかもしれないって言っているのよ、[player]君」	I'm saying that maybe the thing on her mind is you, [player].	「つまり、あなたのことを考えているのかもしれないって言っているのよ、[player]君」
+「Me...?」	「俺の……？」	Me...?	「俺の……？」
+「How on Earth would you come to that conclusion?」	「どうやったらそんな結論にたどり着くんだ？」	How on Earth would you come to that conclusion?	「どうやったらそんな結論にたどり着くんだ？」
+「Well...」	「そうねえ……」	Well...	「今度は……」
+「I probably shouldn't say too much, but...」	「あまり言わないほうが良いのかもしれないけれど……」	I probably shouldn't say too much, but...	「あまり言わない方が良いのかもしれないけれど……」
+「Sayori talks about you more than anything else, you know?」	「サヨリはどんな話題よりも、あなたのことをよく話すのよ？」	Sayori talks about you more than anything else, you know?	「サヨリは何よりもあなたのことをよく話すのよ？」
+「Eh...?」	「え……？」	Eh...?	「え……？」
+「She's been so much happier ever since you've joined the club.」	「あなたが入部してから本当に楽しそうにしているわ」	She's been so much happier ever since you've joined the club.	「あなたが入部してから本当に楽しそうにしているわ」
+「It's like an extra light was turned on inside of her.」	「まるで彼女の中で、もう一つ明かりが点いたみたいにね」	It's like an extra light was turned on inside of her.	「まるで彼女の中で、もう一つ明かりが点いたみたいにね」
+「What?」	「何だって？」	What?	「何ですって？」
+「No way...」	「そんなことは……」	No way...	「そんなことは……」
+「Sayori...is always like that.」	「サヨリはいつも……あんな感じなんだよ」	Sayori...is always like that.	「サヨリはいつも……あんな感じなんだよ」
+「She's always been full of sunshine.」	「いつもすごく明るくて」	She's always been full of sunshine.	「いつもすごく明るくて」
+「It's not any different now than it always has been.」	「ずっと昔から常に、ああいう感じだ」	It's not any different now than it always has been.	「ずっと昔から常に、ああいう感じだ」
+「Ehehe.」	「えへへ」	Ehehe.	「えへへ」
+「You're so funny, [player].」	「おかしい人ね、[player]君」	You're so funny, [player].	「おかしい人ね、[player]君」
+「Have you thought that maybe you've always seen her as so cheerful...」	「サヨリがいつも元気そうに見えるのは……」	Have you thought that maybe you've always seen her as so cheerful...	「サヨリがいつも元気そうに見えるのは……」
+「...because that's just how she is when she's around you?」	「……あなたがそばにいてあげたからなんじゃない？」	...because that's just how she is when she's around you?	「……あなたがそばにいてあげたからなんじゃない？」
+「...」	「……」	...	「……」
+「Ah...I said too much.」	「ああ……ちょっと言いすぎちゃったかしら」	Ah...I said too much.	「ああ……ちょっと言いすぎちゃったかしら」
+「I'm sorry...what do I know, anyway?」	「ごめんなさい……詳しく知りもしないのにね」	I'm sorry...what do I know, anyway?	「ごめんなさい……詳しく知りもしないのにね」
+「I didn't mean to jump to conclusions, so you should just forget about what I said.」	「決めつけちゃったりするつもりはなかったから、今言ったことは忘れてね」	I didn't mean to jump to conclusions, so you should just forget about what I said.	「決めつけちゃったりするつもりはなかったから、今言ったことは忘れてね」
+「I'll try to talk to her, so try not to think about it for now.」	「私もサヨリに声をかけてみるから、ひとまず気にしないほうがいいわ」	I'll try to talk to her, so try not to think about it for now.	「私もサヨリに声をかけてみるから、ひとまず気にしない方がいいわ」
+「Ah...」	「あー……」	Ah...	「あのね……」
+「Alright...」	「そうだな……」	Alright...	「わかった……」
+Monika smiles meaningfully.	モニカは意味ありげな微笑みを見せる。	Monika smiles meaningfully.	モニカは意味ありげな微笑みを見せる。
+I know she said to forget about it...	忘れろとは言われたけれど……	I know she said to forget about it...	忘れろとは言われたけれど……
+But I already know that I won't be able to get her words out of my head.	彼女の言葉は、もう頭から離れないだろう。	But I already know that I won't be able to get her words out of my head.	彼女の言葉は、もう頭から離れないだろう。
+Monika stands up from her desk and walks across the room to where Sayori is sitting.	モニカは席から立ち上がり、部屋の向こうにいるサヨリのほうまで歩く。	Monika stands up from her desk and walks across the room to where Sayori is sitting.	モニカは席から立ち上がり、部屋の向こうのサヨリの方へ近づいていく。
+I watch her kneel down next to Sayori and gently talk to her.	彼女がサヨリの隣にしゃがんで優しく話しかける光景を、俺は見つめる。	I watch her kneel down next to Sayori and gently talk to her.	彼女がサヨリの隣にしゃがんで優しく話しかける光景を、俺は見つめる。
+But she's keeping her voice so quiet that I can't hear her from here.	だが声は小さすぎて、ここからだと何を言っているのか聞き取れない。	But she's keeping her voice so quiet that I can't hear her from here.	だが声は小さすぎて、ここからだと何を言っているのか聞き取れない。
+I sigh and sit myself down.	俺は溜息をついて席に座る。	I sigh and sit myself down.	俺はため息をついて席に座る。
+I know Sayori told me not to worry about her, and to have fun with everyone else...	サヨリには、気にしないで他のみんなと楽しそうにしていろと言われたけれど……	I know Sayori told me not to worry about her, and to have fun with everyone else...	サヨリには、気にしないで他のみんなと楽しそうにしていろと言われたけれど……
+But that's impossible to do when she's behaving like this.	彼女がこうしているうちは、そんなのは無理だ。	But that's impossible to do when she's behaving like this.	彼女がこうしているうちは、そんなのは無理だ。
+Exactly how much do I care about her, that I'm letting this weigh me down so much?	ここまで気が重くなってしまうなんて、俺は一体どこまで彼女のことを気にしているのだろうか？	Exactly how much do I care about her, that I'm letting this weigh me down so much?	ここまで気が重くなってしまうなんて、俺は一体どこまで彼女のことを気にしているのだろうか？
+Now it feels like I'm the one behaving out of the ordinary...	これじゃ、まるでこっちが変みたいじゃないか……	Now it feels like I'm the one behaving out of the ordinary...	これじゃ、まるでこっちが変みたいじゃないか……
+But there's nothing I can do besides wait for Monika.	でも今の俺にできることは、モニカを待つことくらいだ。	But there's nothing I can do besides wait for Monika.	でも今の俺にできることは、モニカを待つことくらいだ。

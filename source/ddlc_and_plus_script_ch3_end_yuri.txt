@@ -1,0 +1,134 @@
+「Well, I'll probably be most useful helping out Yuri...」	「まあ、そういう事ならユリを手伝おうかな……」	Well, I'll probably be most useful helping out Yuri...	「まあ、そういうことならユリを手伝おうかな……」
+「M-Me...?」	「わ、私……？」	M-Me...?	「わ、私……？」
+「Are you serious?」	「あんたそれ本気なの？」	Are you serious?	「アンタ、それ本気なの？」
+「Why would you--」	「何でまた、そんな――」	Why would you--	「何でまたそんな――」
+「Natsuki.」	「ナツキ」	Natsuki.	「ナツキ」
+「I can already tell you're about to say something mean.」	「また何か意地悪を言うつもりね」	I can already tell you're about to say something mean.	「また何か意地悪を言うつもりね」
+「N-No...」	「ち、違う……」	N-No...	「ち、違う……」
+「I was just saying--」	「ただわたしは――」	I was just saying--	「ただアタシは――」
+「Ugh...」	「もう……」	Ugh...	「あれ……」
+「So, you'll be helping Yuri then, [player]?」	「それじゃあ、[player]君はユリを手伝うのね？」	So, you'll be helping Yuri then, [player]?	「それじゃあ、[player]君はユリを手伝うのね？」
+「Yeah.」	「ああ」	Yeah.	「そうね」
+「That's what I'm going to do.」	「そうすることにしたよ」	That's what I'm going to do.	「そうすることにしたよ」
+「I'm glad.」	「良かったです」	I'm glad.	「良かったです」
+「I have a bad habit of overthinking these sorts of things...」	「私って、こういうものは考えすぎてしまう悪い癖がありますので……」	I have a bad habit of overthinking these sorts of things...	「私、考えすぎてしまう悪い癖がありますので……」
+「So I think your assistance will be very useful.」	「[player]さんの手を貸して頂けると、とても助かります」	So I think your assistance will be very useful.	「[player]さんに協力いただけると、とても助かります」
+「That's great to hear.」	「それはよかったわ」	That's great to hear.	「それはよかったわ」
+「Natsuki, will you be able to handle the baking yourself?」	「ナツキ、カップケーキ作りの方は一人で出来そうかしら？」	Natsuki, will you be able to handle the baking yourself?	「ナツキ、カップケーキづくりの方は、一人でできそうかしら？」
+「I mean, yeah.」	「まあ大丈夫よ」	I mean, yeah.	「大丈夫よ」
+「I already said I would be fine.」	「一人でも出来るって言っちゃったからね」	I already said I would be fine.	「一人でもできるって言ったでしょ」
+「Okay, okay...」	「そう、そうだったわね……」	Okay, okay...	「そうだったわね……」
+Everyone can tell that Natsuki is feeling a little sour.	ナツキが少し不機嫌そうなのは、誰が見ても一目瞭然だ。	Everyone can tell that Natsuki is feeling a little sour.	ナツキが少し不機嫌そうなのは、誰が見ても一目瞭然だ。
+「So...is that everything we needed to go over?」	「それで……準備することはこれで全部なのか？」	So...is that everything we needed to go over?	「それで……準備することはこれで全部なのか？」
+「Yeah, that should be about it.」	「うん、これくらいだったはず」	Yeah, that should be about it.	「うん、これくらいだったはず」
+「Are you guys excited?」	「みんな、何だかワクワクしてこない？」	Are you guys excited?	「みんな、何だかワクワクしてこない？」
+「Well, 'excited' may not be the right word...」	「ええ、『ワクワク』という言葉とは少し違うかもしれませんが……」	Well, 'excited' may not be the right word...	「ええ、『ワクワク』という言葉とは少し違うかもしれませんが……」
+「But I suppose I'm looking forward to it a little bit.」	「でも少しだけ楽しみな気がしています」	But I suppose I'm looking forward to it a little bit.	「でも少しだけ楽しみな気がしています」
+「Do you feel the same way, [player]?」	「[player]君も同じ気持ちかしら？」	Do you feel the same way, [player]?	「[player]君も同じ気持ちかしら？」
+「Me?」	「俺？」	Me?	「アタシ？」
+「Ah, I guess you could say I'm interested to see how it'll turn out...」	「まあ、どんな結果になるのか楽しみではあるかな……」	Ah, I guess you could say I'm interested to see how it'll turn out...	「まあ、どんな結果になるのか楽しみではあるかな……」
+「That's good enough for me!」	「私としてはそれで十分！」	That's good enough for me!	「私としてはそれで十分！」
+「What about you, Natsuki?」	「ナツキはどうかしら？」	What about you, Natsuki?	「ナツキはどうかしら？」
+「...」	「……」	...	「……」
+「Natsuki!」	「ナツキちゃん！」	Natsuki!	「ナツキちゃん！」
+「What??」	「何よ？？」	What??	「何よ？？」
+「Why is everyone yelling at me?」	「なんでわたし、みんなから責められてるのよ？」	Why is everyone yelling at me?	「何でアタシ、みんなから責められてるのよ？」
+「I didn't even do anything...!」	「わたし、何もしてないじゃない……！」	I didn't even do anything...!	「わたし、何もしてないじゃない……！」
+「N-no--!」	「ち、違うんです――！」	N-no--!	「ち、違います――！」
+「That's not what I meant at all!」	「そんな風に言った訳ではなくて！」	That's not what I meant at all!	「そんな風に言ったわけではなくて！」
+「A-Ah...」	「あ、あの……」	A-Ah...	「う、うん……」
+Yuri anxiously glances between everyone in the room.	ユリは不安げに部屋に居るみんなを見る。	Yuri anxiously glances between everyone in the room.	ユリは不安げにみんなを見る。
+「I-I'm sorry for this!」	「な、なんだかごめんなさい！」	I-I'm sorry for this!	「な、何だかごめんなさい！」
+「I don't really know why [player] picked me...」	「私、何故[player]さんが私を選んだのか全然解らなくて……」	I don't really know why [player] picked me...	「私、何故[player]さんが私を選んだのか全然わからなくて……」
+「And also...」	「それに、ええと……」	And also...	「それに、ええと……」
+「Your cupcakes are the best cupcakes I've ever had!」	「あなたのカップケーキは最高の出来なんですから！」	Your cupcakes are the best cupcakes I've ever had!	「あなたのカップケーキは最高なんです！」
+「They go really well with my tea!」	「私のお茶とも本当によく合うんですから！」	They go really well with my tea!	「私のお茶とも本当によく合うんですから！」
+「And nothing that I do for the event will compare to that, so...」	「私が何をしたってそれには敵わないんですから、だから……」	And nothing that I do for the event will compare to that, so...	「私が何をしたってそれには敵わないんです、だから……」
+「So...」	「だから、ええと……」	So...	「それで……」
+「I get it, I get it.」	「分かった、分かったから」	I get it, I get it.	「わかった、わかったから」
+「I'm kinda surprised, though...」	「それにしても驚いたわよ……」	I'm kinda surprised, though...	「それにしても驚いたわよ……」
+「W-Why?」	「な、何が？」	W-Why?	「な、何が？」
+「Um...」	「えっと……」	Um...	「その……」
+「Well, I'm the one acting immature...」	「まあ、幼稚なこと言っちゃったのはわたしなんだし……」	Well, I'm the one acting immature...	「まあ、幼稚なこと言っちゃったのはアタシなんだし……」
+「I already know that.」	「それは理解しているわ」	I already know that.	「それは理解してるわ」
+「But you're trying to cheer me up all of a sudden...」	「でもあんたが突然、わたしのこと励まそうとしてくるだなんて……」	But you're trying to cheer me up all of a sudden...	「でもアンタが突然、アタシのこと励まそうとしてくるだなんて……」
+「I-I know I'm not very good at it...」	「わ、私こういう事はあまり得意ではなくて……」	I-I know I'm not very good at it...	「わ、私、こういうことはあまり得意ではなくて……」
+「I'm sorry if I said something bad!」	「何か気に障ることを言ってしまったのなら、ごめんなさい！」	I'm sorry if I said something bad!	「何か気に障ることを言ってしまったのなら、ごめんなさい！」
+Natsuki isn't the only one surprised.	驚いたのはナツキだけではなかった。	Natsuki isn't the only one surprised.	驚いたのはナツキだけではなかった。
+Monika and I are also taken aback by Yuri's words.	ユリの言葉には、モニカも俺も驚きを隠せない。	Monika and I are also taken aback by Yuri's words.	ユリの言葉には、モニカも俺も驚きを隠せない。
+When she already has trouble with words, trying to cheer someone up must be far out of her own comfort zone.	思いを言葉にするのが苦手な彼女が、誰かを励まそうなんて勇気が要ることだっただろう。	When she already has trouble with words, trying to cheer someone up must be far out of her own comfort zone.	思いを言葉にするのが苦手な彼女が誰かを励まそうなんて、勇気が要ることだっただろう。
+But I begin to understand.	だが俺も分かってきた。	But I begin to understand.	だが俺もわかってきた。
+Yuri was trying to sound like Sayori.	ユリは、サヨリみたいな事を言おうとしたんだ。	Yuri was trying to sound like Sayori.	ユリは、サヨリの役割を果たそうとしたんだ。
+Even if it didn't work perfectly, I can tell that she tried to say something Sayori would say at a time like this.	完璧に出来ていなかったとしても、ここでサヨリが言いそうな言葉を言おうとしていたことは伝わってきた。	Even if it didn't work perfectly, I can tell that she tried to say something Sayori would say at a time like this.	完璧ではなかったとしても、ここでサヨリが言いそうなことを言おうとしたんだ。
+Because Sayori always helps everyone smile and feel good about themselves.	サヨリはいつだってみんなを明るくし、笑顔を与えてきたからだ。	Because Sayori always helps everyone smile and feel good about themselves.	サヨリはいつだってみんなを明るくし、笑顔を与えてきたからだ。
+「No...」	「いや、まあ……」	No...	「いいえ……」
+「I kinda appreciated it.」	「ちょっとありがたかったわよ」	I kinda appreciated it.	「ちょっとだけありがたかったわよ」
+「I'm sorry...for making a big deal out of nothing.」	「何でもない事なのに突っかかっちゃって……ごめん」	I'm sorry...for making a big deal out of nothing.	「何でもないことなのに、突っかかっちゃって……ごめん」
+「But I'm going to say this.」	「でも、これだけは言わせてもらうわ」	But I'm going to say this.	「でも、これだけは言わせてもらうわ」
+「...?」	「……？」	...?	「……？」
+「You better bet that my cupcakes are going to be the best part of the whole event!」	「出し物の一番いいところになるのはわたしのカップケーキなんだからね！」	You better bet that my cupcakes are going to be the best part of the whole event!	「一番注目を浴びる出し物は、わたしのカップケーキなんだからね！」
+「Ah...」	「あ……」	Ah...	「あのね……」
+「...I believe you.」	「……信じてます」	...I believe you.	「……信じています」
+「Yeah!」	「そうね！」	Yeah!	「いいね！」
+「I hope to see everyone do their best.」	「みんなには是非、全力を尽くしてほしいわ」	I hope to see everyone do their best.	「みんなで精一杯がんばりましょう」
+「But with that...」	「それじゃあ……」	But with that...	「それじゃあ……」
+「There's nothing more for today.」	「今日はここまでにしましょう」	There's nothing more for today.	「今日はここまでにしましょう」
+「So I guess it's time for us to head out.」	「そろそろ帰りましょうか」	So I guess it's time for us to head out.	「そろそろ帰りましょうか」
+「Alright, let's get out of here, then.」	「よし、じゃあ行きましょう」	Alright, let's get out of here, then.	「よし、じゃあ行きましょう」
+Everyone packs up their things.	みんなが帰り支度をする。	Everyone packs up their things.	みんなが帰り支度をする。
+I start to follow Monika and Natsuki out the door as they chat between each other.	話しながら部屋を出ていくモニカとナツキに続いて、俺も部屋を出ようとする。	I start to follow Monika and Natsuki out the door as they chat between each other.	話しながら部屋を出ていくモニカとナツキに続いて、俺も部屋を出ようとする。
+「U-Um--!」	「あ、あの――！」	U-Um--!	「あ、あの――！」
+「Eh?」	「え？」	Eh?	「えっ？」
+I turn around.	俺は振り向いた。	I turn around.	俺は振り向いた。
+「Sorry...」	「ごめんなさい……」	Sorry...	「ごめんなさい……」
+「I realized that I don't have any way of contacting you this weekend...」	「今週末にあなたと連絡手段が無い事に気づいてしまいまして……」	I realized that I don't have any way of contacting you this weekend...	「今週末、連絡を取る手段がないことに気づいてしまいまして……」
+「Oh, you're right.」	「ああ、そうか」	Oh, you're right.	「ああ、そうか」
+「I can't believe that slipped my mind.」	「俺もすっかり忘れてたよ」	I can't believe that slipped my mind.	「俺もすっかり忘れてたよ」
+「Should I give you my phone number?」	「電話番号でも渡そうか？」	Should I give you my phone number?	「電話番号でも渡そうか？」
+「I think...that would be the best way, yes.」	「そうですね……それが一番良いですね」	I think...that would be the best way, yes.	「そうですね……それが一番良いですね」
+「Alright, then...」	「よし、それじゃ……」	Alright, then...	「よし、それじゃ……」
+Yuri and I exchange phone numbers.	俺とユリは電話番号を交換する。	Yuri and I exchange phone numbers.	俺とユリは電話番号を交換する。
+「Okay.」	「よし」	Okay.	「わかりました」
+「Then, I'll be stopping by your house on Sunday...」	「それでは、日曜日にあなたの家に伺いますので……」	Then, I'll be stopping by your house on Sunday...	「それでは、日曜日はあなたの家に伺いますので……」
+「Eh?」	「え？」	Eh?	「はっ？」
+「My house?」	「俺の家？」	My house?	「俺の家？」
+「I-Is that a problem...?」	「な、何か問題でも……？」	I-Is that a problem...?	「な、何か問題でも……？」
+「No, not at all...」	「いや、無いけども……」	No, not at all...	「いや、ないけど……」
+「I just thought that I would be the one going to your house, since I'm the one helping you.」	「ただ俺が手伝う側なんだから、こっちがユリの家に行くものだと思ってたよ」	I just thought that I would be the one going to your house, since I'm the one helping you.	「ただ、俺が手伝う側なんだから、こっちがユリの家に行くものだと思ってたよ」
+「Ah, I suppose that makes sense...」	「ああ、そういえばそうですね……」	Ah, I suppose that makes sense...	「ああ、そういえばそうですね……」
+「But, if you don't mind...」	「でも、よければの話なんですけど……」	But, if you don't mind...	「でも、よければの話なんですけど……」
+「I think I would prefer going to your house.」	「私が[player]さんの家に行けたらな、って…」	I think I would prefer going to your house.	「私が[player]さんの家に行けたらな、って」
+「Alright.」	「そうか」	Alright.	「わかった」
+「In that case, it won't be a problem.」	「そういうことなら、別に問題ないぞ」	In that case, it won't be a problem.	「別に問題はないぞ」
+I decide not to press Yuri for a reason.	その理由については深く追求しないことにした。	I decide not to press Yuri for a reason.	理由については深く追求しないことにした。
+It's not like it should matter much either way, so I'll just need to make sure my room is clean.	どっちでも良かったわけだが、ただ部屋の掃除ぐらいはする必要があるな。	It's not like it should matter much either way, so I'll just need to make sure my room is clean.	どっちでも良かったわけだが、部屋の掃除ぐらいはする必要があるな。
+「I hope I manage to make myself useful in some way...」	「俺も力になれるようにちゃんと手伝えたらいいんだが……」	I hope I manage to make myself useful in some way...	「俺も力になれるように、ちゃんと手伝えたらいいんだけど……」
+「I'm not nearly as creative as you are.」	「俺にはお前のような発想力は無いからな」	I'm not nearly as creative as you are.	「俺にはお前のような発想力はないからな」
+「Don't underestimate yourself, [player].」	「[player]さん、そんなに自分を過小評価しないで下さい」	Don't underestimate yourself, [player].	「[player]さん、そんなに自分を過小評価しないでください」
+「I think that we'll make a very productive team.」	「私たちはきっといいチームになるはずです」	I think that we'll make a very productive team.	「私たちはきっといいチームになるはずです」
+「Even if you only chose me because you felt bad or something...」	「例えあなたが、単なる同情で私を選んでいたのだとしても……」	Even if you only chose me because you felt bad or something...	「例えあなたが、単なる同情で私を選んだのだとしても……」
+「Wait...!」	「待ってくれ……！」	Wait...!	「待ってくれ……！」
+「You don't actually think that, do you?」	「まさか本当にそう思ってるのか？」	You don't actually think that, do you?	「まさか本当にそう思ってるのか？」
+「...」	「……」	...	「……」
+「I...don't know.」	「私には……分かりません」	I...don't know.	「……わからないんです」
+「It's difficult to come up with any other reason you may have chosen me...」	「私なんかを選んでくれた理由が他に見つかりませんし……」	It's difficult to come up with any other reason you may have chosen me...	「私なんかを選んでくれた理由が他に見つかりませんし……」
+「You're forgetting the one reason with the most common sense!」	「一番常識的な理由を忘れているじゃないか！」	You're forgetting the one reason with the most common sense!	「一番常識的な理由を忘れているじゃないか！」
+「I chose to help you because that's what I want to do.」	「ユリを手伝いたかったから、お前を選んだんだよ」	I chose to help you because that's what I want to do.	「ユリを手伝いたかったから、選んだんだよ」
+「B-But...」	「で、でも……」	B-But...	「そ、そっか……」
+Yuri thinks to herself with an extremely tense expression.	ユリはとても張り詰めた表情で何かを考えている。	Yuri thinks to herself with an extremely tense expression.	ユリはとても張り詰めた表情で何かを考えている。
+「Yuri...you're overthinking this.」	「ユリ……考えすぎだって」	Yuri...you're overthinking this.	「ユリ……考えすぎだって」
+「You wanted me to point out when you're overthinking, right?」	「お前が考えすぎているときは、こうやって俺が指摘してやるんだったよな？」	You wanted me to point out when you're overthinking, right?	「お前が考えすぎているときは、こうやって俺が指摘してやるんだったよな？」
+「Eh...?」	「えっ……？」	Eh...?	「え……？」
+「I...didn't realize...」	「私……気づかなくて……」	I...didn't realize...	「私……気づかなくて……」
+「I'm telling you, I want to.」	「さっきも言ったが、お前を手伝いたいんだ」	I'm telling you, I want to.	「さっきも言ったが、お前を手伝いたいんだ」
+「That's all there is to it.」	「ただそれだけなんだよ」	That's all there is to it.	「ただそれだけなんだよ」
+「Do you believe me?」	「信じてくれるか？」	Do you believe me?	「信じてくれるか？」
+「I...」	「私……」	I...	「アタシは……」
+Yuri thinks really hard again.	ユリは再び考え込んだ。	Yuri thinks really hard again.	ユリは再び考え込んだ。
+She looks straight into my eyes for a long while.	しばらくの間、俺の目を真っ直ぐに見つめる。	She looks straight into my eyes for a long while.	しばらくの間、俺の目を真っ直ぐに見つめる。
+「...I believe you!」	「……私、信じます！」	...I believe you!	「……私、信じます！」
+As if it took her tremendous effort, Yuri finally says that and relaxes her expression.	やっとの思いでその一言を放ったユリは、表情を緩める。	As if it took her tremendous effort, Yuri finally says that and relaxes her expression.	やっとの思いでその一言を放ったユリは、表情を緩める。
+「And I'm really looking forward to Sunday.」	「日曜日、楽しみにしてますからね」	And I'm really looking forward to Sunday.	「日曜日、楽しみにしてますからね」
+「Yeah...」	「ああ……」	Yeah...	よし……
+「I am too.」	「俺もだ」	I am too.	「俺もだ」
+After that exchange, I make my way out the door, and Yuri follows.	こうして会話を終えると、俺とユリは教室を後にした。	After that exchange, I make my way out the door, and Yuri follows.	こうして会話を終えると、俺とユリは教室を後にした。

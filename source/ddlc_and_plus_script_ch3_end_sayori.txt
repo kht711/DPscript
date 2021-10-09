@@ -1,0 +1,13 @@
+「I mean...」	「えーと……」	I mean...	「ここが……」
+「If it's going to be anyone, then I prefer helping Sayori.」	「誰かを選ばなくちゃいけないなら、俺はサヨリの手伝いをしたい」	If it's going to be anyone, then I prefer helping Sayori.	「誰かを選ばなくちゃいけないなら、俺はサヨリの手伝いをしたい」
+「I mean, we're already neighbors, and--」	「ほら、俺たち近所だし、それに――」	I mean, we're already neighbors, and--	「ほら、俺たち近所だし、それに――」
+「But Monika said--」	「でもモニカちゃんは――」	But Monika said--	「でもモニカちゃんは――」
+「Monika said that Sayori was helping her!」	「モニカはサヨリに手伝ってもらうって言ってたじゃん！」	Monika said that Sayori was helping her!	「モニカはサヨリに手伝ってもらうって言ってたじゃん！」
+「Jeez...」	「はあ……」	Jeez...	「はあ……」
+「Do you really hate us that much?」	「そんなにわたしたちのこと嫌いなの？」	Do you really hate us that much?	「そんなにわたしたちのこと嫌いなの？」
+「N-No!」	「ち、違うよ！」	N-No!	「し、しないわよ！」
+「Sorry, I didn't mean for this to be difficult...」	「ごめんね、こんなに話を難しくするつもりはなかったの」	Sorry, I didn't mean for this to be difficult...	「ごめんね、こんなに面倒なことにするつもりはなかったの」
+「Just think of the club, okay?」	「とにかくこの部のことを考えましょう、ね？」	Just think of the club, okay?	「とにかく今は、この部のことを考えましょう、ね？」
+Natsuki.	ナツキ	Natsuki.	ナツキ
+Yuri.	ユリ	Yuri.	ユリ
+Monika.	モニカ	Monika.	モニカ

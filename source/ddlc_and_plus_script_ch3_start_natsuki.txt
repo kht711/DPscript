@@ -1,0 +1,58 @@
+「Hey, you.」	「ねえ、[player]」	Hey, you.	「ねえ、[player]」
+「Eh?」	「ん？」	Eh?	「えっ？」
+I look up to see Natsuki next to me.	隣に来たナツキを見上げる。	I look up to see Natsuki next to me.	隣に来たナツキを見上げる。
+「Are you just gonna sit there and keep staring at nothing?」	「そこに座ってぼーっとしてるつもり？」	Are you just gonna sit there and keep staring at nothing?	「そこに座ってぼーっとしてるつもり？」
+「There isn't that much time, so...」	「時間もそこまであるわけじゃないんだから」	There isn't that much time, so...	「時間もそんなにあるわけじゃないんだから……」
+「Ah, sorry.」	「ああ、ごめん」	Ah, sorry.	「ああ、ごめん」
+「I didn't mean to make you worry or anything.」	「心配させちゃったな」	I didn't mean to make you worry or anything.	「心配させちゃったな」
+「I-It's not like I'm worried!」	「べ、別に心配してたわけじゃないし！」	I-It's not like I'm worried!	「べ、別に心配してたわけじゃないし！」
+「I was just...」	「ただ……」	I was just...	「ただ……」
+Natsuki glances down at her side.	ナツキはさっと目線をそらす。	Natsuki glances down at her side.	ナツキはさっと目線をそらす。
+She's holding a volume of manga in her hand.	彼女は手にマンガを一巻持っている。	She's holding a volume of manga in her hand.	彼女は手にマンガを一冊持っている。
+「That's right...」	「そうだな……」	That's right...	「そうですね……」
+「Something just came up for a minute, but we can get started now.」	「ちょっと考え事してたけど、そろそろ始めようか」	Something just came up for a minute, but we can get started now.	「ちょっと考え事してたけど、そろそろ始めようか」
+「I won't make you wait any longer.」	「待たせてごめんな」	I won't make you wait any longer.	「待たせてごめんな」
+「Jeez...」	「もう……」	Jeez...	「はあ……」
+「Now you're making me feel like a jerk.」	「わたしが嫌な奴みたいになったじゃない」	Now you're making me feel like a jerk.	「アタシがイヤなヤツみたいになったじゃない」
+「If something's bothering you, then you can just tell me to leave you alone, and I will.」	「何か考え事してて、ほっといてほしいんだったら、そうするけど」	If something's bothering you, then you can just tell me to leave you alone, and I will.	「何か考え事してて、ほっといてほしいんだったら、そうするけど」
+「I mean...」	「えっと……」	I mean...	「ここが……」
+「Assuming you didn't feel like talking about it or anything...」	「それは相談したくないんなら、の話だけど……」	Assuming you didn't feel like talking about it or anything...	「相談に乗ってあげないってこともないけどさ……」
+She practically mumbles that last part.	最後のほうはよく聞こえなかった。	She practically mumbles that last part.	最後の方はよく聞こえなかった。
+「Nah...I'm probably making it seem like a bigger deal than it is.」	「いや……たぶん俺が大げさにふるまってるだけだ」	Nah...I'm probably making it seem like a bigger deal than it is.	「いや……たぶん俺が大げさだっただけだ」
+「I've just been thinking about Sayori, that's all.」	「ただサヨリのことを考えてただけだ」	I've just been thinking about Sayori, that's all.	「ただサヨリのことを考えてただけで」
+「S-Sayori...?」	「サ、サヨリ……？」	S-Sayori...?	「サ、サヨリ……？」
+「Thinking about her...?」	「考えてた……？」	Thinking about her...?	「考えてた……？」
+「Yeah, she seems pretty down today.」	「ああ、結構落ち込んでるみたいなんだ」	Yeah, she seems pretty down today.	「ああ、結構落ち込んでるみたいなんだ」
+「But she didn't want to admit it to me.」	「でも俺には話してくれなくて」	But she didn't want to admit it to me.	「でも俺には話してくれなくて」
+「So I can't help but wonder if something happened to her.」	「だから何かあったんじゃないかって気がしてならないんだ……」	So I can't help but wonder if something happened to her.	「だから何かあったんじゃないかって……」
+「Oh...」	「そうなの……」	Oh...	「何よ……」
+Natsuki exhales.	ナツキがため息をつく。	Natsuki exhales.	ナツキがため息をつく。
+「Well, first of all...」	「まず……」	Well, first of all...	「まず……」
+「You should really work on your phrasing!」	「勘違いする言い方はやめなさいよね！」	You should really work on your phrasing!	「勘違いする言い方はやめなさいよね！」
+「But anyway...」	「それよりも……」	But anyway...	「それで……」
+「You're her best friend, right?」	「二人は親友なんでしょ？」	You're her best friend, right?	「二人は親友なんでしょ？」
+「Yeah, I guess so...」	「まあな……」	Yeah, I guess so...	「まあ、たぶんそうだ……」
+「Yeah.」	「そうでしょ？」	Yeah.	「そうね」
+「Then in that case, I think you should trust her a little more.」	「それだったらもうちょっと信頼してあげてもいいんじゃない？」	Then in that case, I think you should trust her a little more.	「だったら、もうちょっと信頼してあげてもいいんじゃない？」
+「If she needed you, then you would be the first person she would go to, right?」	「もしもあいつが助けを必要としていたら、一番にあんたの元に行くでしょ？」	If she needed you, then you would be the first person she would go to, right?	「もしもあの子が助けを必要としていたら、一番にアンタのところに行くでしょ？」
+「Well... I guess that's true.」	「まあ……多分そうだな」	Well... I guess that's true.	「まあ……たぶんそうだな」
+「I mean, some people just have those days.」	「ていうか、そういう日もあるのよ」	I mean, some people just have those days.	「ていうか、そういう日もあるのよ」
+「You can't always avoid it.」	「絶対に防げるようなものじゃないし」	You can't always avoid it.	「絶対に防げるようなものじゃないし」
+「If anything, she probably doesn't want you to worry about her because it's not important.」	「もしも心配して欲しくないんだったら多分大事じゃないわ」	If anything, she probably doesn't want you to worry about her because it's not important.	「もし、心配してほしくないんだったら、たぶん大事ではないわ」
+「Yeah, that's kind of what she said to me...」	「ああ、そんなことをあいつに言われたよ……」	Yeah, that's kind of what she said to me...	「ああ、そんなことをあいつに言われたよ……」
+「Maybe it's not right for me to go against her wishes.」	「あいつの言う通りにした方がいいのかもな」	Maybe it's not right for me to go against her wishes.	「あいつの言う通りにした方がいいのかもな」
+「Exactly.」	「そうよ」	Exactly.	「そうよ」
+「If she needs you to worry about her, then it'll be a lot more obvious.」	「もしも心配して欲しいんだったら、もっと分かりやすいはずよ」	If she needs you to worry about her, then it'll be a lot more obvious.	「もしも心配してほしいんだったら、もっとわかりやすいはずよ」
+「Yeah...」	「ああ……」	Yeah...	よし……
+「I should have thought of it that way from the start.」	「最初からそう考えてればよかった」	I should have thought of it that way from the start.	「最初からそう考えてればよかった」
+Natsuki fiddles with the book she's holding in her hands.	ナツキは持っている本で手遊びをしている。	Natsuki fiddles with the book she's holding in her hands.	ナツキは持っている本で手遊びをしている。
+「She...」	「サヨリは……」	She...	「サヨリは……」
+「She really means a lot to you, doesn't she...?」	「あんたにとってすごく大事なのね……」	She really means a lot to you, doesn't she...?	「アンタにとってすごく大事なのね……」
+「Ah--」	「あっ……」	Ah--	「えっと……」
+「Don't get the wrong idea or anything...!」	「別にそういうのじゃないからな！」	Don't get the wrong idea or anything...!	「別にそういうのじゃないからな……！」
+「We've just been friends for a long time.」	「ただ単に長い付き合いなだけだ」	We've just been friends for a long time.	「ただ単に長い付き合いなだけだ」
+「It's normal to be worried about your friends.」	「友達を心配するのは当たり前だろ」	It's normal to be worried about your friends.	「友達を心配するのは当たり前だろ」
+「I mean, you were worried about me, so--」	「だってさっきお前も俺を心配――」	I mean, you were worried about me, so--	「だってさっきお前も俺を心配――」
+「I was not!!」	「してないっ！！」	I was not!!	「してないっ！！」
+「Jeez...if you're fine, then let's hurry and get started already!」	「まったく、大丈夫なんだったらさっさと始めるわよ！」	Jeez...if you're fine, then let's hurry and get started already!	「まったく……大丈夫なんだったらさっさと始めるわよ！」
+「Yeah, yeah...」	「はいはい」	Yeah, yeah...	「はいはい……」
