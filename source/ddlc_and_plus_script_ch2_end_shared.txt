@@ -1,0 +1,20 @@
+「That has nothing to do with what I just said!」	「それは俺が言ったことと何の関係も無いだろ！」	That has nothing to do with what I just said!	「おい、そんなこと口に出してないぞ！」
+「Ahaha! You admitted it!」	「あはは！ 否定はしないんだ！」	Ahaha! You admitted it!	「あはは！ じゃあ思ってただけかな？」
+「Jeez...」	「まったく……」	Jeez...	「はあ……」
+「There's not even any point in speculating something that's never going to happen.」	「起こりようもないことについて考えたところで何の意味も無いだろ」	There's not even any point in speculating something that's never going to happen.	「起こりようもないことについて考えたところで、何の意味もないだろ」
+「Well, maybe...」	「まあ、そうかもね……」	Well, maybe...	「まあ、そうかもね……」
+「But I just like to think about it.」	「でもわたし、こういうこと考えるの好きなんだ」	But I just like to think about it.	「でもわたし、こういうこと考えるの好きなんだ」
+「It's not long before you won't need me anymore, you know?」	「わたしが[player]にとって必要なくなる日も近いね」	It's not long before you won't need me anymore, you know?	「わたしが[player]にとって必要なくなる日も近いね」
+「Need you...?」	「必要なくなるって……」	Need you...?	「必要なくなるって……」
+「Sayori...」	「サヨリ……」	Sayori...	「……サヨリ……」
+「I can't figure out how you're seeing things in your head right now.」	「お前は一体何を考えてるんだ？」	I can't figure out how you're seeing things in your head right now.	「お前は一体何を考えてるんだ？」
+「Sorry...」	「ごめん……」	Sorry...	「ごめん……」
+「Everyone is different...」	「人はみんなそれぞれ違う……」	Everyone is different...	「人はみんなそれぞれ違う……」
+「Nobody in the club is a replacement for you.」	「文芸部にお前の代わりはいないんだ」	Nobody in the club is a replacement for you.	「文芸部にお前の代わりはいないんだ」
+「Hmm...」	「うーん……」	Hmm...	「ふーん……」
+「If you say so...」	「そうなのかな……」	If you say so...	「そっか……」
+The conversation trails off, and I'm left feeling awkward.	会話は終わり、気まずさだけが後に残った。	The conversation trails off, and I'm left feeling awkward.	会話は終わり、気まずさだけが後に残った。
+But it was kind of her fault for trapping me with such a weird question...	しかしこれも元はと言えばサヨリの変な質問によるものだ……	But it was kind of her fault for trapping me with such a weird question...	しかしこれも元はと言えば、サヨリの変な質問によるものだ……
+I can't just lie to her.	サヨリに嘘はつけない。	I can't just lie to her.	サヨリに嘘はつけない。
+But if there's something that makes her happy, I would hate to take that away from her.	だけど、サヨリを幸せにする何かがあるなら、俺はそれがサヨリの元から離れてほしくないとも思ってる。	But if there's something that makes her happy, I would hate to take that away from her.	だけど、サヨリを幸せにする何かがあるなら、サヨリの元からそれが離れてほしくないとも思ってる。
+That's why I said there's no point in speculating.	だからこそ、あの質問は『何の意味も無い』んだ。	That's why I said there's no point in speculating.	だからこそ、あの質問は『何の意味も無い』んだ。

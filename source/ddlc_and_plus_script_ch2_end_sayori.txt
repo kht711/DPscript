@@ -1,0 +1,21 @@
+「Sayori...」	「サヨリ……」	Sayori...	「……サヨリ……」
+「You really think I would ditch you for [ch2_winner]?」	「[ch2_winner!t]がいるからって俺がお前をないがしろにするとか、本当に思ってるのか？」	You really think I would ditch you for [ch2_winner]?	「[ch2_winner]がいるからって、お前をないがしろにするとか、本当に思ってるのか？」
+「Eh?!」	「え！？」	Eh?!	「えっ！？」
+「B-But...」	「で、でも……」	B-But...	「そ、そっか……」
+「She's so cute and fun to be around...」	「ナツキちゃんはかわいいし、一緒にいて楽しいし……」	She's so cute and fun to be around...	「ナツキちゃんはかわいいし、一緒にいて楽しいし……」
+「She's so beautiful and smart...」	「ユリちゃんは美人だし、頭もいいし……」	She's so beautiful and smart...	「ユリちゃんは美人だし、頭もいいし……」
+「Jeez...」	「おいおい……」	Jeez...	「はあ……」
+「I already see her in the club every day.」	「[ch2_winner!t]とは毎日部活で会ってるだろ？」	I already see her in the club every day.	「[ch2_winner]とは毎日部活で会ってるだろ？」
+「Besides, you always seem to really like going home together...」	「それに一緒に帰る時、お前はいつも楽しそうだし……」	Besides, you always seem to really like going home together...	「それに一緒に帰る時、お前はいつも楽しそうだし……」
+「I wouldn't just ruin that for you.」	「それを台無しにするような真似はしないよ」	I wouldn't just ruin that for you.	「それを台無しにするような真似はしないよ」
+「You're so silly, [player]...」	「[player]って、変わってるね……」	You're so silly, [player]...	「[player]って、変わってるね……」
+「You think about me too much sometimes.」	「わたしなんかのことを考えすぎだって時々思うよ」	You think about me too much sometimes.	「わたしなんかのこと、考えすぎだって時々思うよ」
+「[ch2_winner] would deserve it if she wanted it, so...」	「[ch2_winner!t]ちゃんが一緒に帰りたいって言うなら、何も問題無いのに……」	[ch2_winner] would deserve it if she wanted it, so...	「[ch2_winner]ちゃんが一緒に帰りたいって言っても、全然いいのに……」
+「Sayori, I've already made up my mind.」	「サヨリ、このことについては俺はもう決めてるんだ」	Sayori, I've already made up my mind.	「サヨリ、このことについては俺はもう決めてるんだ」
+「I really can't figure you out sometimes...」	「時々お前が何考えてるのか本当にわからなくなるよ……」	I really can't figure you out sometimes...	「時々お前が何考えてるのか本当にわからなくなるよ……」
+「Sorry...」	「ごめん……」	Sorry...	「ごめん……」
+「Besides, what's the point in speculating something that's never going to happen?」	「それに、起こりようもないことについて考えたところで何の意味も無いだろ？」	Besides, what's the point in speculating something that's never going to happen?	「それに、起こりようもないことについて考えたところで、意味ないだろ？」
+「Hm...」	「うーん……」	Hm...	「あら……」
+The conversation trails off.	会話が途切れる。	The conversation trails off.	会話が途切れる。
+It's kind of a weird thing for Sayori to care so much about...	サヨリがこうしたことを気にしているのは珍しい……。	It's kind of a weird thing for Sayori to care so much about...	サヨリがこういうことを気にするなんて、めずらしい……。
+But I want to respect her and keep her happy, too.	しかし俺はサヨリを尊重したいし、喜んでいてほしい。	But I want to respect her and keep her happy, too.	でも、俺はサヨリを尊重したいし、喜んでいてほしい。
