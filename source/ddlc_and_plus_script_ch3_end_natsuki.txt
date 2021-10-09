@@ -96,7 +96,7 @@ Natsuki gives me her number.	ナツキの電話番号を教えてもらう。	Na
 「I'm coming over on Sunday.」	「じゃあ日曜日に行くからね」	I'm coming over on Sunday.	「じゃあ日曜日に行くからね」
 「I'll bring all the ingredients.」	「材料も全部持っていくから」	I'll bring all the ingredients.	「材料も全部持っていくから」
 「Wait!」	「おい待て！」	Wait!	「待てよ！」
-「You're coming to {i}my{/i} house?」	「うちに来るのか？」	You're coming to <i>my</i> house?	「<i>うちに</i>来るのか？」
+「You're coming to <i>my</i> house?」	「うちに来るのか？」	You're coming to <i>my</i> house?	「<i>うちに</i>来るのか？」
 「Well, yeah.」	「そうだけど？」	Well, yeah.	「そうだけど？」
 「What's wrong with that?」	「ダメなの？」	What's wrong with that?	「ダメなの？」
 「I mean...」	「いや……」	I mean...	「ここが……」

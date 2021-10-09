@@ -17,7 +17,7 @@
 「Ulterior motives?」	「下心？」	Ulterior motives?	「下心？」
 「W-What are you saying, Yuri?」	「な、何言ってるのユリ？」	W-What are you saying, Yuri?	「な、何言ってるのユリ？」
 「In fact, it sounds like you guys are the ones with ulterior motives!」	「実際、下心持ってるのは二人でしょ！」	In fact, it sounds like you guys are the ones with ulterior motives!	「実際、下心持ってるのは、二人の方でしょ！」
-「{i}Excuse{/i} me?」	「{i}なんですって？{/i}」	<i>Excuse</i> me?	「<i>何ですって？</i>」
+「<i>Excuse</i> me?」	「<i>なんですって？</i>」	<i>Excuse</i> me?	「<i>何ですって？</i>」
 「Otherwise...this wouldn't have been made into such a big deal in the first place!」	「そうじゃなかったら、そもそもこんな大事にはなってないわ！」	Otherwise...this wouldn't have been made into such a big deal in the first place!	「そうじゃなかったら、そもそもこんな大事にはなってないわ！」
 「That's...completely false, Monika!」	「それは……違います、モニカちゃん！」	That's...completely false, Monika!	「それは……絶対に違います、モニカちゃん！」
 「Yeah!」	「そうよ！」	Yeah!	「いいね！」
@@ -28,7 +28,7 @@
 「If we want our event to succeed, then we need to appropriately distribute our resources.」	「出し物を成功させたいのなら、分担はちゃんとしないと」	If we want our event to succeed, then we need to appropriately distribute our resources.	「出し物を成功させたいのなら、分担はちゃんとしないと」
 「Um...」	「ううん……」	Um...	「その……」
 「Ah...」	「ええと……」	Ah...	「ああ……」
-「So are you going to do the right thing, {i}President{/i}?」	「それであんたは賢明な判断をしてくれるのかしら、{i}部長さん{/i}？」	So are you going to do the right thing, <i>President</i>?	「それでアンタは賢明な判断をしてくれるのかしら、<i>部長さん</i>？」
+「So are you going to do the right thing, <i>President</i>?」	「それであんたは賢明な判断をしてくれるのかしら、<i>部長さん</i>？」	So are you going to do the right thing, <i>President</i>?	「それでアンタは賢明な判断をしてくれるのかしら、<i>部長さん</i>？」
 「Okay, okay!」	「分かった、分かったわ！」	Okay, okay!	「わかった、わかったわ！」
 「I get it!」	「分かったわよ！」	I get it!	「わかったわよ！」
 「Sigh...」	「はあ……」	Sigh...	「はあ……」
@@ -137,7 +137,7 @@ Natsuki gives me her number.	ナツキの電話番号を教えてもらう。	Na
 「I'm coming over on Sunday.」	「じゃあ日曜日に行くからね」	I'm coming over on Sunday.	「じゃあ日曜日に行くからね」
 「I'll bring all the ingredients.」	「材料も全部持っていくから」	I'll bring all the ingredients.	「材料も全部持っていくから」
 「Wait!」	「おい待て！」	Wait!	「待てよ！」
-「You're coming to {i}my{/i} house?」	「うちに来るのか？」	You're coming to <i>my</i> house?	「<i>うちに</i>来るのか？」
+「You're coming to <i>my</i> house?」	「うちに来るのか？」	You're coming to <i>my</i> house?	「<i>うちに</i>来るのか？」
 「Well, yeah.」	「そうだけど？」	Well, yeah.	「そうだけど？」
 「What's wrong with that?」	「ダメなの？」	What's wrong with that?	「ダメなの？」
 「I mean...」	「いや……」	I mean...	「ここが……」

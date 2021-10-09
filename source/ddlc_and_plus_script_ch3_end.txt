@@ -14,7 +14,7 @@
 「Look, even Yuri isn't immune to it.」	「ほら、ユリですら影響を受けちゃってるし」	Look, even Yuri isn't immune to it.	「ほら、ユリも影響を受けちゃってるし」
 「Uu...」	「うう……」	Uu...	「うう……」
 「Stagnating air is common foreshadowing that something terrible is about to happen...」	「淀んだ空気は大抵、何か不吉なことが起きる前兆です……」	Stagnating air is common foreshadowing that something terrible is about to happen...	「淀んだ空気は大抵、何か不吉なことが起きる前兆です……」
-「In {i}your{/i} books, maybe!」	「それは{i}お前の{/i}本の中での話だろ！」	In <i>your</i> books, maybe!	「それは<i>お前の</i>本の中での話だろ！」
+「In <i>your</i> books, maybe!」	「それは<i>お前の</i>本の中での話だろ！」	In <i>your</i> books, maybe!	「それは<i>お前の</i>本の中での話だろ！」
 「Look, the only thing different is that Sayori isn't here.」	「見ろよ、違いだなんてただサヨリがいないってだけだ」	Look, the only thing different is that Sayori isn't here.	「あのな、違いだなんて、ただサヨリがいないってだけだ」
 「Ah...」	「あ……」	Ah...	「あのね……」
 「...It seems you're right.」	「……そうみたいですね」	...It seems you're right.	「……そうみたいですね」
@@ -36,13 +36,13 @@
 「And second...」	「それにだ……」	And second...	「それから……」
 「She's kind of been avoiding me today, so I didn't want to force it...」	「今日はなんか俺を避けてるみたいだったから、無理させたくなかったんだ……」	She's kind of been avoiding me today, so I didn't want to force it...	「今日は何か俺を避けてるみたいだったから、無理させたくなかったんだ……」
 「Hooooh?」	「ほーーーー？」	Hooooh?	「へえーーーー？」
-「{i}That curious expression coming from Yuri, of all people??{/i}」	「{i}なんでよりによってユリがあんな興味深そうに……？？{/i}」	<i>That curious expression coming from Yuri, of all people??</i>	「<i>何でよりによってユリがあんな興味深そうに……？？</i>」
+「<i>That curious expression coming from Yuri, of all people??</i>」	「<i>なんでよりによってユリがあんな興味深そうに……？？</i>」	<i>That curious expression coming from Yuri, of all people??</i>	「<i>何でよりによってユリがあんな興味深そうに……？？</i>」
 「Calm down, guys...!」	「みんな、落ち着いて……！」	Calm down, guys...!	「みんな、落ち着いて……！」
 「I talked to her earlier, and everything is fine.」	「私もちょっと前にサヨリと話したけど、大丈夫そうだったわよ」	I talked to her earlier, and everything is fine.	「私もちょっと前にサヨリと話したけど、大丈夫そうだったわよ」
 「What did she say...?」	「サヨリはなんて言ってた……？」	What did she say...?	「サヨリは何て言ってた……？」
 「Anyway, we need to figure out the rest of the festival preparations, so...」	「それよりとにかく、文化祭の残りの準備をしなきゃいけないから……」	Anyway, we need to figure out the rest of the festival preparations, so...	「それよりとにかく、文化祭の残りの準備をしなきゃいけないから……」
 「Let's decide what everyone will be doing this weekend.」	「みんな、週末に何をするのか決めましょう」	Let's decide what everyone will be doing this weekend.	「みんな、週末に何をするのか決めましょう」
-「I already know what {i}I'm{/i} doing!」	「わたしはもう決まっているわ！」	I already know what <i>I'm</i> doing!	「アタシはもう<i>決まってる</i>わ！」
+「I already know what <i>I'm</i> doing!」	「わたしはもう決まっているわ！」	I already know what <i>I'm</i> doing!	「アタシはもう<i>決まってる</i>わ！」
 「That's right.」	「そうね」	That's right.	「ええ」
 「Natsuki will be making cupcakes.」	「ナツキはカップケーキを作って」	Natsuki will be making cupcakes.	「ナツキはカップケーキをつくるのよね」
 「But we might need a lot of them, and different flavors...」	「でも色んな味でたくさん作らなきゃいけないし……」	But we might need a lot of them, and different flavors...	「でも、いろんな味でたくさんつくらなきゃいけないし……」
@@ -118,7 +118,7 @@ Natsuki tries to mumble a bunch of excuses like that.	そのように、ナツ�
 「Besides...」	「それに……」	Besides...	「それに……」
 「He hasn't really gotten the chance to spend any time with me yet, you know?」	「[player]君は私と一緒に過ごす機会だってあまりないでしょう？」	He hasn't really gotten the chance to spend any time with me yet, you know?	「[player]君は私と一緒に過ごす機会だってあまりなかったでしょう？」
 「So I'm sure he's interested in--」	「だから彼も私のことを――」	So I'm sure he's interested in--	「だから彼も私のことを――」
-「You {i}literally{/i} just said--」	「あんた、ついさっき――」	You <i>literally</i> just said--	「アンタ、<i>さっきはどちらかにって</i>――」
+「You <i>literally</i> just said--」	「あんた、ついさっき――」	You <i>literally</i> just said--	「アンタ、<i>さっきはどちらかにって</i>――」
 「I-I'm surprised as well!」	「わ、私も納得いきません！」	I-I'm surprised as well!	「わ、私も納得いきません！」
 「Sorry, sorry!」	「ごめんごめん！」	Sorry, sorry!	「ごめんごめん！」
 「I was just saying, though...」	「言ってみただけだから……」	I was just saying, though...	「ちょっと言ってみただけだってば……」
@@ -147,7 +147,7 @@ But who knows what might end up happening when we're outside of school?	でも�
 She even told me she was looking forward to it...	彼女も楽しみにしているとまで言ってたし……	She even told me she was looking forward to it...	けど、彼女も、楽しみにしてるって言ってたし……
 I shake my head.	頭を振る。	I shake my head.	頭を振る。
 Why do I feel nervous that Sayori finds out about this?	なんでサヨリにバレるとまずい気がするんだろう？	Why do I feel nervous that Sayori finds out about this?	なんでサヨリにバレるとまずい気がするんだろう？
-It's not like we feel {i}that{/i} way about each other...	俺たちは別にそういう関係じゃないっていうのに。	It's not like we feel <i>that</i> way about each other...	俺たちは別に<i>そういう</i>関係じゃないっていうのに。
+It's not like we feel <i>that</i> way about each other...	俺たちは別にそういう関係じゃないっていうのに。	It's not like we feel <i>that</i> way about each other...	俺たちは別に<i>そういう</i>関係じゃないっていうのに。
 Besides, like Monika said, this is about the club.	それにモニカもこれは部活動だって言ってたじゃないか。	Besides, like Monika said, this is about the club.	それに、これは部活動だってモニカも言ってたじゃないか。
 I have nothing to worry about.	何も心配することはない。	I have nothing to worry about.	何も心配することはない。
 If I just go with it, then I'll have a good time.	無難にやれば、きっと楽しめるはずだ。	If I just go with it, then I'll have a good time.	無難にやれば、きっと楽しめるはずだ。

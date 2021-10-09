@@ -15,7 +15,7 @@
 「Eh?」	「え？」	Eh?	「えっ？」
 「Weren't you complaining about it just yesterday, Natsuki?」	「ナツキ、あなた昨日は不満そうにしてなかった？」	Weren't you complaining about it just yesterday, Natsuki?	「ナツキ、あなた昨日は不満そうにしてなかった？」
 「Well, yeah.」	「まあ、そうね」	Well, yeah.	「そうだけど？」
-「I'm not talking about {i}our{/i} part of the festival.」	「{i}わたしたちの{/i}出し物は楽しみじゃないからね」	I'm not talking about <i>our</i> part of the festival.	「<i>わたしたちの</i>出し物は楽しみじゃないからね」
+「I'm not talking about <i>our</i> part of the festival.」	「<i>わたしたちの</i>出し物は楽しみじゃないからね」	I'm not talking about <i>our</i> part of the festival.	「<i>わたしたちの</i>出し物は楽しみじゃないからね」
 「But it's a whole day of school where we get to play and eat all kinds of delicious food!」	「でも文化祭自体は一日中遊んでいろんな物を食べられる最高な日なのよ！」	But it's a whole day of school where we get to play and eat all kinds of delicious food!	「でも文化祭自体は一日中遊んでいろんな物を食べられる最高な日なのよ！」
 「You sound a bit like Sayori all of a sudden...」	「お前サヨリみたいなこと言ってるな……」	You sound a bit like Sayori all of a sudden...	「お前サヨリみたいなこと言ってるな……」
 「Monika! Do they usually have fried squid?」	「モニカ！ イカ焼きは定番よね？」	Monika! Do they usually have fried squid?	「モニカ！ イカ焼きは定番よね？」
