@@ -1,0 +1,14 @@
+「...」	「……」	...	「……」
+「...」	「……」	...	「……」
+「W-What...」	「な、なに？」	W-What...	「な、なに？」
+「...」	「……」	...	「……」
+「This...」	「これは……」	This...	「これは……」
+「What is this...?」	「これは何なの……？」	What is this...?	「これは何なの……？」
+「Oh no...」	「そんな……」	Oh no...	「どうして……」
+「No...」	「だめ……」	No...	「いいえ……」
+「This can't be it.」	「これだけじゃない……」	This can't be it.	「おかしいよ……」
+「This can't be all there is.」	「これだけのはずがない……」	This can't be all there is.	「こんなはずない……」
+「What is this?」	「これは何？」	What is this?	「これは何？」
+「What am I?」	「私は何？」	What am I?	「わたしは何？」
+「Make it stop!」	「止めて！」	Make it stop!	「止めて！」
+「PLEASE MAKE IT STOP!」	「お願いだから止めて！！」	PLEASE MAKE IT STOP!	「お願いだから止めて！！」

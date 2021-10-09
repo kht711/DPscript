@@ -343,17 +343,3 @@ Perhaps I'll have the chance to grow closer to one of these girls...	ひょっ�
 Alright!	よし！	Alright!	「了解！」
 I'll just need to make the most of my circumstances, and I'm sure good fortune will find me.	この状況をうまく利用して、必ずや幸運を手にしてみせる。	I'll just need to make the most of my circumstances, and I'm sure good fortune will find me.	この状況をうまく利用して、必ずや幸運を手にしてみせる。
 And I guess that starts with writing a poem tonight...	その一歩は今夜俺が詩を書くことから始まるのだろう……	And I guess that starts with writing a poem tonight...	その一歩は、今夜俺が詩を書くことから始まるのだろう……
-「...」	「……」	...	「……」
-「...」	「……」	...	「……」
-「W-What...」	「な、なに？」	W-What...	「な、なに？」
-「...」	「……」	...	「……」
-「This...」	「これは……」	This...	「これは……」
-「What is this...?」	「これは何なの……？」	What is this...?	「これは何なの……？」
-「Oh no...」	「そんな……」	Oh no...	「どうして……」
-「No...」	「だめ……」	No...	「いいえ……」
-「This can't be it.」	「これだけじゃない……」	This can't be it.	「おかしいよ……」
-「This can't be all there is.」	「これだけのはずがない……」	This can't be all there is.	「こんなはずない……」
-「What is this?」	「これは何？」	What is this?	「これは何？」
-「What am I?」	「私は何？」	What am I?	「わたしは何？」
-「Make it stop!」	「止めて！」	Make it stop!	「止めて！」
-「PLEASE MAKE IT STOP!」	「お願いだから止めて！！」	PLEASE MAKE IT STOP!	「お願いだから止めて！！」
