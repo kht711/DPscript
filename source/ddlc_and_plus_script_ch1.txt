@@ -14,7 +14,7 @@ I was the last to come in, so everyone else is already hanging out.	俺が最後
 「But if you don't take us seriously, then you won't see the end of it.」	「真面目にやらないのなら、ここで過ごす時間もそう長くないと思いなさい」	But if you don't take us seriously, then you won't see the end of it.	「真面目にやらないなら、ここで過ごす時間もそう長くないと思いなさい」
 「Natsuki, you certainly have a big mouth for someone who keeps her manga collection in the clubroom.」	「ナツキ、部室にマンガコレクションを揃えてる割には大口叩くのね」	Natsuki, you certainly have a big mouth for someone who keeps her manga collection in the clubroom.	「ナツキ、部室にマンガコレクションを揃えてる割には大口叩くのね」
 「M-M-M...!!」	「モ……マ……ム……！！」	M-M-M...!!	「マ……モ……カ……！！」
-Natsuki finds herself stuck between saying 「Monika」 and \"Manga\".	ナツキは『モニカ』と『マンガ』、どちらともつかずの言葉を発しようとしている。	Natsuki finds herself stuck between saying "Monika" and "Manga".	ナツキは『モニカ』と『マンガ』、どちらともつかずの言葉を発しようとしている。
+Natsuki finds herself stuck between saying "Monika" and "Manga".	ナツキは『モニカ』と『マンガ』、どちらともつかずの言葉を発しようとしている。	Natsuki finds herself stuck between saying "Monika" and "Manga".	ナツキは『モニカ』と『マンガ』、どちらともつかずの言葉を発しようとしている。
 「Manga is literature!!」	「マンガは文学なのっ！！」	Manga is literature!!	「マンガは文学なのっ！！」
 Swiftly defeated, Natsuki plops back into her seat.	あっさりと敗北し、ナツキはドサッと席へ戻った。	Swiftly defeated, Natsuki plops back into her seat.	あっさりと敗北し、ナツキはドカッと席へ着いた。
 「Don't worry, guys~」	「心配無用だよ、みんな～」	Don't worry, guys~	「心配いらないよ、みんな～」
@@ -158,7 +158,7 @@ Yuri stands up as well.	ユリも同じように席を立つ。	Yuri stands up a
 「I wasn't the one whose boobs magically grew a size bigger as soon as [player] started showing up!!」	「[player]が入ってから突然胸をワンサイズ盛りだしたのはどっちよ？！」	I wasn't the one whose boobs magically grew a size bigger as soon as [player] started showing up!!	「[player]が入ってから突然胸をワンサイズ盛りだしたのはどこのどいつよ！？」
 「N-Natsuki!!」	「な、ナツキちゃん！！」	N-Natsuki!!	「な、ナツキちゃん！！」
 「Um, Natsuki, that's a little--」	「えっとナツキ、それはちょっと――」	Um, Natsuki, that's a little--	「えっとナツキ、それはちょっと――」
-「This doesn't involve you!」	「部外者は黙ってて！」\n「部外者は黙っててください！」	This doesn't involve you!	「「部外者は黙ってて！」ください！」
+「This doesn't involve you!」	「部外者は黙ってて！」<br>「部外者は黙っててください！」	This doesn't involve you!	「「部外者は黙ってて！」ください！」
 「I-I don't like fighting, guys...!」	「け、ケンカはダメだよ、みんな……！」	I-I don't like fighting, guys...!	「ふ、二人とも、ケンカはダメだよ……！」
 Suddenly, both girls turn towards me, as if they just noticed I was standing there.	突然二人は、俺がそこにいることに今気づいたようにこちらへ振り向いた。	Suddenly, both girls turn towards me, as if they just noticed I was standing there.	突然二人は、俺の存在に今気づいたかのようにこちらへ振り向いた。
 「[player]...!」	「[player]さん……！」	[player]...!	「[player]さん……！」
