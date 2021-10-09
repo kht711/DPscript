@@ -1,0 +1,77 @@
+「Eh--?」	「えっ――？」	Eh--?	「えっ？」
+「Those are my true feelings.」	「それが俺の本当の気持ちだ」	Those are my true feelings.	「それが俺の本当の気持ちだ」
+「So...there's no way you could like me more than I like you.」	「だから俺の好きな気持ちより、お前の好きな気持ちが大きいなんてことはない」	So...there's no way you could like me more than I like you.	「だからお前の好きな気持ちが俺より大きいなんてことはない」
+「I should have realized it sooner.」	「俺ももっと早く気づくべきだった」	I should have realized it sooner.	「もっと早く気づくべきだった」
+「But spending time with everyone at the club...」	「でも部活でみんなと過ごして……」	But spending time with everyone at the club...	「でも部活でみんなと過ごして……」
+「Making new friends...」	「新しい友達を作って……」	Making new friends...	「新しい友達ができて……」
+「And having fun with you every day...」	「お前と毎日楽しくやっていくうちに……」	And having fun with you every day...	「お前と毎日楽しくやっていくうちに……」
+「It helped me realize that you are truly the most important person to me.」	「お前が俺にとって一番大事な人だということに気づいたんだ」	It helped me realize that you are truly the most important person to me.	「お前が俺にとって一番大事な人だということに気づいたんだ」
+「That's why I'll accept any of your burdens.」	「だからお前の重荷はなんでも俺が受け止める」	That's why I'll accept any of your burdens.	「だから、お前の重荷はすべて俺が受け止める」
+「As long as we continue like this every day...」	「毎日このままでいて……」	As long as we continue like this every day...	「こんな風に毎日すごして……」
+「With you by my side...」	「お前が俺の隣にいる限り……」	With you by my side...	「お前が俺の隣にいる限り……」
+「Then I know we'll both be happy.」	「俺たちは幸せになれるから」	Then I know we'll both be happy.	「俺たちは幸せになれるから」
+「[player]...」	「[player]……」	[player]...	「[player]……」
+Suddenly, Sayori wraps her arms tightly around me.	突然、サヨリは俺を強く抱きしめる。	Suddenly, Sayori wraps her arms tightly around me.	突然、サヨリに強く抱きしめられる。
+「[player]...」	「[player]……」	[player]...	「[player]さん……」
+「Is this...really okay?」	「本当にこれで……いいの？」	Is this...really okay?	「本当にこれで……いいの？」
+「Yeah.」	「ああ」	Yeah.	「そうね」
+I hold Sayori in my arms and pull her closer.	俺はサヨリを抱き返し、彼女をもっと近くへ引き寄せる。	I hold Sayori in my arms and pull her closer.	俺もサヨリの体に腕を回し、彼女をもっと近くへ引き寄せる。
+「You'll never have to let go of me again.」	「もう二度と俺を離さなくていいんだ」	You'll never have to let go of me again.	「もう二度と俺を離さなくていいんだ」
+「I love you, [player]...」	「大好きだよ、[player]……」	I love you, [player]...	「大好きだよ、[player]……」
+「I want to be with you forever.」	「ずっと[player]と一緒にいたい」	I want to be with you forever.	「ずっと[player]と一緒にいたい」
+「Me too.」	「俺も同じ気持ちだ」	Me too.	「俺もだ」
+「...」	「……」	...	「……」
+I feel Sayori's grip around me weaken a little bit.	俺を抱きしめるサヨリの腕から、力が抜けるのを感じる。	I feel Sayori's grip around me weaken a little bit.	俺を抱きしめるサヨリの腕から、力が抜けるのを感じる。
+「What is this...?」	「なにこれ……？」	What is this...?	「これは何なの……？」
+「Sayori...?」	「サヨリ……？」	Sayori...?	「サヨリ……？」
+「I'm supposed to be happy right now...」	「今、わたし幸せなはずなのに……」	I'm supposed to be happy right now...	「今、わたし幸せなはずなのに……」
+「I always thought this would be the happiest moment for me.」	「これが一番幸せな瞬間になるってずっと思ってたのに」	I always thought this would be the happiest moment for me.	「これが一番幸せな瞬間になるってずっと思ってたのに」
+「But why...?」	「なのになんで……？」	But why...?	「なのに、なんで……？」
+「Even now...」	「今も……」	Even now...	「今も……」
+「Why won't the rainclouds go away?」	「なんで雨雲が晴れないの？」	Why won't the rainclouds go away?	「なんで雨雲が晴れないの？」
+「They're not going away at all, [player]...」	「全然晴れないの、[player]……」	They're not going away at all, [player]...	「全然晴れないの、[player]……」
+「It's okay, Sayori...」	「大丈夫だ、サヨリ……」	It's okay, Sayori...	「大丈夫だ、サヨリ……」
+「It might take some time for things to get better again.」	「色々良くなるまで時間がかかるかもしれない」	It might take some time for things to get better again.	「いろいろ良くなるまで時間がかかるかもしれない」
+「But no matter how long it takes, I'll be there every step of the way.」	「でもどんなに時間がかかろうと、俺はずっとお前と一緒に歩んでいくから」	But no matter how long it takes, I'll be there every step of the way.	「でもどんなに時間がかかろうと、俺はずっとお前と一緒に歩んでいくから」
+「That's all that matters right now.」	「それが今、唯一大事なことだ」	That's all that matters right now.	「それが今、唯一大事なことだ」
+「O-Okay...」	「う、うん……」	O-Okay...	「う、うん……」
+「I...trust you...」	「わたし……信じるよ……」	I...trust you...	「わたし……信じるよ……」
+Sayori and I slowly release each other.	俺たちはゆっくりとお互いの体を離す。	Sayori and I slowly release each other.	俺たちはゆっくりとお互いの体を離す。
+「So...」	「ということは……」	So...	「それで……」
+「I guess that makes the festival tomorrow...our first date, huh?」	「明日の文化祭が初デート……ってことだよな？」	I guess that makes the festival tomorrow...our first date, huh?	「明日の文化祭が初デート……ってことだよな？」
+「Ehehe...」	「えへへ……」	Ehehe...	「だから……えへへ……」
+「What are you saying?」	「何をいってるの？」	What are you saying?	「何言ってるの？」
+「I don't want to think about those things, you know?」	「そういう風にはあまり考えたくないの」	I don't want to think about those things, you know?	「そういう風にはあまり考えたくないの」
+「I want everything to be the same as it always has been.」	「今まで通りのままでいたいよ」	I want everything to be the same as it always has been.	「今まで通りのままでいたいよ」
+「Even if we really are...a couple.」	「わたしたちが……付き合ってても」	Even if we really are...a couple.	「わたしたちが……付き合ってても」
+「I don't know if I could handle anything more right now...」	「今はこれ以上受け止められるか分からないや……」	I don't know if I could handle anything more right now...	「今はこれ以上受け止められるかわからないや……」
+「It's really new and scary to me.」	「新しいことばかりで怖いから」	It's really new and scary to me.	「新しいことばかりで怖いから」
+「I understand.」	「分かった」	I understand.	「わかった」
+「We'll go at whatever pace suits you best.」	「お前の好きなペースでいこう」	We'll go at whatever pace suits you best.	「お前の好きなペースでいこう」
+「Hey, [player]...」	「ねえ、[player]……」	Hey, [player]...	「ねえ、[player]君」
+Sayori gazes at me once again, smiling sadly.	サヨリは悲しそうに微笑みながら俺を見る	Sayori gazes at me once again, smiling sadly.	サヨリは悲しそうに微笑みながら俺を見る。
+「Even if I get really, really sad...」	「もしもわたしがすごく、どうしようもなく悲しくなったとしても……」	Even if I get really, really sad...	「もしもわたしがすごく、どうしようもなく悲しくなったとしても……」
+「This is the best thing for me...right?」	「これがわたしにとって一番の選択……なんだよね？」	This is the best thing for me...right?	「これがわたしにとって一番の選択……なんだよね？」
+「Eh...?」	「えっ……？」	Eh...?	「え……？」
+I don't really understand what Sayori means by that.	俺はサヨリのその言葉の意味が分からない。	I don't really understand what Sayori means by that.	俺はサヨリのその言葉の意味がわからない。
+「Are you saying that this is making you feel sad, Sayori?」	「サヨリ、お前は今悲しくなったと言っているのか？」	Are you saying that this is making you feel sad, Sayori?	「サヨリ、お前は今悲しいってことか？」
+「I-I don't know...」	「よ、よく分からない……」	I-I don't know...	「よ、よくわからない……」
+「I don't understand what I'm feeling.」	「自分の気持ちがよく分からないんだ」	I don't understand what I'm feeling.	「自分の気持ちが、よくわからないんだ」
+「It felt like a bunch of thorns when you told me you love me...」	「告白された時はトゲがいっぱい刺さったような気持ちになったの……」	It felt like a bunch of thorns when you told me you love me...	「告白された時はトゲがいっぱい刺さったような気持ちになったの……」
+「But that's why I want to trust you.」	「でも、だから[player]を信用したいんだ」	But that's why I want to trust you.	「でも、だから[player]を信じたいんだ」
+「You know what's best for me...」	「[player]がわたしのことを一番理解してるから……」	You know what's best for me...	「[player]がわたしのことを一番理解してるから……」
+「...Yeah.」	「……ああ」	...Yeah.	「……そうだけど」
+「I do.」	「そうだ」	I do.	「そうだ」
+「That's my promise.」	「それが俺の約束だ」	That's my promise.	「それが俺の約束だ」
+I say that, but in reality, I've never felt more uncertain when it comes to Sayori.	とは言いつつ、サヨリについてこんなにも不確かに感じたことはない。	I say that, but in reality, I've never felt more uncertain when it comes to Sayori.	とは言いつつ、サヨリについてこんなにも不確かに感じたことはない。
+I know that I love her, and she loves me.	俺はサヨリが好きで彼女も同じ気持ちだ。	I know that I love her, and she loves me.	俺はサヨリが好きで、彼女も同じ気持ちだ。
+But I'm having as much trouble understanding Sayori's feelings as she is.	だが俺もサヨリと同じくらい、彼女の気持ちをよく理解できてない。	But I'm having as much trouble understanding Sayori's feelings as she is.	だが俺もサヨリと同じくらい、彼女の気持ちをよく理解できていない。
+Even though I can comfort her...	彼女を慰めることは出来るかもしれないが……	Even though I can comfort her...	彼女を慰めることはできるかもしれないが……
+I keep wondering if I should be doing something more, or something different.	もっと何かしてやったり、別のことをしてやれるのでは、と思わざるを得ない。	I keep wondering if I should be doing something more, or something different.	もっと何かしてやったり、別のことをしてやれるのでは、と思わざるを得ない。
+I know these thoughts will continue to plague me until things are back to the way they were.	全部元通りになるまで、俺はこの思いにずっと悩まされるだろう。	I know these thoughts will continue to plague me until things are back to the way they were.	すべてが元通りになるまで、俺はこの思いにずっと悩まされるのだろう。
+Is that what Sayori meant by not wanting anything to change?	それがサヨリの言う今まで通りなのだろうか？	Is that what Sayori meant by not wanting anything to change?	それがサヨリの言う、"今まで通り"なのだろうか？
+I don't know.	俺には分からない。	I don't know.	「結構よ」
+But I know that I'll give it everything I've got.	でも俺は自分の全力を尽くしてみせる。	But I know that I'll give it everything I've got.	でも、俺は自分の全力を尽くしてみせる。
+Sayori is the most important person to me.	サヨリは俺の一番大切な人だ。	Sayori is the most important person to me.	サヨリは俺の一番大切な人だ。
+And I'll do whatever it takes to have a happy future with her.	そして彼女と幸せな未来を歩くためなら何だってしてやる。	And I'll do whatever it takes to have a happy future with her.	そして彼女と幸せな未来を歩むためなら何だってしてやる。
+「You'll always be my dearest friend.」	「お前はずっと、俺の大切な親友だ」	You'll always be my dearest friend.	「お前はずっと、俺の大切な親友だ」

@@ -1,0 +1,67 @@
+「I thought you didn't want to come over today!」	「今日は来ないって言ってたじゃないか！」	I thought you didn't want to come over today!	「今日は来ないって言ってたじゃないか！」
+「Ahaha, well...」	「あはは、それは……」	Ahaha, well...	「あはは、それは……」
+「I tried staying in my room...」	「部屋にいようとしたんだけど……」	I tried staying in my room...	「部屋にいようとしたんだけど……」
+「But my imagination was being really mean to me...」	「わたしの想像がすごく意地悪をしてきたの……」	But my imagination was being really mean to me...	「わたしの想像力がすごく意地悪をしてきたの……」
+「So I had to come here and see it for myself.」	「だからここに来て自分の目で見たくなっちゃった」	So I had to come here and see it for myself.	「だからここに来て、自分の目で見たくなっちゃった」
+「See what?」	「見るって何を？」	See what?	「見るって何を？」
+「What are you talking about?」	「一体何の話をしてるんだ？」	What are you talking about?	「何のこと？」
+「You know...」	「それは……」	You know...	「そう……」
+「How much fun you were having with [ch4_name].」	「[ch4_name!t]ちゃんとどんなに楽しそうにしてるかを」	How much fun you were having with [ch4_name].	「[ch4_name]ちゃんとどんなに楽しそうにしてるかを」
+「And how close you got to her.」	「そしてどんなに距離が縮まったかを」	And how close you got to her.	「そしてどんなに距離が縮まったかを」
+「It makes me...really happy...」	「わたし、すごく……嬉しいんだ……」	It makes me...really happy...	「わたし、すごく……うれしいんだ……」
+「That you've made such good friends.」	「[player]にいい友達ができて」	That you've made such good friends.	「[player]にいい友達ができて」
+「That's all that matters to me.」	「それがわたしにとって一番大事なことだから」	That's all that matters to me.	「わたしにとって、それが大事なことだから」
+Tears start to fall down Sayori's face.	サヨリの顔に涙が伝いはじめる。	Tears start to fall down Sayori's face.	サヨリの頬に、涙が伝う。
+「That's all that matters to me--!」	「それが一番大事なことなの……！」	That's all that matters to me--!	「それが一番、大事なことなの……！」
+「Why am I feeling this way, [player]?」	「なのになんでわたしこんな気持ちなの、[player]？」	Why am I feeling this way, [player]?	「なのにさ、何でわたしこんな気持ちなの、[player]？」
+「I'm supposed to be happy for you.」	「わたし[player]のことを思って嬉しいはずなのに」	I'm supposed to be happy for you.	「わたし、[player]のことを思ってうれしいはずなのに」
+「Why does it feel like my heart is splitting in half?」	「なんで心臓が真っ二つに裂けそうな気持ちなの？」	Why does it feel like my heart is splitting in half?	「何でこんな、心臓が真っ二つに裂けそうな気持ちなの？」
+「It hurts so much...」	「すごく痛い……」	It hurts so much...	「すごく痛い……」
+「Everything hurts so much...」	「全部すごく痛い……」	Everything hurts so much...	「全部すごく痛い……」
+「This would be so much better if I could just disappear!」	「わたしなんか消えちゃえばいいのに！」	This would be so much better if I could just disappear!	「わたしなんか消えちゃえばいいのに！」
+「Sayori, don't say that!」	「サヨリ、言うな！」	Sayori, don't say that!	「サヨリ、言うな！」
+「It's true, [player]!」	「本当のことだもん、[player]！」	It's true, [player]!	「本当のことだもん、[player]！」
+「If I wasn't here, then you wouldn't have to waste your sympathy on me!」	「わたしがここにいなければ、[player]もわたしに同情せずに済んだのに！」	If I wasn't here, then you wouldn't have to waste your sympathy on me!	「わたしがここにいなければ、[player]もわたしに同情せずに済んだのに！」
+「You wouldn't have to put up with me being selfish!」	「わたしのわがままに付き合わせることもなかったのに！」	You wouldn't have to put up with me being selfish!	「わたしのわがままに付き合うこともなかったのに！」
+「Monika was right...」	「モニカちゃんが正しかった……」	Monika was right...	「モニカちゃんが正しかった……」
+「I should just...」	「わたしなんか……」	I should just...	「わたしなんか……」
+「Monika...?」	「モニカ……？」	Monika...?	「モニカ……？」
+「Monika was right about what?」	「モニカが正しいって何が？」	Monika was right about what?	「モニカが正しいって何が？」
+「...」	「……」	...	「……」
+「Sayori...」	「サヨリ……」	Sayori...	「……サヨリ……」
+「What I said before is true.」	「俺がさっき言ったことは本気だ」	What I said before is true.	「俺がさっき言ったことは本気だ」
+「I'm not going to let this continue.」	「こんなこと、これ以上続けさせない」	I'm not going to let this continue.	「こんなこと、もうお前にこれ以上続けさせない」
+「Caring about you like this isn't the burden your mind is making it out to be.」	「お前を想うことは、お前が考えてるような重荷になってない」	Caring about you like this isn't the burden your mind is making it out to be.	「お前を想うことは、お前が考えるような重荷なんかじゃない」
+「It's something that makes me happy.」	「それは俺が嬉しくなることなんだ」	It's something that makes me happy.	「それは俺がうれしくなることなんだ」
+「It's something that I wouldn't trade for anything else.」	「これは何にも代えられない」	It's something that I wouldn't trade for anything else.	「何にも代えられない」
+「So, even if it takes an entire lifetime...」	「だから、たとえ一生かかろうとも……」	So, even if it takes an entire lifetime...	「だから、例え一生かかろうとも……」
+「I'm going to be by your side until you don't feel any more pain.」	「お前が痛みを感じなくなるその日まで、俺はずっとそばにいるから」	I'm going to be by your side until you don't feel any more pain.	「お前が痛みを感じなくなるその日まで、俺はずっとそばにいるから」
+「B-But...」	「で、でも……」	B-But...	「そ、そっか……」
+Sayori looks away.	サヨリは目をそらした。	Sayori looks away.	サヨリは目をそらした。
+I put a hand on her shoulder to reassure her.	俺は彼女の不安を払拭するために肩に手を置いた。	I put a hand on her shoulder to reassure her.	俺は彼女を安心させようと肩に手を置いた。
+「I'm scared, [player]...」	「わたし怖いの、[player]……」	I'm scared, [player]...	「わたし怖いの、[player]……」
+「I'm really scared...」	「すごく怖い……」	I'm really scared...	「すごく怖い……」
+「What are you scared of, Sayori?」	「何が怖いんだ、サヨリ？」	What are you scared of, Sayori?	「何が怖いんだ、サヨリ？」
+「I'm scared that...」	「[player]が……」	I'm scared that...	「[player]が……」
+「That I might like you more than you like me...」	「わたしを好きな気持ち以上に、わたしが[player]を好きかもしれないってこと……」	That I might like you more than you like me...	「わたしを好きな気持ち以上に、わたしが[player]を好きかもしれないってこと……」
+「Sayori...?」	「サヨリ……？」	Sayori...?	「サヨリ……？」
+「It's true, isn't it?」	「そうなんでしょ？」	It's true, isn't it?	「そうなんでしょ？」
+「I was weak and started to like you too much...」	「わたしが弱いから[player]を好きになりすぎた……」	I was weak and started to like you too much...	「わたしが弱いから、[player]を好きになりすぎた……」
+「I did this to myself.」	「自分にこうしたんだ」	I did this to myself.	「自分のせいなの」
+「[player]...」	「[player]……」	[player]...	「[player]……」
+「I like you so much that I want to die!」	「好きすぎて死んじゃいたいくらいなの！」	I like you so much that I want to die!	「好きすぎて死んじゃいたいくらいなの！」
+「That's how I feel!」	「それがわたしの気持ち！」	That's how I feel!	「それがわたしの気持ち！」
+「And...and...」	「だから……だから……」	And...and...	「だから……だから……」
+「That's enough, Sayori...」	「もういい、サヨリ……」	That's enough, Sayori...	「もういい、サヨリ……」
+「I don't want you to hurt anymore.」	「これ以上お前に苦しんでほしくない」	I don't want you to hurt anymore.	「これ以上お前に苦しんでほしくない」
+I slide my hand down Sayori's arm and squeeze her hand in my own.	サヨリの腕を伝いながら手を降ろし、彼女の手をぎゅっと握った。	I slide my hand down Sayori's arm and squeeze her hand in my own.	サヨリの肩に置いた手を腕に滑らせ、その先にある手をぎゅっと握った。
+「Do you remember how I said I always know what's best for you?」	「お前のことは俺が一番理解してるって、前に言ったよな？」	Do you remember how I said I always know what's best for you?	「お前のことは俺が一番理解してるって、前に言ったよな？」
+「Do you still believe me?」	「まだその言葉を信じてるか？」	Do you still believe me?	「まだその言葉を信じてるか？」
+Wordlessly, Sayori nods.	何も言わずに、サヨリはただ頷く。	Wordlessly, Sayori nods.	何も言わずに、サヨリはただうなずく。
+「Even if you don't understand all of your own feelings...」	「自分の気持ちが分からなかったとしても……」	Even if you don't understand all of your own feelings...	「自分の気持ちがわからなかったとしても……」
+「I know what you need the most right now.」	「お前が必要なものは、俺が知ってるから」	I know what you need the most right now.	「お前が必要とするものは、俺が知ってるから」
+「And that's what I'm going to give to you.」	「そしてそれを今からお前にやるんだ」	And that's what I'm going to give to you.	「そして、それを今からお前にあげるよ」
+「Sayori...」	「サヨリ……」	Sayori...	「サヨリ……」
+I love you.	好きだ	I love you.	好きだ
+You'll always be my dearest friend.	お前はずっと、俺の大切な親友だ	You'll always be my dearest friend.	お前はずっと、俺の大切な親友だ
+「I love you.」	「好きだ」	I love you.	「好きだ」

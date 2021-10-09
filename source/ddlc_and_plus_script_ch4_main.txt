@@ -1,0 +1,252 @@
+It's already Sunday.	もう日曜日だ。	It's already Sunday.	もう日曜日だ。
+I've been getting increasingly anxious about Natsuki's upcoming visit.	ナツキの訪問が近づくにつれ、不安になってきた。	I've been getting increasingly anxious about Natsuki's upcoming visit.	ナツキの訪問の時が迫るにつれ、不安になる。
+I keep telling myself there's no reason to be nervous, but it doesn't help much.	何も心配することはないと言い聞かせるが、どうもうまくいかない。	I keep telling myself there's no reason to be nervous, but it doesn't help much.	何も心配することはないと言い聞かせても、どうも落ち着かない。
+I wonder if she'll act any different when it's just the two of us?	二人きりになったら、ナツキは態度が変わったりするだろうか？	I wonder if she'll act any different when it's just the two of us?	二人きりになったら、ナツキは態度が変わったりするんだろうか？
+Meanwhile, she's been texting me a lot.	その一方で、ナツキからはメッセージがたくさん来ている。	Meanwhile, she's been texting me a lot.	ナツキからはあれから、メッセージがたくさん来ている。
+We sent each other one after exchanging numbers to double-check, but it turned into conversation.	俺たちは電話番号を交換して確認のためにメッセージを送りあっていたが、いつの間に雑談になっていた。	We sent each other one after exchanging numbers to double-check, but it turned into conversation.	俺たちは約束の確認のためにメッセージを送り合っていたが、いつの間にか雑談になっていた。
+She's almost a different personality on the phone, using tons of emoji and cute language.	ナツキはメッセージ上だと絵文字を使ったり、語尾が可愛かったりと現実とは性格がかけ離れている。	She's almost a different personality on the phone, using tons of emoji and cute language.	ナツキはメッセージ上だと、絵文字をたくさん使ったり、語尾がかわいかったりと、現実とは性格がかけ離れている。
+She also really likes complaining about things, but I kind of saw that one coming.	それでも色々なことについて批判する態度はいつも通りだ。	She also really likes complaining about things, but I kind of saw that one coming.	それでも、何かにつけ批判的な態度はいつも通りだ。
+But putting Natsuki aside...	でもそういえば……	But putting Natsuki aside...	でもそういえば……
+I've been getting increasingly anxious about Yuri's upcoming visit.	ユリの訪問が近づくにつれ、不安になってきた。	I've been getting increasingly anxious about Yuri's upcoming visit.	ユリの訪問の時が迫るにつれ、不安になる。
+I keep telling myself there's no reason to be nervous, but it doesn't help much.	何も心配することはないと言い聞かせるが、どうもうまくいかない。	I keep telling myself there's no reason to be nervous, but it doesn't help much.	何も心配することはないと言い聞かせても、どうも落ち着かない。
+Yuri is clearly an introvert and also an intimate person in general.	ユリは普段は内向的で静かな人間だ。	Yuri is clearly an introvert and also an intimate person in general.	ユリは普段は内向的で静かな人間だ。
+There's no doubt that she'll open up a little bit when it's just the two of us.	二人きりになったらちょっとは親しくなれるかもしれない。	There's no doubt that she'll open up a little bit when it's just the two of us.	二人きりになったらちょっとは親しくなれるかもしれない。
+Meanwhile, we've even been texting occasionally.	当日までの間、ユリとはときどきメッセージのやりとりをした。	Meanwhile, we've even been texting occasionally.	当日まで、ユリとはときどきメッセージのやりとりをした。
+She was extremely apprehensive at first, but it wasn't long before I was already learning more about her.	ユリは最初はかなり不安そうだったが、次第に色々話してくれるようになった。	She was extremely apprehensive at first, but it wasn't long before I was already learning more about her.	ユリは最初かなり不安そうだったが、次第に色々話してくれるようになった。
+But putting Yuri aside...	でもそういえば……	But putting Yuri aside...	でもそういえば……
+I haven't heard a thing from Sayori since she left club early the other day.	サヨリがあの日部活を早退した日から、音沙汰がない。	I haven't heard a thing from Sayori since she left club early the other day.	部活を早退した日以来、サヨリからは音沙汰がない。
+It's not like we text each other all the time or anything...	別にいつもメッセージを送りあってる訳ではないが。	It's not like we text each other all the time or anything...	別にいつもメッセージを送り合ってるわけではないが……
+But I've been worried about her in the back of my mind.	でも頭の片隅では、彼女のことを心配していた。	But I've been worried about her in the back of my mind.	頭の片隅では、彼女のことを心配していた。
+Between what Sayori said, and what Monika said...	サヨリの言ったことと、モニカの言ったことを考えると……	Between what Sayori said, and what Monika said...	サヨリの言ったことと、モニカの言ったことを考えると……
+Is it really okay for me to put Sayori's feelings aside when she might need me?	サヨリが俺を必要としているかもしれないのに、彼女のことをほったらかして本当にいいのだろうか？	Is it really okay for me to put Sayori's feelings aside when she might need me?	サヨリが俺を必要としているかもしれないのに、ほったらかしにしていて本当にいいのだろうか？
+I decide to visit Sayori before [ch4_name] comes over.	俺は[ch4_name!t]が来る前にサヨリの家に行くことにした。	I decide to visit Sayori before [ch4_name] comes over.	俺は[ch4_name]が来る前にサヨリの家に行くことにした。
+Rather than asking, I simply tell her 「I'm coming over」, much like we've done in the past.	事前に知らせず家に上がることは今までにも何度かあったので構わないだろう。	Rather than asking, I simply tell her "I'm coming over", much like we've done in the past.	事前に知らせず家に上がることは今までにも何度かあったので、構わないだろう。
+Once I reach Sayori's house, I knock on the door before entering it myself.	サヨリの家に着き、ドアをノックする。	Once I reach Sayori's house, I knock on the door before entering it myself.	サヨリの家に着き、ドアをノックして中に入る。
+Again, we used to play so often that we've made it a habit of simply entering each other's houses like we were family.	サヨリとは一緒にずっと遊んでいたから、お互いの家には家族感覚で上がりあっていた。	Again, we used to play so often that we've made it a habit of simply entering each other's houses like we were family.	サヨリとはずっと一緒に遊んでいたから、お互いの家には家族感覚で行き来し合っていた。
+The house is quiet.	家の中は静かだ。	The house is quiet.	家の中は静かだ。
+Sayori isn't anywhere on the first floor, so I assume she's up in her room.	一階にはいないのでおそらく自分の部屋にいるのだろう。	Sayori isn't anywhere on the first floor, so I assume she's up in her room.	一階にはいないので、おそらく自分の部屋にいるのだろう。
+It's already strange of her not to run down and greet me.	だが降りてきて挨拶してこないのはおかしい。	It's already strange of her not to run down and greet me.	だが降りてきて挨拶してこないのはおかしい。
+I head up to her bedroom, where I finally find her.	俺は彼女の寝室に行き、やっとサヨリを見つけた。	I head up to her bedroom, where I finally find her.	俺は彼女の寝室に行き、やっとサヨリを見つけた。
+「Sayori?」	「サヨリ？」	Sayori?	「サヨリ？」
+「Hi [player]~」	「あっ、[player]～」	Hi [player]~	「あっ、[player]～」
+I sit down in her room.	彼女の部屋に腰を下ろす。	I sit down in her room.	彼女の部屋に腰を下ろす。
+Sayori forces a smile, but it's easy to tell that she's different.	サヨリは微笑んでいるが、それだけでいつもと違うのは明らかだった。	Sayori forces a smile, but it's easy to tell that she's different.	サヨリは無理に笑顔を浮かべていて、いつもと様子が違うのは明らかだった。
+There's a minute of silence between us.	お互いの間に沈黙の時間が流れる。	There's a minute of silence between us.	沈黙の時間が流れる。
+「You haven't come over like this in a long time, have you?」	「こうやって[player]がここに来るのって、すごく久しぶりだよね？」	You haven't come over like this in a long time, have you?	「こうやって[player]が来るのって、すごく久しぶりだよね？」
+「Ah... I guess you're right.」	「ああ……言われてみればそうかも」	Ah... I guess you're right.	「ああ……言われてみればそうかも」
+「It has been a long time.」	「本当に久しぶりだな」	It has been a long time.	「本当に久しぶりだ」
+「Not much has really changed, has it?」	「でも、あまり変わっていないようだな」	Not much has really changed, has it?	「でも、あまり変わっていないな」
+Sayori's room is as messy as it's always been.	サヨリの部屋は昔と同じように散らかっている。	Sayori's room is as messy as it's always been.	サヨリの部屋は相変わらず散らかっている。
+I also recognize the same stuffed animals and wall decorations that she's had for years now.	もう何年も前からあるぬいぐるみや壁の装飾もそのままだ。	I also recognize the same stuffed animals and wall decorations that she's had for years now.	もう何年も前から、ぬいぐるみや壁の装飾もそのままだ。
+「Ehehe~」	「えへへ～」	Ehehe~	「うふふ」
+「If you came over more often, it wouldn't be such a mess.」	「[player]がもっと頻繁に来てくれたら、こんなに散らかることないのにね」	If you came over more often, it wouldn't be such a mess.	「[player]がもっとウチに来てくれたら、こんなに散らかることないのにね」
+「That's because I end up cleaning it for you...」	「そりゃあお前の代わりに俺が部屋を掃除することになるからな」	That's because I end up cleaning it for you...	「そりゃあ、お前の代わりに俺が部屋を掃除してたからな……」
+「How come you suddenly wanted to come over today?」	「それで、今日はどうしていきなり来たの？」	How come you suddenly wanted to come over today?	「それで、今日はいきなりどうしたの？」
+「Aren't you supposed to see [ch4_name] today?」	「今日は[ch4_name!t]ちゃんと会うんじゃなかったっけ？」	Aren't you supposed to see [ch4_name] today?	「今日は[ch4_name]ちゃんと会うんじゃなかったっけ？」
+「Yeah, but...」	「ああ、でも……」	Yeah, but...	「え……」
+「...Wait, how did you know that?」	「……待て、何でそのことを知ってんだ？」	...Wait, how did you know that?	「……待て、何でそのことを知ってんだ？」
+Sayori had already left by the time we decided that last meeting.	前回の話し合いで決まった時、サヨリはすでに帰っていたはず。	Sayori had already left by the time we decided that last meeting.	前回の話し合いで決まった時、サヨリはすでに帰っていたはず。
+「Monika told me.」	「モニカちゃんが教えてくれたの」	Monika told me.	「モニカちゃんが教えてくれたの」
+「It's only natural for her to keep me informed about the festival preparations, right?」	「文化祭の準備についてわたしに伝えておくのは普通のことでしょ？」	It's only natural for her to keep me informed about the festival preparations, right?	「文化祭の準備のことで、わたしに伝えておくのは普通のことでしょ？」
+「Ah, that's true...」	「確かに……」	Ah, that's true...	「確かに……」
+「But what about you?」	「でも、お前はどうなんだよ」	But what about you?	「でも、そういうお前はどうなんだよ」
+「Aren't you going to be helping Monika today?」	「今日モニカの手伝いはしないのかよ？」	Aren't you going to be helping Monika today?	「今日は、モニカの手伝いをするんだろ？」
+「Of course!」	「もちろん！」	Of course!	「もちろん！」
+「But I'm just helping her online.」	「ネットで手伝ってるもん」	But I'm just helping her online.	「ネットで手伝ってるもん」
+「We didn't plan to meet up or anything.」	「だからモニカちゃんと直接会う予定はないよ」	We didn't plan to meet up or anything.	「だからモニカちゃんと直接会う予定はないよ」
+「Ah, so it's just me and [ch4_name], then...」	「じゃあ会う予定があるのは俺と[ch4_name!t]、だけか……」	Ah, so it's just me and [ch4_name], then...	「じゃあ会う予定があるのは俺と[ch4_name]だけか……」
+「Yep~」	「そうそう～」	Yep~	「そうそう～」
+There's more silence between us.	俺たちの間にさらに静寂が広がった。	There's more silence between us.	俺たちの間の静寂が、さらに濃くなった。
+Sayori stares in a random direction.	サヨリの視点は定まっていない。	Sayori stares in a random direction.	サヨリの視線は定まっていない。
+Everything about her behavior is really uncharacteristic.	今日のサヨリの行動はいつものサヨリらしくない。	Everything about her behavior is really uncharacteristic.	今日のサヨリは、いつものサヨリらしくない。
+I finally get to the point.	やっと、本題に入る。	I finally get to the point.	やっと、本題に入る。
+「I just...wanted to see how you were doing.」	「ただ……お前がどうしているか気になってな」	I just...wanted to see how you were doing.	「……お前がどうしてるか気になってな」
+「After you left on Friday.」	「金曜に帰ってから」	After you left on Friday.	「金曜日に帰ったあとから、ずっとだ」
+「When something's wrong, you can't hide it from me!」	「何かあったなら、俺に隠し事はできないからな」	When something's wrong, you can't hide it from me!	「何かあるだろ、俺に隠し事はできないぞ！」
+「I know you too well.」	「お前のことはよく知っているからな」	I know you too well.	「お前のことはよく知っているからな」
+「So...」	「だから……」	So...	「それで……」
+Sayori smiles, shaking her head.	サヨリは微笑み、首を振った。	Sayori smiles, shaking her head.	サヨリは微笑み、首を振った。
+「That's no good, [player].」	「そんなのよくないよ、[player]」	That's no good, [player].	「そんなのよくないよ、[player]」
+「Eh?」	「えっ……」	Eh?	「えっ？」
+「Why can't it just be like it's always been?」	「いつも通りのままじゃだめなの？」	Why can't it just be like it's always been?	「今まで通りじゃ、ダメなの？」
+「This is all my fault.」	「全部、わたしのせいだから」	This is all my fault.	「全部、わたしのせい」
+「If I didn't get so weak and accidentally express my feelings...」	「わたしが弱って間違えて感情を表に出さなかったら……」	If I didn't get so weak and accidentally express my feelings...	「わたしが弱って間違えた感情を出さなかったら……」
+「If I didn't make that stupid mistake...」	「わたしがそんな間違いを犯さなかったら……」	If I didn't make that stupid mistake...	「わたしがそんな間違いをしなかったら……」
+「Then you wouldn't have been worried about me at all.」	「[player]はわたしのことなんて心配する必要もなかったのに」	Then you wouldn't have been worried about me at all.	「[player]はわたしのことなんて心配する必要もなかったのに」
+「You wouldn't have come here.」	「ここへ来ることもなかったのに」	You wouldn't have come here.	「ここへ来ることもなかったのに」
+「You wouldn't have even been thinking about me right now.」	「今、わたしのことなんて考えてなかったはずなのに」	You wouldn't have even been thinking about me right now.	「今、わたしのことなんて考えてなかったはずなのに」
+「But this...is just my punishment, isn't it?」	「でもこれが……わたしへの罰なんだよね？」	But this...is just my punishment, isn't it?	「でもこれが……わたしへの罰なんだよね？」
+「I'm getting punished for being so selfish.」	「自分勝手だったことへの罰なんだ」	I'm getting punished for being so selfish.	「自分勝手だったことへの罰なんだ」
+「I think that's why the world decided to have you come over today.」	「だから世界が[player]をここに連れてきたのかもね」	I think that's why the world decided to have you come over today.	「だから、世界が[player]を今日ここに連れてきたのかもね」
+「It just wants to torture me.」	「世界はわたしを苦しめたがってるんだよ」	It just wants to torture me.	「世界はわたしを苦しめたがってるんだよ」
+「Ehehe~」	「えへへ～」	Ehehe~	「うふふ」
+「Sayori!」	「サヨリ！」	Sayori!	「サヨリ！」
+I grab Sayori by the shoulders.	俺はサヨリの肩を掴む。	I grab Sayori by the shoulders.	俺はサヨリの肩をつかむ。
+「What on Earth are you saying?!」	「一体何を言っているんだよ！？」	What on Earth are you saying?!	「一体何を言ってるんだよ！？」
+「Are you listening to yourself right now?」	「お前、自分で何を言ってるのか分かってるのか？」	Are you listening to yourself right now?	「お前、自分で何を言ってるのかわかってるのか？」
+「I know something happened to you.」	「何か起こったに違いない」	I know something happened to you.	「何かあっただろ」
+「There's no other explanation for you to be like this.」	「お前がこうしていることに、ほかに理由のつけようが無い」	There's no other explanation for you to be like this.	「何にもないはずがないだろ」
+「So tell me, already...!」	「だから、ちゃんと言ってくれよ……！」	So tell me, already...!	「だから、ちゃんと言ってくれよ……！」
+「Until I know, I won't be able to stop thinking about it!」	「それが分かるまで、俺はお前のことを考えるのをやめられないんだ！」	Until I know, I won't be able to stop thinking about it!	「それがわかんなくって、俺は、お前のことで頭がいっぱいなんだよ！」
+「Ah...」	「あ……」	Ah...	「あのね……」
+「Ahaha...」	「あはは……」	Ahaha...	「そうだな……」
+Sayori gives me an empty smile.	サヨリは空っぽの笑顔を俺に向けた。	Sayori gives me an empty smile.	サヨリは空っぽの笑顔を俺に向けた。
+「You really put me in a trap, [player].」	「もう逃げ場なんてないんだね、[player]」	You really put me in a trap, [player].	「もう逃げ場なんてないんだね、[player]」
+「But...」	「でも……」	But...	「けど……」
+「You're wrong.」	「[player]は間違ってるよ」	You're wrong.	「[player]は間違ってる」
+「Nothing happened to me.」	「わたしには何も起こってないよ」	Nothing happened to me.	「わたしは何も変わってない」
+「I've always been like this.」	「わたしはずっとこんな感じだったんだよ」	I've always been like this.	「わたしはずっとこんな感じだったんだ」
+「You're just seeing it for the first time.」	「[player]が初めて見ただけ」	You're just seeing it for the first time.	「[player]が知らなかっただけ」
+「Seeing what?」	「何をだよ？」	Seeing what?	「何がだ？」
+「What are you talking about, Sayori?」	「何の話をしているんだよ、サヨリ？」	What are you talking about, Sayori?	「サヨリ、何のことなんだ？」
+「Ehehe~」	「えへへ～」	Ehehe~	「えへへ～っ」
+「You're really just going to make me say it, aren't you, [player]?」	「[player]、どうしてもわたしに言わせる気なんだね……？」	You're really just going to make me say it, aren't you, [player]?	「[player]、どうしてもわたしに言わせる気なんだね……？」
+「I guess I have no choice this time.」	「でももう言うしかないか……」	I guess I have no choice this time.	「でももう言うしかないか……」
+「The thing is...」	「あのね……」	The thing is...	「あのね……」
+「I've had really bad depression my whole life.」	「ずっと前から、わたしは重いうつ病を抱えていたの」	I've had really bad depression my whole life.	「わたし、ずっと、重い鬱病を患ってるの」
+「Did you know that?」	「知ってた？」	Did you know that?	「知ってた？」
+「Why do you think I'm late to school every day?」	「なんで毎朝学校に遅刻してるか分かる？」	Why do you think I'm late to school every day?	「どうしてわたしが毎朝遅刻してたかわかる？」
+「Because most days, I can't even find a reason to get out of bed.」	「いつも、ベッドから起き上がる理由を見つけられないから」	Because most days, I can't even find a reason to get out of bed.	「ベッドから起き上がる理由が、何にもないの」
+「What reason is there to do anything when I fully know how worthless I am?」	「完璧に無価値なわたしがやるようなことなんて何もないもん」	What reason is there to do anything when I fully know how worthless I am?	「何の価値もないわたしがやることなんて、何もないの」
+「Why go to school?」	「なんで学校に行くの？」	Why go to school?	「なんで学校に行くの？」
+「Why eat?」	「なんで食べるの？」	Why eat?	「なんで食べるの？」
+「Why make friends?」	「なんで友達を作るの？」	Why make friends?	「なんで友達をつくるの？」
+「Why make other people put their energy and caring to waste by having them spend it on me?」	「なんで他の人が頑張った分をわたしが無駄遣いしてしまうの？」	Why make other people put their energy and caring to waste by having them spend it on me?	「なんでどうしようもない私のために、誰かが時間を費やすの？」
+「That's what it feels like.」	「そんな気分になるんだ」	That's what it feels like.	「そんな気分になるんだ」
+「And that's why I just want to make everyone happy...」	「だからわたしはただみんなを幸せにしたい……」	And that's why I just want to make everyone happy...	「わたし、ただみんなを幸せにしたい……」
+「Without anyone worrying about me.」	「わたしのことなんかは誰にも気にかけられずに」	Without anyone worrying about me.	「誰からも気にかけられなくていい」
+「...」	「……」	...	「……」
+I'm in shock.	ショックだ。	I'm in shock.	ショックだ。
+I can't even figure out how to respond.	どんな反応をすればいいのかさえ分からなかった。	I can't even figure out how to respond.	何も、反応することができない。
+How is it possible that Sayori kept this from me the entire time that I've known her?	俺はサヨリのことを知っていると思っていたのに、サヨリはこんなことをずっと隠していたというのか？	How is it possible that Sayori kept this from me the entire time that I've known her?	誰よりもサヨリのことを知っていると思っていたのに、サヨリはずっと隠してたっていうのか？
+Did she really want so badly for me to just not think about her?	本当に、サヨリはそこまで俺に気にかけられたくなかったのか？	Did she really want so badly for me to just not think about her?	本当に、サヨリはそこまで俺に気にかけられたくなかったのか？
+「...Why, Sayori?」	「……なんでだよ、サヨリ」	...Why, Sayori?	「……何でだよ、サヨリ」
+「Eh...?」	「え……？」	Eh...?	「え……？」
+「Why is it that you've never told me about this?」	「なんでこんなことを今まで教えてくれなかったんだよ」	Why is it that you've never told me about this?	「何で今まで教えてくれなかったんだよ」
+「It almost feels like I've been betrayed as your close friend.」	「親友として、裏切られた気分だ」	It almost feels like I've been betrayed as your close friend.	「親友として、裏切られた気分だ」
+「Because if I knew, I would have done everything I could to support you!」	「もっと早く分かってたら、お前を支えるためならなんでもしてやったのに！」	Because if I knew, I would have done everything I could to support you!	「もっと早くわかってたら、お前を支えるために何でもしてやったのに！」
+「Even if there's only so much that I could do...」	「たとえ俺にできることが多くなかったとしても……」	Even if there's only so much that I could do...	「例え俺にできることがなかったとしても……」
+「I would have tried a little bit harder to make every day a little better for you.」	「お前の毎日が少しでも良くなるように、どんな小さな努力でもしたのに！」	I would have tried a little bit harder to make every day a little better for you.	「お前の毎日が少しでも良くなるように、どんな小さな努力でもしたのに！」
+「That's why I'm your friend!」	「そのための友達だろ！」	That's why I'm your friend!	「そのための友達だろ！」
+「All you had to do was tell me!」	「全部俺に教えてくれれば！」	All you had to do was tell me!	「言ってくれればよかったんだ！」
+「You don't understand at all, [player].」	「[player]は何も分かってないよ」	You don't understand at all, [player].	「[player]は何もわかってないよ」
+「Why do you think I didn't tell you?」	「わたしがなんで今まで言わなかったのか分かる？」	Why do you think I didn't tell you?	「なんで今まで言わなかったのかわかる？」
+「Because if I told you, then you would have to waste effort caring about me instead of doing important things.」	「だってね、もしこの事を知ったら、[player]は自分がしなきゃいけないことよりも、わたしなんかのために努力を無駄にしちゃうでしょ？」	Because if I told you, then you would have to waste effort caring about me instead of doing important things.	「だってね、もし知ったら、[player]は自分がしなきゃいけないことよりも、わたしなんかのために無駄に努力しちゃうでしょ？」
+「I don't want to be cared about.」	「わたしは構われたくないの」	I don't want to be cared about.	「わたしは構われたくないの」
+「It's bittersweet, when people try to care about me.」	「誰かに気を使われちゃうと、なんだか切なくなってくるんだ」	It's bittersweet, when people try to care about me.	「気を使われちゃうと、何だか切なくなってくるんだ」
+「It feels nice sometimes.」	「たまには心地よかったりもするけどね」	It feels nice sometimes.	「たまには心地よかったりもするけどね」
+「But it also feels like a bat being swung against my head.」	「でも同時に、頭をバットで殴られたような気分になるんだ」	But it also feels like a bat being swung against my head.	「でも同時に、頭をバットで殴られたような気分になるんだ」
+「Ahaha~」	「あはは～」	Ahaha~	「あはは～」
+「That's why I wanted so badly for you to make friends with everyone else...」	「だから[player]には他のみんなと友達になってほしかった……」	That's why I wanted so badly for you to make friends with everyone else...	「だから、[player]には他のみんなと友達になってほしかった……」
+「Helping everyone be happy together is the best thing for me.」	「みんなが幸せになることがわたしにとって一番だから」	Helping everyone be happy together is the best thing for me.	「みんなが幸せになるお手伝いが、わたしにとって一番だから」
+「But then, I discovered something else, too.」	「でも、もう一つ気づいたことがあるんだ」	But then, I discovered something else, too.	「でも、もう一つ気づいたことがあるんだ」
+「Seeing you make friends and get closer with everyone in the club...」	「[player]がほかの部員のみんなと仲良くしているのを見ると……」	Seeing you make friends and get closer with everyone in the club...	「[player]が他のみんなと仲良くしているのを見ると……」
+「It feels like a spear going through my heart.」	「心がまるで槍に貫かれたように痛くなるの」	It feels like a spear going through my heart.	「心がまるで槍に貫かれたように痛くなるの」
+「So, that's why.」	「だから、そういうことなの」	So, that's why.	「だから、そういうことなの」
+「That's why I decided the world just wants to torture me.」	「この世界はわたしを苦しめたいんだって思ったんだ」	That's why I decided the world just wants to torture me.	「この世界はわたしを苦しめるためにあるの」
+「Every path leads to nothing but hurt.」	「どの道を進んでも傷つくだけ」	Every path leads to nothing but hurt.	「どの道を進んでも、傷つくだけ」
+「Ahaha~」	「あはは～」	Ahaha~	「あはは～」
+「You're right that I don't understand...」	「お前は俺に『何も分かっていない』と言ったけど、その通りだよ」	You're right that I don't understand...	「『何もわかっていない』って言ったけど、その通りだな……」
+「I don't understand your feelings at all, Sayori.」	「サヨリ、俺はお前の気持ちが全く分からない」	I don't understand your feelings at all, Sayori.	「サヨリ、俺にはお前の気持ちが、まったくわからない」
+「But I don't need to understand.」	「でも理解なんてする必要はないんだ」	But I don't need to understand.	「でも、わからなくても良いんだ」
+「Whatever it takes for me to help you stop hurting...」	「お前の苦しみを止められるならどんな方法だって……」	Whatever it takes for me to help you stop hurting...	「お前の苦しみを止められるならどんな方法だって……」
+「That's what I'll do.」	「俺は……どんなことでもやるよ」	That's what I'll do.	「俺は……どんなことでもやるよ」
+「No, [player].」	「ちがうよ、[player]」	No, [player].	「ちがうよ、[player]」
+「There's nothing.」	「そんなもの無い」	There's nothing.	「そんなの、ない」
+「Nothing at all.」	「なにも、無いんだよ」	Nothing at all.	「なにも、ないんだよ」
+「The only thing that could have helped is if everything could be like it always was.」	「唯一できたことは、いつも通りに過ごすことだった」	The only thing that could have helped is if everything could be like it always was.	「いつも通りに、一緒に過ごせれば、それでよかったんだ」
+「But I was selfish.」	「でもわたしが自分勝手なせいで……」	But I was selfish.	「でもわたしが自分勝手なせいで……」
+「I finally showed you what a horrible person I am.」	「どれほど酷い人間なのかを見せてしまった」	I finally showed you what a horrible person I am.	「どれほど酷い人間なのか、ばれちゃったから」
+Tears streak down Sayori's face.	涙がサヨリの頬を伝う。	Tears streak down Sayori's face.	涙がサヨリの頬を伝う。
+「I made you join the literature club because I was selfish.」	「わたしが自分勝手だったから、[player]を文芸部に入部させてしまったんだ」	I made you join the literature club because I was selfish.	「わたしが自分勝手だったから、[player]を文芸部に入部させたの」
+「And I was punished by my heart hurting in a way that I couldn't understand.」	「だから罰として自分でも理解できない心の痛みを負って」	And I was punished by my heart hurting in a way that I couldn't understand.	「だから、罰として、自分でも理解できない心の痛みを負ったの」
+「And now you came here and I made you hurt, too.」	「そして今度はここに来た[player]の心も傷つけてしまった」	And now you came here and I made you hurt, too.	「今度は、ここに来た[player]の心も傷つけてしまった」
+「I'm just weak and selfish.」	「わたしは弱くて、わがままなんだ」	I'm just weak and selfish.	「わたしは弱くて、わがままなんだ」
+「That's all I am.」	「それがわたし」	That's all I am.	「それがわたし」
+「And that's why I'm going to accept these punishments.」	「だからわたしはその罰を受け入れるんだ」	And that's why I'm going to accept these punishments.	「だからわたしは、その罰を受け入れるの」
+「Because I deserve every last one...!」	「だって全部わたしの自業自得だから……！」	Because I deserve every last one...!	「だって全部、自業自得だから……！」
+Without thinking, I once again grab Sayori's shoulders.	考えるより先に、俺はサヨリの肩をもう一度掴む。	Without thinking, I once again grab Sayori's shoulders.	考えるより先に、俺はサヨリの肩を強くつかんだ。
+This time, I pull her into a tight embrace.	今度は、彼女を強く抱きしめる。	This time, I pull her into a tight embrace.	そして、彼女を強く抱きしめる。
+「A-Ah--」	「あっ……」	A-Ah--	「あ、あっ……」
+「[player]...」	「[player]……」	[player]...	「[player]……」
+「Sayori.」	「サヨリ」	Sayori.	「サヨリ」
+「I don't care if you feel selfish.」	「お前が自分勝手だろうと何でもいい」	I don't care if you feel selfish.	「お前が自分勝手でも、何でもいい」
+「I'm really happy that you convinced me to join the club.」	「文芸部に入部するようお前が説得してくれて本当に良かったと思ってるんだ」	I'm really happy that you convinced me to join the club.	「文芸部に入部するよう説得してくれて、本当に良かったって、俺は思ってるんだ」
+「Seeing you every day makes it worthwhile enough.」	「毎日お前と会えることが十分に価値のあることだ」	Seeing you every day makes it worthwhile enough.	「毎日お前と会えるんだ。それだけで十分価値がある」
+「If I make friends with everyone else, then that's just a bonus.」	「もし他のみんなと仲良くなれるならそれは嬉しいけど」	If I make friends with everyone else, then that's just a bonus.	「もし他のみんなと仲良くなれるなら、それはそれでうれしい」
+「But please never underestimate how much I care about you.」	「だけど、お前が思っている以上に、俺はお前を本当に大切に思っているんだ」	But please never underestimate how much I care about you.	「けど、お前が思っている以上に、俺はお前を本当に大切に思っているんだ」
+「I wouldn't have it any other way.」	「これだけは分かってもらわないといけない」	I wouldn't have it any other way.	「それだけは、わかってほしい」
+「[player]...」	「[player]……」	[player]...	「[player]さん……」
+Sayori isn't hugging me back.	サヨリは抱き返してくれなかった。	Sayori isn't hugging me back.	サヨリは、抱きしめ返してはくれなかった。
+Despite my arms being wrapped around her, Sayori's arms remain at her sides.	俺の腕はサヨリを包み込んでいるのに、サヨリの腕はそのままだ。	Despite my arms being wrapped around her, Sayori's arms remain at her sides.	俺の腕はサヨリを包み込んでいるのに、サヨリの腕はだらりと下がったままだ。
+She starts sobbing next to my ear.	サヨリは俺の耳のそばで泣いている。	She starts sobbing next to my ear.	サヨリは俺の耳元で泣いている。
+「No...」	「だめ……」	No...	「いいえ……」
+「Don't do this...to me...」	「こんなこと……しないで……」	Don't do this...to me...	「こんなこと……しないで……」
+「Please don't do this...」	「おねがいだから……」	Please don't do this...	「おねがいだから……」
+「[player]...」	「[player]……」	[player]...	「[player]……」
+「I...」	「わたし……」	I...	「アタシは……」
+Sayori barely manages to speak between her sobs.	サヨリはすすり泣いてほとんど喋らない。	Sayori barely manages to speak between her sobs.	サヨリはすすり泣いて、ほとんどしゃべらない。
+I don't know if I'm doing the right thing.	俺のやっていることは正しいことなのだろうか。	I don't know if I'm doing the right thing.	俺が今していることは、正しいことなのだろうか。
+But all I want is for her to know that I care.	ただ、大事に思っていることをサヨリに知ってもらいたい。	But all I want is for her to know that I care.	でも、ただ大切に思っていることを彼女に知ってもらいたい。
+「If you have it in you to call yourself selfish, then you have to let me be selfish too.」	「もしお前が自分をわがままだと言うなら、俺にもわがままを言わせてくれよ」	If you have it in you to call yourself selfish, then you have to let me be selfish too.	「もしお前が、自分をわがままだって言うなら、俺にもわがままを言わせてくれよ」
+「No matter what it takes, I'll figure out what needs to change.」	「どうすればお前にとって良くなるのか、絶対にその答えを見つけ出してやる」	No matter what it takes, I'll figure out what needs to change.	「どうすればお前を救えるのか、絶対にその答えを見つけ出してやる」
+「I'll make these feelings go away.」	「こんな気持ちは俺が消し去ってやる」	I'll make these feelings go away.	「そんな気持ち、俺が消し去ってやる」
+「And if there's anything that you need me to do...」	「だから、俺にしてほしい事があるなら……」	And if there's anything that you need me to do...	「だから、俺にしてほしいことがあるなら……」
+「Then you'd better tell me.」	「必ず言ってくれ」	Then you'd better tell me.	「必ず言ってくれ」
+「I'll get mad if you don't.」	「もし言わなかったら怒るぞ」	I'll get mad if you don't.	「もし言わなかったら怒るぞ」
+「...」	「……」	...	「……」
+「I...don't know...」	「わたし……分からない……」	I...don't know...	「わたし……わからない……」
+「I don't know...」	「分からない……」	I don't know...	「わからない……」
+「I don't know.」	「分からないよ……」	I don't know.	「結構よ」
+Gently, Sayori finally puts her arms around me in return.	静かに、サヨリは俺に腕を回し返す。	Gently, Sayori finally puts her arms around me in return.	静かに、サヨリは俺に腕を回し返す。
+「I don't know anything.」	「何も分からないの」	I don't know anything.	「何もわからないの」
+「It's all really scary...」	「全部すごく怖いの……」	It's all really scary...	「全部すごく怖いの……」
+「I don't understand any of my feelings, [player]...」	「自分の気持ちが分からないよ、[player]……」	I don't understand any of my feelings, [player]...	「自分の気持ちがわからないよ、[player]……」
+「The only time I'm not feeling nothing is when I'm feeling pain.」	「何かを感じているのは、痛みを感じている時だけ」	The only time I'm not feeling nothing is when I'm feeling pain.	「感じられるのは、痛みだけなんだ」
+「But...」	「でも……」	But...	「でも……」
+「Your hugs are so warm...」	「[player]、すごくあったかい……」	Your hugs are so warm...	「[player]、すごくあったかい……」
+「...And that's really scary, too.」	「……でもそれもすごく怖い」	...And that's really scary, too.	「……でもそれもすごく怖い」
+Sayori lets me go.	サヨリは俺を離す。	Sayori lets me go.	サヨリは俺を離す。
+As she does so, I let her go as well.	彼女がそうするように、俺も離した。	As she does so, I let her go as well.	彼女にならい、俺も離した。
+「The festival is tomorrow.」	「明日は文化祭だな」	The festival is tomorrow.	「明日は文化祭だな」
+「Yeah...」	「うん……」	Yeah...	よし……
+「It's going to be fun, right?」	「楽しくなるよな？」	It's going to be fun, right?	「楽しくなるよな？」
+「Yeah.」	「うん」	Yeah.	「そうね」
+「How would you like for me to spend it all with you?」	「俺と一緒に一日過ごすのはどうだ？」	How would you like for me to spend it all with you?	「文化祭の日、俺と一緒に一日過ごすのはどうだ？」
+「U-Um...」	「う、うーん……」	U-Um...	「その……」
+「Ah--」	「えっと……」	Ah--	「えっと……」
+「It's what I want.」	「俺がそうしたいんだ」	It's what I want.	「俺がそうしたいんだ」
+「I promise.」	「信じてくれ」	I promise.	「急ぎませんから」
+「I...」	「そ……」	I...	「それなら……」
+「I think that would be nice, then...」	「それなら……いいと、思う……」	I think that would be nice, then...	「それなら……いいと、思う……」
+「Yeah.」	「そうか」	Yeah.	「ふふん」
+Sayori wipes her eyes.	サヨリは目を拭う。	Sayori wipes her eyes.	サヨリは涙を拭う。
+If I could spend the whole day here, I would.	ずっとここに居られたらいいのに。	If I could spend the whole day here, I would.	ずっとここにいられたらいいのに。
+「Of all days, this has to be the one where I have other plans...」	「よりによって今日は他の予定があるんだよな……」	Of all days, this has to be the one where I have other plans...	「よりによって今日は他の予定があるんだよな……」
+「Maybe I should cancel--」	「今からでも取り消すべき――」	Maybe I should cancel--	「キャンセルしよ――」
+「No, don't--!」	「やめて――！」	No, don't--!	「やめて――！」
+「Please don't...」	「お願いだからやめて……」	Please don't...	「お願い、やめて……」
+「If you did that...then I really wouldn't forgive you.」	「そんなことしたら……わたし本当に許さないよ」	If you did that...then I really wouldn't forgive you.	「そんなことしたら……わたし本当に許さない」
+「But...」	「でも……」	But...	だが……
+「It's almost time for [ch4_name] to meet me at my house...」	「そろそろうちで[ch4_name!t]と会う時間なんだよな……」	It's almost time for [ch4_name] to meet me at my house...	「そろそろ、うちで[ch4_name]と会う時間なんだ……」
+「At the very least, do you want to come along and help out?」	「せめて一緒に行って手伝ってくれないか？」	At the very least, do you want to come along and help out?	「せめて、一緒に来て手伝ってくれないか？」
+「It would be fun.」	「きっと楽しいぞ」	It would be fun.	「きっと楽しいぞ」
+To my surprise, Sayori shakes her head.	驚いたことに、サヨリは首を振った。	To my surprise, Sayori shakes her head.	サヨリは首を振った。
+「I'm sorry.」	「ごめんなさい」	I'm sorry.	「ごめんなさい」
+「I don't know if that would be very good for me today.」	「今日は楽しく過ごせるか分からないんだ」	I don't know if that would be very good for me today.	「今日は楽しく過ごせるかわからないんだ」
+「You understand, right?」	「分かってくれるよね？」	You understand, right?	「わかってくれるよね？」
+「Ah...」	「ええっと……」	Ah...	「ああ……」
+「It's...kind of hard for me to fully understand.」	「それが……完璧に理解するのは難しいんだ……」	It's...kind of hard for me to fully understand.	「その……完璧に理解するのは難しいが……」
+「But I'm trying my hardest.」	「頑張ってはいるんだが」	But I'm trying my hardest.	「理解しようとはしているんだ」
+「It's okay.」	「いいんだよ」	It's okay.	「いいんだよ」
+「Don't worry too much about it.」	「あまり心配しなくていいよ」	Don't worry too much about it.	「あんまり心配しないで」
+「I'll see you tomorrow, okay?」	「また明日、ね？」	I'll see you tomorrow, okay?	「また明日、ね？」
+「...Alright.」	「……分かった」	...Alright.	「……わかった」
+「I look forward to it.」	「楽しみにしてるよ」	I look forward to it.	「楽しみにしています」,Must
+I say goodbye to Sayori and exit her house.	サヨリに別れを告げ、家を出る。	I say goodbye to Sayori and exit her house.	サヨリに別れを告げ、家を出る。
+On the way home, I find myself still feeling uneasy.	帰り道、まだ心は落ちつかない。	On the way home, I find myself still feeling uneasy.	帰り道、まだ心は落ちつかない。
+But it's hard for me to keep thinking about it when [ch4_name] is about to come over, too...	でもあと少ししたら[ch4_name!t]がやってくるのに、この件について考え続けるのは大変だ……	But it's hard for me to keep thinking about it when [ch4_name] is about to come over, too...	あと少ししたら[ch4_name]がやってくるのに、この件について考え続けるのは大変だ……
+I think Sayori is right.	サヨリの言う通りなのかもしれない。	I think Sayori is right.	サヨリの言う通りなのかもしれない。
+I shouldn't be worrying too much, and we're definitely going to have a great time tomorrow.	あまり心配しすぎない方がいいかもしれないし、明日はきっと楽しい一日になるだろう。	I shouldn't be worrying too much, and we're definitely going to have a great time tomorrow.	あまり心配しすぎない方がいい。明日はきっと楽しい一日になるだろう。
+I should just focus on what's ahead of me!	だから明日の準備に集中して取り組もう。	I should just focus on what's ahead of me!	だから、今は明日の準備に集中して取り組もう！
+I spend only a few minutes back at home anxiously awaiting Natsuki's arrival.	俺は家に戻ってナツキの到着を心配しながら待った。	I spend only a few minutes back at home anxiously awaiting Natsuki's arrival.	俺は家に戻り、心配な気持ちを抱えつつ、ナツキの到着を待っていた。
