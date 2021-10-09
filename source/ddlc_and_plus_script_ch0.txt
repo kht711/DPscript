@@ -65,7 +65,7 @@ I look around and realize that I'm the only one left in the classroom.	俺は周
 「Eeeehhhhh?! Meanie!」	「えええええええ！？ ケチ！」	Eeeehhhhh?! Meanie!	「えええええええ！？何それヤダ、ケチ！」
 Sayori is vice president of the Literature Club.	サヨリは文芸部の副部長をやっている。	Sayori is vice president of the Literature Club.	サヨリは、新設された文芸部の副部長だ。
 Not that I was ever aware that she had any interest in literature.	文学に関心を持っていただなどかつて気づいたこともない。	Not that I was ever aware that she had any interest in literature.	まさか、彼女が文学に関心があったとは、俺も知らなかった。
-In fact, I'm 99%% sure she only did it because she thought it would be fun to help start a new club.	実際、部の新設の手伝いをするのが楽しそうだからというだけで参加したのだと99％確信している。	In fact, I'm 99% sure she only did it because she thought it would be fun to help start a new club.	部を新設するって楽しそう！というだけで参加したのだと99%思っているが。
+In fact, I'm 99% sure she only did it because she thought it would be fun to help start a new club.	実際、部の新設の手伝いをするのが楽しそうだからというだけで参加したのだと99％確信している。	In fact, I'm 99% sure she only did it because she thought it would be fun to help start a new club.	部を新設するって楽しそう！というだけで参加したのだと99%思っているが。
 Since she was the first one to show interest after the one who proposed the club, she inherited the title 「Vice President」.	部を提案した人の初めての賛同者だったから、『副部長』の座に就いたみたいだ。	Since she was the first one to show interest after the one who proposed the club, she inherited the title "Vice President".	サヨリは、発起人に最初に賛同したことで『副部長』の座に就けたらしい。
 That said, my interest in literature is guaranteed to be even less.	とはいえ、文学になんて彼女より興味ないこと請け合いだ。	That said, my interest in literature is guaranteed to be even less.	とはいえ、そんな彼女以上に、俺は文学になんて一切興味がないのだ。
 「Yeah. I'm going to the anime club.」	「そうか、じゃあアニメ部に行ってくる」	Yeah. I'm going to the anime club.	「ケチで悪かったな。じゃあ、アニメ研究会に行ってくるよ」
@@ -95,7 +95,7 @@ Eh? I glance around the room.	えっ？ 教室をひと目見回した。	Eh? I 
 「...」	「……」	...	「……」
 All words escape me in this situation.	つい言葉を失ってしまった。	All words escape me in this situation.	つい言葉を失ってしまった。
 This club...	この部活は……	This club...	「この部活は……」
-{i}...is full of incredibly cute girls!!{/i}	{i}最高にかわいい子だらけじゃないか！{/i}	<i>...is full of incredibly cute girls!!</i>	<i>……めちゃくちゃかわいい子だらけじゃないか！</i>
+<i>...is full of incredibly cute girls!!</i>	<i>最高にかわいい子だらけじゃないか！</i>	<i>...is full of incredibly cute girls!!</i>	<i>……めちゃくちゃかわいい子だらけじゃないか！</i>
 「What are you looking at?」	「あんたどこを見てんのよ？」	What are you looking at?	「ちょっとアンタ！ どこ見てんのよ？」
 「If you want to say something, say it.」	「言いたいことがあるなら言いなさいよ」	If you want to say something, say it.	「言いたいことがあるなら言いなさいよ」
 「S-Sorry...」	「ご、ごめん」	S-Sorry...	「ご、ごめん」
@@ -151,11 +151,11 @@ The icing is sweet and full of flavor - I wonder if she made it herself.	アイ�
 「This is really good.」	「これ、すごく美味いぞ」	This is really good.	「これ、すごく美味い」
 「Thank you, Natsuki.」	「ありがとう、ナツキ」	Thank you, Natsuki.	「ありがとう、ナツキ」
 「W-Why are you thanking me? It's not like I...!」	「な、なに言ってるの？ 別に……！」	W-Why are you thanking me? It's not like I...!	「な、なに言ってるの？ べ、別に……！」
-{i}(Haven't I heard this somewhere before...?){/i}	{i}（どこかで聞いたことあるような……？）{/i}	<i>(Haven't I heard this somewhere before...?)</i>	<i>（何か聞いたことあるぞ……？）</i>
+<i>(Haven't I heard this somewhere before...?)</i>	<i>（どこかで聞いたことあるような……？）</i>	<i>(Haven't I heard this somewhere before...?)</i>	<i>（何か聞いたことあるぞ……？）</i>
 「...Made them for you or anything.」	「……別にあんたのために作ったわけじゃないし」	...Made them for you or anything.	「……別にアンタのためにつくったんじゃないんだからね……」
 「Eh? I thought you technically did. Sayori said--」	「え？ 実際そうなんじゃないのか？ サヨリもそう言ってたし――」	Eh? I thought you technically did. Sayori said--	「え？ でも、実際俺のためだろ？ サヨリもそう言ってたし――」
 「Well, maybe!」	「まあ、そうね！」	Well, maybe!	「まあ、そうね！」
-「But not for, y-you know, {i}you!{/i} Dummy...」	「で、でも、あくまで新入部員のためで、{i}あんた個人{/i}のためじゃないんだからね！ バカ……」	But not for, y-you know, <i>you!</i> Dummy...	「で、でも、あくまで新入部員のためで、別に<i>アンタ</i>のためじゃないんだからね！ バカ……」
+「But not for, y-you know, <i>you!</i> Dummy...」	「で、でも、あくまで新入部員のためで、<i>あんた個人</i>のためじゃないんだからね！ バカ……」	But not for, y-you know, <i>you!</i> Dummy...	「で、でも、あくまで新入部員のためで、別に<i>アンタ</i>のためじゃないんだからね！ バカ……」
 「Alright, alright...」	「分かった、分かった……」	Alright, alright...	「わかった、わかった……」
 I give up on Natsuki's weird logic and dismiss the conversation.	ナツキの変な論理には降参して、会話を終わらせる。	I give up on Natsuki's weird logic and dismiss the conversation.	ナツキの変な論理に降参して、会話を終わらせる。
 Yuri returns to the table, carrying a tea set.	ユリはティーセットを抱えテーブルに戻ってくる。	Yuri returns to the table, carrying a tea set.	ユリはティーセットを抱えてテーブルに戻ってくる。
@@ -256,7 +256,7 @@ Natsuki's eyes dart over to me for a split second.	ナツキの目が一瞬こ�
 「Ehehe, your cupcakes, your poems...」	「えへへ、ナツキちゃんのカップケーキにナツキちゃんの詩……」	Ehehe, your cupcakes, your poems...	「えへへ、カップケーキに、詩……」
 「Everything you do is just as cute as you are~」	「ナツキちゃんはやることまでぜんぶかわいいなあ～」	Everything you do is just as cute as you are~	「ナツキちゃんってば、ホント全部かわいいなあ～」
 Sayori sidles up behind Natsuki and puts her hands on her shoulders.	サヨリはナツキの後ろにサッと移動して、ナツキの肩に両手を置いた。	Sayori sidles up behind Natsuki and puts her hands on her shoulders.	サヨリはナツキの後ろにサッと移動して、ナツキの肩に両手を置いた。
-「{i}I'm not cute!!{/i}」	「{i}かわいくない！！{/i}」	<i>I'm not cute!!</i>	「<i>アタシ、かわいくなんかないし！</i>」
+「<i>I'm not cute!!</i>」	「<i>かわいくない！！</i>」	<i>I'm not cute!!</i>	「<i>アタシ、かわいくなんかないし！</i>」
 「Natsuki, you write your own poems?」	「ナツキって詩を書くのか？」	Natsuki, you write your own poems?	「詩を書くのか？」
 「Eh? Well, I guess sometimes.」	「え？ まあ、たまにね」	Eh? Well, I guess sometimes.	「え？ まあ、たまにね」
 「Why do you care?」	「なんか問題ある？」	Why do you care?	「何よ、なんか問題ある？」
