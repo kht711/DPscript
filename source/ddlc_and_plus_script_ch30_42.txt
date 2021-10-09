@@ -1,0 +1,8 @@
+「I really like the sound of rain...」	「雨音ってすごく好きなの……」	I really like the sound of rain...	「雨音ってすごく好きなの……」
+「Not so much getting my clothes and hair wet, though.」	「服や髪が濡れるのは嫌だけどね」	Not so much getting my clothes and hair wet, though.	「服や髪が濡れるのは嫌だけどね」
+「But a nice, quiet day at home with the sound of rainfall outside my window...」	「でも、家で静かに過ごしながら、窓の外で降る雨の音を聞く……」	But a nice, quiet day at home with the sound of rainfall outside my window...	「でも、家で静かに過ごしながら、窓の外で降る雨の音を聞く……」
+「It's one of the most calming experiences for me.」	「それが私が最も癒されることの一つなの」	It's one of the most calming experiences for me.	「すごく癒されるのよね」
+「Yeah...」	「本当に……」	Yeah...	よし……
+「Sometimes I imagine you holding me while we listen to the sound of the rain outside.」	「あなたに抱きしめられながら二人で雨音を聞いてるのを想像することもあるの」	Sometimes I imagine you holding me while we listen to the sound of the rain outside.	「あなたに抱きしめられながら二人で雨音を聞いているのを想像することもあるの」
+「That's not too cheesy or anything, is it?」	「それってベタすぎたりしないわよね？」	That's not too cheesy or anything, is it?	「それってベタすぎたりしないわよね？」
+「Would you ever do that for me, [player]?」	「いつかそうしてくれる？ [player]君」	Would you ever do that for me, [player]?	「いつかそうしてくれる？ [player]君」

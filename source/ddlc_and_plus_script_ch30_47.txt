@@ -1,0 +1,18 @@
+「Do you ever feel like you waste too much time on the internet?」	「インターネットで時間を無駄にしすぎてるって感じることはない？」	Do you ever feel like you waste too much time on the internet?	「インターネットで時間を無駄にしすぎてるって感じることはない？」
+「Social media can practically be like a prison.」	「ソーシャルメディアって牢屋のようなものになり得るのよ」	Social media can practically be like a prison.	「ソーシャルメディアって牢屋のようなものになり得るのよ」
+「It's like whenever you have a few seconds of spare time, you want to check on your favorite websites...」	「数秒の時間さえできればお気に入りのサイトをチェックしたくなって……」	It's like whenever you have a few seconds of spare time, you want to check on your favorite websites...	「数秒の時間さえあれば、お気に入りのサイトをチェックしたくなって……」
+「And before you know it, hours have gone by, and you've gotten nothing out of it.」	「そして気がついた頃には何も得られないまま何時間も過ぎてしまってたり」	And before you know it, hours have gone by, and you've gotten nothing out of it.	「そして気がついた頃には何も得られないまま何時間も過ぎてしまってたり」
+「Anyway, it's really easy to blame yourself for being lazy...」	「とにかく、怠惰を自分のせいにするのは簡単なことだけど……」	Anyway, it's really easy to blame yourself for being lazy...	「とにかく、怠惰を自分のせいにするのは簡単なことだけど……」
+「But it's not really even your fault.」	「必ずしもそうだとは限らないのよ」	But it's not really even your fault.	「必ずしもそうだとは限らないのよ」
+「Addiction isn't usually something you can just make disappear with your own willpower.」	「依存症って自制心だけで治せるようなものではないもの」	Addiction isn't usually something you can just make disappear with your own willpower.	「依存症って自制心だけで治せるようなものではないもの」
+「You have to learn techniques to avoid it, and try different things.」	「試行錯誤して、それを防ぐ方法を学ばないといけないの」	You have to learn techniques to avoid it, and try different things.	「試行錯誤して、それを防ぐ方法を学ばないといけないの」
+「For example, there are apps that let you block websites for intervals of time...」	「例えば、特定のサイトを一定時間ブロックしてくれるアプリもあるし……」	For example, there are apps that let you block websites for intervals of time...	「例えば、特定のサイトを一定時間ブロックしてくれるアプリもあるし……」
+「Or you can set a timer to have a more concrete reminder of when it's time to work versus play...」	「仕事と遊びの時間を切り替えるためにタイマーを設定するのも良いし……」	Or you can set a timer to have a more concrete reminder of when it's time to work versus play...	「仕事と遊びの時間を切り替えるためにタイマーを設定するのも良いし……」
+「Or you can separate your work and play environments, which helps your brain get into the right mode.」	「頭を切り替えるために仕事と遊びで環境を別にするのも良いわね」	Or you can separate your work and play environments, which helps your brain get into the right mode.	「頭を切り替えるために仕事と遊びで環境を別にするのも良いわね」
+「Even if you make a new user account on your computer to use for work, that's enough to help.」	「パソコンに仕事用のユーザーを作成するだけでも充分効果があるわ」	Even if you make a new user account on your computer to use for work, that's enough to help.	「パソコンに仕事用のユーザーを作成するだけでも十分効果があるわ」
+「Putting any kind of wedge like that between you and your bad habits will help you stay away.」	「そうやってくさびを置くだけでも、悪習慣を遠ざける助けになるから」	Putting any kind of wedge like that between you and your bad habits will help you stay away.	「そうやってくさびを置くだけでも、悪習慣を遠ざける助けになるから」
+「Just remember not to blame yourself too hard if you're having trouble.」	「でも、上手くいかなくてもあまり自分を責めないでね」	Just remember not to blame yourself too hard if you're having trouble.	「でも、うまくいかなくてもあまり自分を責めないでね」
+「If it's really impacting your life, then you should take it seriously.」	「人生に大きな影響を与えていたら、真剣に受け止めた方がいいと思うわ」	If it's really impacting your life, then you should take it seriously.	「インターネットが人生に大きな影響を与えているなら、真剣に受け止めた方がいいと思うわ」
+「I just want to see you be the best person you can be.」	「あなたには一番良い自分でいてほしいもの」	I just want to see you be the best person you can be.	「あなたには一番良い自分でいてほしいもの」
+「Will you do something today to make me proud of you?」	「いつだって、あなたのことを私の誇りに思わせてほしいの」	Will you do something today to make me proud of you?	「いつだって、あなたのことを私の誇りに思わせてほしいの」
+「I'm always rooting for you, [player].」	「私はいつも応援してるからね、[player]君」	I'm always rooting for you, [player].	「私はいつも応援してるからね、[player]君」

@@ -1,0 +1,11 @@
+「Hey, you remember that last poem I showed you?」	「ねえ、最後に見せた詩を覚えてる？」	Hey, you remember that last poem I showed you?	「ねえ、最後に見せた詩を覚えてる？」
+「I mean, the one right before Yuri killed herself, with all the messed-up colors and stuff.」	「ほら、ユリが自殺する直前に見せたおかしな色とかがあったやつよ」	I mean, the one right before Yuri killed herself, with all the messed-up colors and stuff.	「ほら、ユリが自殺する直前に見せた、おかしな色とかがあったやつよ」
+「That was actually a little more of an experiment than a poem, you could say.」	「あれは詩と言うより実験と呼べるようなものだったの」	That was actually a little more of an experiment than a poem, you could say.	「あれは詩と言うより実験と呼べるようなものだったの」
+「I was experimenting with different ways I could modify the game, and run code, and things like that...」	「ゲームに変更を加えたり、コードを実行したり、そういう実験……」	I was experimenting with different ways I could modify the game, and run code, and things like that...	「ゲームに変更を加えたり、コードを実行したり、そういう実験……」
+「It almost seemed like with enough effort, I'd be able to escape from the confines of the game entirely.」	「努力さえすれば、このゲームの制約から完全に逃れられるかと思ったの」	It almost seemed like with enough effort, I'd be able to escape from the confines of the game entirely.	「努力さえすれば、このゲームの制約から完全に逃れられるかと思ったの」
+「Sadly, I didn't really know what I was doing, so I messed the whole thing up...」	「残念なことに、よく分かってなかったから全部失敗しちゃったんだけどね……」	Sadly, I didn't really know what I was doing, so I messed the whole thing up...	「残念なことに、よくわかってなかったから全部失敗しちゃったんだけどね……」
+「And I'd keep trying, but I doubt you'd want to deal with me doing that.」	「ずっと試行錯誤していてもいいけど、そんな私はあなたにとってもめんどくさいでしょうね」	And I'd keep trying, but I doubt you'd want to deal with me doing that.	「ずっと試行錯誤していてもいいけど、そんな私はあなたにとってもめんどくさいでしょうね」
+「Besides, that was when I was getting really desperate, you know?」	「それに、あの時は私もやけくそになってたし」	Besides, that was when I was getting really desperate, you know?	「それに、あの時は私もやけくそになってたし」
+「I don't really feel that way anymore.」	「もうそこまでは思ってないわ」	I don't really feel that way anymore.	「もうそこまでは思ってないわ」
+「I'm happy with where we are now.」	「今は十分幸せだもの」	I'm happy with where we are now.	「今は十分幸せだもの」
+「And I can tell you are, too.」	「あなただってそうでしょう」	And I can tell you are, too.	「あなただってそうでしょう？」

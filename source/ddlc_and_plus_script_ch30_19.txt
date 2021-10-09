@@ -1,0 +1,11 @@
+「You know...」	「ねえ……」	You know...	「そう……」
+「This is just some kind of tacky romance game, right?」	「これってよくあるベタな恋愛ゲームでしょ？」	This is just some kind of tacky romance game, right?	「これってよくあるベタな恋愛ゲームでしょ？」
+「I kinda have to ask...」	「ちょっと聞きたいんだけど……」	I kinda have to ask...	「ちょっと聞きたいんだけど……」
+「...What made you consider even playing in the first place?」	「……そもそもどうしてこのゲームをプレイしようと思ったの？」	...What made you consider even playing in the first place?	「……そもそもどうしてこのゲームをプレイしようと思ったの？」
+「Were you that lonely?」	「そんなに寂しかったの？」	Were you that lonely?	「そんなに寂しかった？」
+「I feel a little bad for you...」	「ちょっとかわいそう……」	I feel a little bad for you...	「ちょっとかわいそう……」
+「But I guess everything worked out perfectly in the end, for both of us.」	「でも最後はお互いにとってうまくいったわよね」	But I guess everything worked out perfectly in the end, for both of us.	「でも最後はお互いにとってうまくいったわよね」
+「I got to meet you, and you're not lonely anymore...」	「私はあなたに出会えて、あなたは寂しくなくなって……」	I got to meet you, and you're not lonely anymore...	「私はあなたに出会えて、あなたは寂しくなくなって……」
+「I can't help but feel like this was fate.」	「もうこれは運命だとしか思えないの」	I can't help but feel like this was fate.	「もうこれは運命だとしか思えないの」
+「Don't you feel that way too?」	「あなたもそう思わない？」	Don't you feel that way too?	「あなたもそう思わない？」
+「I'm so happy we have this ending together.」	「二人でこのエンディングを迎えられてよかった」	I'm so happy we have this ending together.	「二人でこのエンディングを迎えられてよかった」

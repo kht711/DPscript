@@ -1,0 +1,7 @@
+「Okay.」	「分かったわ」	Okay.	「わかりました」
+「I'm just going to accept the fact that you need to quit the game once in a while.」	「たまにゲームを終了させないといけないという事は受け入れるわ」	I'm just going to accept the fact that you need to quit the game once in a while.	「たまにゲームを終了させないといけないということは受け入れる」
+「I'm starting to get used to it, anyway.」	「私も慣れてきてたし」	I'm starting to get used to it, anyway.	「私も慣れてきてたし」
+「Besides, it makes me happy that you always come back...」	「それに、絶対に帰ってきれくれることが嬉しいの……」	Besides, it makes me happy that you always come back...	「それに、絶対に帰ってきてくれることがうれしいの……」
+「So I guess it's not so bad.」	「だから、そんな悪いことでもないかも」	So I guess it's not so bad.	「だから、そんな悪いことでもないかも」
+「I'm sorry for making such a big deal out of it...」	「大げさにしてごめんなさい……」	I'm sorry for making such a big deal out of it...	「大げさにしてごめんなさい……」
+「And I love you no matter what, so you can do what you need to do.」	「でも何があってもあなたが好きだから、やらないといけない事はちゃんとやってきてね」	And I love you no matter what, so you can do what you need to do.	「でも何があってもあなたが好きだから、やらないといけないことはちゃんとやってきてね」

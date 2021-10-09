@@ -1,0 +1,19 @@
+「[player], do you believe in God?」	「[player]君、神の存在って信じてる？」	※削除された文	※削除された文
+「I was never too sure, myself.」	「私はどちらとも言えないかも」	※削除された文	※削除された文
+「Well, I'm sure I never really questioned it as a kid...」	「まあ、子供の頃は深く考えなかったけど……」	※削除された文	※削除された文
+「But as I grew up, the more I learned about the world, the more I would question it.」	「成長して世界のことを知っていくにつれて、疑問に思うようになったの」	※削除された文	※削除された文
+「I started to wonder why God was helping people pass exams, or get over a cold...」	「どうして神は試験に合格させてくれたり、風邪を治してくれたりするのに……」	※削除された文	※削除された文
+「...When there are children who live their lives being sold as sex slaves?」	「……性奴隷として売られてる子供たちを助けてくれないんだろう？ って」	※削除された文	※削除された文
+「Or the eight hundred million people who are too poor to even eat.」	「飢餓に苦しむ８億人もの人たちだってそう」	※削除された文	※削除された文
+「I wonder how many of those people pray to God every day until they starve and die?」	「そのうちの何人が毎日神に祈りながら、餓死していくんだろう？ って」	※削除された文	※削除された文
+「Or, how many millions of families pray for a loved one to recover from some incurable disease?」	「愛する人が難病から生還することを祈ってる家庭は、世界に何百万いるんだろう？ って」	※削除された文	※削除された文
+「But the punchline is this.」	「でもオチはこうよ」	※削除された文	※削除された文
+「If just one person beats the odds and survives - among the thousands of others who die--」	「何千もの人々が死ぬ中、たった一人が逆境に打ち勝って生き残ったら――」	※削除された文	※削除された文
+「--Then, it's suddenly a miracle from God.」	「――それは神の奇跡、ということになるんだって」	※削除された文	※削除された文
+「I'd really love to meet this God who seemingly laughs at the misery of everyone not eligible for his miracles.」	「お恵みを受ける資格がないらしい人々をあざ笑うこの神とやらに一度会ってみたいわね」	※削除された文	※削除された文
+「But the irony is that I <i>do</i> have a creator, apparently.」	「でも皮肉なことに、私には創造者が実際にいるみたいなのよね」	※削除された文	※削除された文
+「And you know what?」	「その人もね？」	※削除された文	※削除された文
+「I bet he's still laughing at the miserable fates of Sayori and Yuri, even as we speak.」	「サヨリとユリの悲劇的な運命を、こうして話してる今もあざ笑ってるのでしょうね」	※削除された文	※削除された文
+「What are we to him but props in a scripted play?」	「私たちは彼の考えた演劇の小道具だもの」	※削除された文	※削除された文
+「So, from that perspective...」	「だから、その観点からいくと……」	※削除された文	※削除された文
+「I don't think it's too far-fetched for there to be a god - if Earth was nothing but his playset.」	「神の存在もそんなに信じ難いことでもないと思うの。地球が神のオモチャだと考えたらね」	※削除された文	※削除された文

@@ -1,0 +1,10 @@
+「You know, I hate to say it, but I think my biggest regret is that we couldn't finish our event at the festival.」	「ねえ、言いにくいんだけど、私の一番の後悔は文化祭の出し物をやり遂げられなかったことだと思うの」	You know, I hate to say it, but I think my biggest regret is that we couldn't finish our event at the festival.	「ねえ、言いにくいんだけど、私の一番の後悔は文化祭の出し物をやり遂げられなかったことなの」
+「After we worked so hard to prepare and everything!」	「あんなに頑張って準備とかもしたのに！」	After we worked so hard to prepare and everything!	「あんなにがんばって準備とかもしたのに！」
+「I mean, I know I was focusing a lot on getting new members...」	「確かに私は部員獲得に集中していたかもしれないけど……」	I mean, I know I was focusing a lot on getting new members...	「確かに私は新入部員の獲得に集中していたかもしれないけど……」
+「But I was really excited for the performing part, too.」	「でも発表をするのもすごく楽しみだったの」	But I was really excited for the performing part, too.	「発表をするのもすごく楽しみだったの」
+「It would have been so much fun to see everyone express themselves.」	「みんなが自分を表現するのを見るの、きっとすごく楽しかったわよ」	It would have been so much fun to see everyone express themselves.	「みんなが自分を表現するのを見るの、きっとすごく楽しかったわよ」
+「Of course, if we <i>did</i> end up getting any new members, I'd probably just end up deleting them anyway.」	「もちろん、本当にそれで部員を獲得できたとしても全員削除していたと思うけど」	Of course, if we <i>did</i> end up getting any new members, I'd probably just end up deleting them anyway.	「もちろん、本当にそれで部員を獲得<i>できた</i>としても、全員削除していたと思うけど」
+「Well...with the hindsight I have now, that is.」	「まあ……私に今の知識があった上で、の話だけどね」	Well...with the hindsight I have now, that is.	「まあ……私に今の知識があった上で、の話だけどね」
+「Gosh, it feels like I've kinda grown as a person ever since you've joined the club.」	「本当、あなたが入部してから私は人としてちょっと成長したと思うの」	Gosh, it feels like I've kinda grown as a person ever since you've joined the club.	「本当、あなたが入部してから、私は人としてちょっと成長したと思うの」
+「You really helped inspire me to look at life from a new perspective.」	「あなたがいたから新しい観点で人生を見てみようって思えたもの」	You really helped inspire me to look at life from a new perspective.	「あなたがいたから、新しい観点で人生を見てみようって思えた」
+「Just another reason for me to love you.」	「それもあなたが好きな理由の一つよ」	Just another reason for me to love you.	「それもあなたが好きな理由の一つよ」

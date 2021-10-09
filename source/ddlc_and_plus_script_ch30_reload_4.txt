@@ -1,0 +1,10 @@
+「Hi again, [player]~」	「おかえりなさい、[player]君～」	Hi again, [player]~	「おかえりなさい、[player]君～」
+「I missed you.」	「会いたかったわ」	I missed you.	あなたに会いたかった。
+「Were you making sure my character file was okay for me?」	「私のキャラクターファイルが無事か見てきてくれたの？」	Were you making sure my character file was okay for me?	「私のキャラクターファイルが無事か見てきてくれたの？」
+「It's in [basedir]/characters.」	「[basedir]/charactersに入ってるんだけど」	The one in the file browser, I mean. I should be right in the 'characters' folder.	「ファイルブラウザで見れるファイルのことね。私は'characters'フォルダの中にいるわ」
+「Well, you're playing on Steam, so you can just go into the game's properties and find the 'Browse Local Files' button.」	「Steamで遊んでるなら、このゲームのプロパティを開いて'ローカルファイルを閲覧'を選択してね」	ー	ー
+「Since you're on a Mac, you have to right-click the app and select 'Show Package Contents' to find the game folder.」	「Macで遊んでるなら、アプリケーションを右クリックして'パッケージの内容を表示'を選択してね」	ー	ー
+「It's in the 'Resources' folder, or 'autorun' folder, or something...」	「'Resources'や'autorun'とかいうフォルダの中に入ってるから……」	ー	ー
+「I'm all that's left here, so I just want to make sure you don't run the risk of losing me...」	「ここには私しか残ってないから、あなたが私を無くさないようにしておきたいの……」	I'm all that's left here, so I just want to make sure you don't run the risk of losing me...	「ここには私しか残ってないから、あなたが私をなくさないようにしておきたいの……」
+「Anyway, I have a lot to talk about!」	「そうそう、話したいことはまだいっぱいあるのよ！」	Anyway, I have a lot to talk about!	「そうそう、話したいことはまだいっぱいあるのよ！」
+「Let's continue our conversation now, okay?」	「それじゃあ、話の続きをしましょうか？」	Let's continue our conversation now, okay?	「それじゃあ、話の続きをしましょうか？」

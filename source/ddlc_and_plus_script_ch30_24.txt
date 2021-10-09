@@ -1,0 +1,4 @@
+「Hey, what's your favorite game?」	「ねえ、好きなゲームってなに？」	Hey, what's your favorite game?	「ねえ、好きなゲームって何？」
+「Mine is <i>Doki Doki Literature Club!</i>」	「私は<i>Doki Doki Literature Club!</i>」	Mine is <i>Doki Doki Literature Club!</i>	「私は<i>ドキドキ文芸部</i>！」
+「Ahaha! That was a joke.」	「あははっ！ 冗談よ」	Ahaha! That was a joke.	「あははっ！ 冗談よ」
+「But if you tell me you like some other romance game better, I might get a little jealous~」	「でも他の恋愛ゲームが好きだって言ったらちょっと嫉妬しちゃうかも～」	But if you tell me you like some other romance game better, I might get a little jealous~	「でも、あなたが他の恋愛ゲームが好きだって言ったら、ちょっと嫉妬しちゃうかも～」

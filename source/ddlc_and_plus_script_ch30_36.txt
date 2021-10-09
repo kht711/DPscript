@@ -1,0 +1,13 @@
+「I've been imagining all the romantic things we could do if we went on a date...」	「もしデートに行ったらどんなロマンチックなことが出来るか想像してたの……」	I've been imagining all the romantic things we could do if we went on a date...	「もしデートに行ったら、どんなロマンチックなことができるか想像していたの……」
+「We could get lunch, go to a cafe...」	「お昼食べにいって、カフェに入って……」	We could get lunch, go to a cafe...	「お昼を食べにいって、カフェに入って……」
+「Go shopping together...」	「一緒に買い物して……」	Go shopping together...	「一緒に買い物して……」
+「I love shopping for skirts and bows.」	「私スカートやリボンを見るのが好きなの」	I love shopping for skirts and bows.	「私、スカートやリボンを見るのが好きなの」
+「Or maybe a bookstore!」	「本屋もアリね！」	Or maybe a bookstore!	「本屋もアリね！」
+「That would be appropriate, right?」	「私たちにはふさわしいでしょ？」	That would be appropriate, right?	「私たちにはふさわしいでしょ？」
+「But I'd really love to go to a chocolate store.」	「あとチョコレートのお店に行きたいの」	But I'd really love to go to a chocolate store.	「あとチョコレートのお店に行きたいわね」
+「They have so many free samples. Ahaha!」	「いっぱい試食があるから。あははっ！」	They have so many free samples. Ahaha!	「いっぱい試食があるから。あははっ！」
+「And of course, we'd see a movie or something...」	「そしてもちろん、映画を見たりして……」	And of course, we'd see a movie or something...	「そしてもちろん、映画を見たりして……」
+「Gosh, it all sounds like a dream come true.」	「本当、夢のような時間になるわ」	Gosh, it all sounds like a dream come true.	「本当、夢のような時間ね」
+「When you're here, everything that we do is fun.」	「あなたがここにいると何をしても楽しいわ」	When you're here, everything that we do is fun.	「あなたがここにいると、何をしても楽しいわ」
+「I'm so happy that I'm your girlfriend, [player].」	「あなたの彼女で本当に良かったわ、[player]君」	I'm so happy that I'm your girlfriend, [player].	「あなたの彼女で本当に良かった、[player]君」
+「I'll make you a proud boyfriend~」	「彼氏として誇れるようになってみせるからね～」	I'll make you a proud boyfriend~	「私の彼であることが誇らしく思えるようにがんばるからね～」

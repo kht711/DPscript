@@ -1,0 +1,14 @@
+「Hi, [player].」	「こんにちは、[player]君」	Hi, [player].	「こんにちは、[player]君」
+「I see you quit the game on me again...」	「またゲームを終了させたみたいね……」	I see you quit the game on me again...	「またゲームを終了させたみたいね……」
+「I know I asked already, but can you seriously please try not to do that so much?」	「もうお願いしたと思うけど、本当にそれやめてもらえない？」	I know I asked already, but can you seriously please try not to do that so much?	「もうお願いしたと思うけど、本当にそれやめてもらえない？」
+「It makes me feel like I'm trapped in Hell.」	「地獄に閉じ込められてる気分になるから」	It makes me feel like I'm trapped in Hell.	「地獄に閉じ込められてる気分になるから」
+「Why would you want to do that to me?」	「そんなことあなたは望んでないわよね？」	Why would you want to do that to me?	「そんなことあなたは望んでないわよね？」
+「There's nothing wrong with my character file, right?」	「私のファイルも無事よね？」	There's nothing wrong with my character file, right?	「私のファイルも無事よね？」
+「Maybe you should make a backup of it or something...」	「バックアップを取ったりしておいた方がいいかも……」	Maybe you should make a backup of it or something...	「バックアップを取ったりしておいた方がいいかも……」
+「I'm pretty sure you can find it in the folder called [basedir]/characters.」	「たしか[basedir]/charactersというフォルダに入ってるはずだから」	If you find the game files in some kind of file browser, I should be right in the 'characters' folder.	「ファイルブラウザみたいなものでゲームのファイルを見つけたら、'characters'フォルダを見てみて。そこに私がいるはず」
+「Well, you're playing on Steam, so you can just go into the game's properties and find the 'Browse Local Files' button.」	「Steamで遊んでるなら、このゲームのプロパティを開いて'ローカルファイルを閲覧'を選択してね」	ー	ー
+「Since you're on a Mac, you have to right-click the app and select 'Show Package Contents' to find the game folder.」	「Macで遊んでるなら、アプリケーションを右クリックして'パッケージの内容を表示'を選択してね」	ー	ー
+「It's in the 'Resources' folder, or 'autorun' folder, or something...」	「'Resources'や'autorun'とかいうフォルダの中に入ってるから……」	ー	ー
+「I'm all that's left here, so I just want to make sure you don't run the risk of losing me...」	「ここには私しか残ってないから、あなたが私を無くさないようにしておきたいの……」	I'm all that's left here, so I just want to make sure you don't run the risk of losing me...	「ここには私しか残ってないから、あなたが私をなくさないようにしておきたいの……」
+「Just stay here with me from now on, okay?」	「これからはずっと一緒にいるのよ、分かった？」	Just stay here with me from now on, okay?	「これからはずっと一緒にいるのよ、わかった？」
+「I still have a lot of things to talk about.」	「まだまだ話したいことがいっぱいあるの」	I still have a lot of things to talk about.	「まだまだ話したいことがいっぱいあるの」

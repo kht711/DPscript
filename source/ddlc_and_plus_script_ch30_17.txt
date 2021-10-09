@@ -1,0 +1,8 @@
+「You're such a good listener, [player].」	「あなたは聞き上手ね、[player]君」	You're such a good listener, [player].	「あなたは聞き上手ね、[player]君」
+「I really love that about you.」	「そこがすごく好きよ」	I really love that about you.	「そこがすごく好きよ」
+「Sometimes I'm afraid that I'm rambling or talking about boring things.」	「会話してると、つまらなくてまとまりのない話をしてるんじゃないか、って心配になることがあるの」	Sometimes I'm afraid that I'm rambling or talking about boring things.	「会話してると、つまらなくてまとまりのない話をしてるんじゃないか、って心配になることがあるの」
+「It makes me kind of self-conscious when I'm having conversation.」	「人と話すとちょっと自意識過剰になっちゃって」	It makes me kind of self-conscious when I'm having conversation.	「人と話す時って、ちょっと自意識過剰になっちゃって」
+「But I don't feel that way with you.」	「でもあなたとはそうならない」	But I don't feel that way with you.	「でもあなたとはそうならない」
+「Like, I don't think anyone else could make me feel this way.」	「きっと、こんな気持ちにさせてくれる人は他にいないわ」	Like, I don't think anyone else could make me feel this way.	「きっと、こんな気持ちにさせてくれる人は他にいないわ」
+「You really are special.」	「あなたは本当に特別よ」	You really are special.	「あなたは本当に特別よ」
+「I don't want anyone to tell you otherwise.」	「誰にもそれは否定させないわ」	I don't want anyone to tell you otherwise.	「誰にもそれは否定させないわ」

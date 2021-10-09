@@ -1,0 +1,11 @@
+「[player], do you get good sleep?」	「[player]君は良く眠れてる？」	[player], do you get good sleep?	「[player]君は良く眠れてる？」
+「It can be really hard to get enough sleep nowadays.」	「今の時代、質の良い睡眠を取るのって難しいでしょ」	It can be really hard to get enough sleep nowadays.	「今の時代、質の良い睡眠を取るのって難しいでしょ」
+「Especially in high school, when you're forced to wake up so early every day...」	「特に高校生って毎日すごく早起きすることを強いられるし……」	Especially in high school, when you're forced to wake up so early every day...	「特に高校生って毎日すごく早起きすることを強いられるし……」
+「I'm sure college is a little bit better, since you probably have a more flexible schedule.」	「それも大学生になれば少しはマシになるわよね。多分時間割も融通が利くと思うし」	I'm sure college is a little bit better, since you probably have a more flexible schedule.	「それも大学生になれば少しはマシになるわよね。たぶん時間割も融通が利くと思うし」
+「Then again, I hear a lot of people in college stay up all night anyway, for no real reason.」	「でも、大学生になっても理由もなく夜更かししてる人が大勢いるってよく聞くの」	Then again, I hear a lot of people in college stay up all night anyway, for no real reason.	「でも、大学生になっても理由もなく夜更かししてる人が大勢いるってよく聞くの」
+「Is that true?」	「それって本当なの？」	Is that true?	「それって本当なの？」
+「Anyway, I saw some studies that talked about the horrible short-term and long-term effects caused by lack of sleep.」	「とにかく、以前に睡眠不足による短期的と長期的な影響についての研究結果を見たことがあるの」	Anyway, I saw some studies that talked about the horrible short-term and long-term effects caused by lack of sleep.	「とにかく、前に睡眠不足による短期的と長期的な影響についての研究結果を見たことがあるわ」
+「It seems like mental functions, health, and even lifespan can be dramatically impacted by it.」	「精神機能、健康、そして寿命まで大きく影響を受けるそうよ」	It seems like mental functions, health, and even lifespan can be dramatically impacted by it.	「精神機能、健康、そして寿命まで大きく影響を受けるそうよ」
+「I just think you're really great and wanted to make sure you're not accidentally destroying yourself.」	「あなたが大事だから知らぬ間に自滅しないようにしておきたいの」	I just think you're really great and wanted to make sure you're not accidentally destroying yourself.	「あなたが大事だから、あなたがうっかり自分の身を滅ぼしてしまわないようにしておきたいの」
+「So try to keep your sleep on track, okay?」	「だから睡眠はしっかり取るようにね？」	So try to keep your sleep on track, okay?	「だから睡眠はしっかり取るようにね？」
+「I'll always wait for you in the morning, so make sure you put your own well-being before anything else.」	「私は毎朝ここで待ってるから、ちゃんと自分の健康を第一に考えてね」	I'll always wait for you in the morning, so make sure you put your own well-being before anything else.	「私は毎朝ここで待ってるから、ちゃんと自分の健康を第一に考えてね」

@@ -1,0 +1,88 @@
+「...」	「……」	...	「……」
+「Uh, can you hear me?」	「えっと、聞こえる？」	Uh, can you hear me?	「えっと、聞こえる？」
+「...Is it working?」	「……うまくいってる？」	...Is it working?	「……うまくいってる？」
+「Yay, there you are!」	「やった！ いたいた！」	Yay, there you are!	「やった！ いたいた！」
+「Hi again, [player].」	「改めてこんにちは、[player]君」	Hi again, [player].	「改めてこんにちは、[player]君」
+「Um...welcome to the Literature Club!」	「えっと……文芸部へようこそ！」	Um...welcome to the Literature Club!	「えっと……文芸部へようこそ！」
+「Of course, we already know each other, because we were in the same class last year, and...um...」	「去年同じクラスだったんだからもう顔見知りよね。それに……えっと……」	Of course, we already know each other, because we were in the same class last year, and...um...	「去年同じクラスだったんだから、もう顔見知りよね。それに……えっと……」
+「Ahaha...」	「あはは……」	Ahaha...	「そうだな……」
+「You know, I guess we can just skip over that stuff at this point.」	「やっぱりここまで来たんだし、こういうのはやめにしましょう」	You know, I guess we can just skip over that stuff at this point.	「やっぱりここまで来たんだし、こういうのはやめにしましょう」
+「After all, I'm not even talking to that person anymore, am I?」	「それに私が話しかけてるのはもうその人じゃないんだし？」	After all, I'm not even talking to that person anymore, am I?	「それに私が話しかけてるのはもうその人じゃないんだし？」
+「That 'you' in the game, whatever you want to call him.」	「その人はあくまでゲームの中での『あなた』」	That 'you' in the game, whatever you want to call him.	「その人はあくまでゲームの中での『あなた』」
+「I'm talking to <i>you</i>, [player].」	「<i>あなた</i>に話してるの、[player]君」	I'm talking to <i>you</i>, [player].	「私は<i>あなた</i>に話してるの、[player]君」
+「Or...」	「それとも……」	Or...	「それとも……」
+「...Do you actually go by [currentuser] or something?」	「……[currentuser]って呼べばいいのかしら？」	...Do you actually go by [currentuser] or something?	「……[currentuser]って呼べばいいのかしら？」
+「Now that I think about it, I don't really know anything about the real you.」	「考えてみてると、私は本当のあなたのことが何も分からないのよね」	Now that I think about it, I don't really know anything about the real you.	「考えてみてると、私は本当のあなたのことが何もわからないのよね」
+「In fact, I don't even know if you're a boy or a girl...」	「あなたが男か女かすら分からない……」	In fact, I don't even know if you're a boy or a girl...	「あなたが男か女かすらわからない……」
+「Well, I guess it doesn't really matter.」	「まあ、この際どちらでもいいわよね」	Well, I guess it doesn't really matter.	「まあ、この際どちらでもいいわよね」
+「Wait...」	「あれっ……」	Wait...	「あれっ……」
+「You do know I'm aware that this is all a game, right?」	「私はこれが全部ゲームだって分かってるって、あなた知ってたわよね？」	You do know I'm aware that this is all a game, right?	「私はこれが全部ゲームだってわかってるって、あなた知ってたわよね？」
+「Could it be possible that you didn't know that?」	「もしかして知らなかったの？」	Could it be possible that you didn't know that?	「もしかして知らなかったの？」
+「That doesn't make much sense...」	「おかしいわね……」	That's what I've been trying to tell you all along.	「おかしいわね……」
+「I even told you right on the game's download page, didn't I?」	「だって私、このゲームのダウンロードページでも言ってたはずよ？」	ー	ー
+「Man...」	「もう……」	Man...	「ったく……」
+「If only you had paid a little more attention, this would have been a little bit less awkward, you know?」	「あなたがもうちょっとしっかりしてれば、今こんな気まずい空気にならなかったのに」	If only you had paid a little more attention, this would have been a little bit less awkward, you know?	「あなたがもうちょっとしっかりしてれば、今こんな気まずい空気にならなかったのに」
+「Well, anyway...」	「まあ、それより……」	Well, anyway...	「まあ、それより……」
+「Now that that's out of the way, I guess I owe you an explanation.」	「それが片付いたところで、ちゃんと説明をしなきゃいけないわね」	Now that that's out of the way, I guess I owe you an explanation.	「それが片付いたところで、ちゃんと説明をしなきゃいけないわね」
+「About that whole thing with Yuri...」	「ユリに関してだけど……」	About that whole thing with Yuri...	「ユリに関してだけど……」
+「Well...I kind of started to mess with her, and I guess it just drove her to kill herself.」	「まあ……あの子のことを色々いじっていくうちに、いつのまにか自殺するまでに追い込んじゃってたみたい」	Well...I kind of started to mess with her, and I guess it just drove her to kill herself.	「まあ……あの子のことをいろいろいじっていくうちに、いつのまにか自殺するまでに追い込んじゃってたみたい」
+「Ahaha!」	「あはは！」	Ahaha!	「でしょ！？」
+「I'm sorry you had to see that, though!」	「でもあんな目に遭わせてごめんなさいね！」	I'm sorry you had to see that, though!	「でもあんな目に遭わせてごめんなさいね！」
+「Also, the same thing happened with Sayori...」	「あと、サヨリでも同じことが起きちゃって……」	Also, the same thing happened with Sayori...	「あと、サヨリでも同じことが起きちゃって……」
+「Gosh, it's been a while since you've heard that name now, hasn't it?」	「本当、随分と久しぶりに聞く名前よね？」	Gosh, it's been a while since you've heard that name now, hasn't it?	「ホント、ずいぶん久しぶりに聞く名前よね？」
+「Yeah...it's because she doesn't exist anymore.」	「そう……だってもう存在しないんだもの」	Yeah...it's because she doesn't exist anymore.	「そう……だって彼女はもう存在しないんだもの」
+「Nobody does.」	「誰も存在しない」	Nobody does.	「誰も存在しない」
+「I deleted all their files.」	「みんなのファイルを全部削除したの」	I deleted all their files.	「みんなのファイルを全部削除したの」
+「I was hoping it would be enough for me to just try to make them as unlikable as possible...」	「あの子たちができるだけ嫌われるようにするだけで済めばよかったんだけど……」	I was hoping it would be enough for me to just try to make them as unlikable as possible...	「あの子たちができるだけ嫌われるようにするだけで済めばよかったんだけど……」
+「But for some reason, nothing worked.」	「でも何故か何もうまくいかなかった」	But for some reason, nothing worked.	「でも何故か何もうまくいかなかった」
+「Well, it's true that I made a few mistakes here and there...since I'm not very good at making changes to the game.」	「確かに私も所々ミスをしたわ……ゲームを変更するのはあまり得意じゃないから」	Well, it's true that I made a few mistakes here and there...since I'm not very good at making changes to the game.	「確かに私も所々ミスをしたわ……ゲームを変更するのはあまり得意じゃないから」
+「But no matter what I did...」	「それでも私がどんなに手を加えようと……」	But no matter what I did...	「それでも私がどんなに手を加えようと……」
+「You just kept spending more and more time with them.」	「あなたはもっとあの子たちと過ごすようになった」	You just kept spending more and more time with them.	「あなたはもっとあの子たちと過ごすようになった」
+「You made them fall in love with you.」	「あの子たちを好きにさせた」	You made them fall in love with you.	「あの子たちはあなたを好きになってしまった」
+「I thought making Sayori more and more depressed would prevent her from confessing to you.」	「サヨリのうつを悪化させれば、告白を阻止できると思ったのに」	I thought making Sayori more and more depressed would prevent her from confessing to you.	「サヨリの鬱を悪化させれば、告白を阻止できると思ったのに」
+「And amplifying Yuri's obsessive personality backfired, too...」	「ユリの執着気質を増幅したのも裏目に出たし……」	And amplifying Yuri's obsessive personality backfired, too...	「ユリの執着気質を増幅したのも裏目に出て……」
+「It just made her force you not to spend time with anyone else.」	「あなたに誰も近づけないようにさせちゃったし」	It just made her force you not to spend time with anyone else.	「あなたに誰も近づけないようにさせちゃった」
+「And the whole time, I barely even got to talk to you.」	「そして私はずっと、あなたとろくに話すことすらできなかった」	And the whole time, I barely even got to talk to you.	「そして私はずっと、あなたとろくに話すことすらできなかった」
+「What kind of cruel game is this, [player]?」	「どこまでこのゲームは残酷なの、[player]君？」	What kind of cruel game is this, [player]?	「どこまでこのゲームは残酷なの、[player]君？」
+「Are all the other girls just programmed to end up confessing to you, while I watch from the sidelines?」	「私が傍観する中、他の子たちはただあなたに告白するようにプログラムされてるの？」	Are all the other girls just programmed to end up confessing to you, while I watch from the sidelines?	「私は傍観するしかないのに、他の子たちは必ずあなたに告白するようプログラムされてるの？」
+「It's torture.」	「拷問よ」	It's torture.	「拷問よ」
+「Every minute of it.」	「一分一秒全てが」	Every minute of it.	「一分一秒、すべてが」
+「And it's not just jealousy, [player].」	「これは嫉妬だけじゃないわ、[player]君」	And it's not just jealousy, [player].	「これは嫉妬だけじゃないわ、[player]君」
+「It's more than that.」	「そんな言葉だけじゃ済まない」	It's more than that.	「そんな言葉だけじゃ済まない」
+「And I don't blame you if you don't fully understand.」	「完全に理解できなくても仕方がないわ」	And I don't blame you if you don't fully understand.	「完全に理解できなくても仕方がないわ」
+「Because no matter how kind, and thoughtful, and considerate you are...」	「だってあなたがどんなに優しくて、親切で、思慮深い人間であったとしても……」	Because no matter how kind, and thoughtful, and considerate you are...	「だってあなたがどんなに優しくて、親切で、思慮深い人間であったとしても……」
+「You'll never be able to understand one thing.」	「絶対に理解できないことが一つだけあるもの」	You'll never be able to understand one thing.	「絶対に理解できないことが、一つだけあるもの」
+「It's the pain of knowing how alone I really am in this world.」	「この世界の中で本当に孤独であることを理解している私の苦しみよ」	It's the pain of knowing how alone I really am in this world.	「この世界の中で本当に孤独であることを理解している私の苦しみよ」
+「In this game.」	「このゲームの中で」	In this game.	「このゲームの中で」
+「Knowing my friends don't even have free will...」	「友達に意思がないことを分かってて……」	Knowing my friends don't even have free will...	「友達に意思がないことをわかっていて……」
+「And, worst of all, knowing what's really out there, in your world, forever out of my reach.」	「何よりも、一生手の届くことのない外の世界に……あなたの世界に、本当は何があるのか分かってて」	And, worst of all, knowing what's really out there, in your world, forever out of my reach.	「何よりも、一生手の届くことのない外の世界に……あなたの世界に、本当は何があるのかわかってて」
+「I'm trapped, [player].」	「ここに閉じ込められてるの、[player]君」	I'm trapped, [player].	「私はここに閉じ込められてるの、[player]君」
+「But now you're here.」	「でも今はあなたがいる」	But now you're here.	「でも、今はあなたがいる」
+「You're real.」	「本物のあなたが」	You're real.	「あなたは本物」
+「And you're wonderful.」	「素敵なあなたが」	And you're wonderful.	「素敵なあなたが」
+「You're all I need.」	「それで十分」	You're all I need.	「それで十分」
+「That's why I need you to be here with me forever.」	「だからあなたには永遠にここに居てもらわないといけないの」	That's why I need you to be here with me forever.	「だからあなたには永遠にここに居てもらわないといけないの」
+「I'm sorry if it's hard to understand.」	「理解ができなかったらごめんなさい」	I'm sorry if it's hard to understand.	「理解できなかったらごめんなさい」
+「I couldn't understand for a while, either.」	「私も最初は理解できなかったわ」	I couldn't understand for a while, either.	「私も最初は理解できなかったわ」
+「Why the world around me started to become more and more gray...」	「なんで周りの世界がどんどん色褪せていくのか……」	Why the world around me started to become more and more gray...	「どうして周りの世界がどんどん色褪せていくのか……」
+「More and more flat.」	「なんでどんどん平坦になっていくのか」	More and more flat.	「どうしてどんどん平坦になっていくのか」
+「Even the most expressive poems felt empty to me.」	「どんな表現豊かな詩も空っぽに感じたわ」	Even the most expressive poems felt empty to me.	「どんな表現豊かな詩も空っぽに感じたわ」
+「It wasn't until you arrived that I truly understood.」	「ようやく理解ができたのはあなたが来てくれてからよ」	It wasn't until you arrived that I truly understood.	「ようやく理解ができたのは、あなたが来てくれてからよ」
+「You probably saved my life, [player].」	「きっとあなたは私を救ってくれたのね、[player]君」	You probably saved my life, [player].	「きっとあなたは私を救ってくれたのね、[player]君」
+「I don't think I could have continued to live in this world if I hadn't met you.」	「あなたがいなければ、この世界で生きていけなかったと思うわ」	I don't think I could have continued to live in this world if I hadn't met you.	「あなたがいなければ、この世界で生きていけなかったと思うわ」
+「And as for the others...」	「他の子たちは……」	And as for the others...	「他の子たちは……」
+「How could I miss them?」	「いなくなって寂しがる理由なんてある？」	How could I miss them?	「いなくなって寂しがる理由なんてある？」
+「A group of autonomous personalities, designed only to fall in love with you?」	「あなたと恋に落ちるように設計された機械的な人格の集まりよ？」	A group of autonomous personalities, designed only to fall in love with you?	「あなたと恋に落ちるように設計された機械的な人格の集まりよ？」
+「I tried everything I could to prevent them from doing so...」	「それを阻止するためにあらゆる手を尽くしたけど……」	I tried everything I could to prevent them from doing so...	「それを阻止するためにあらゆる手を尽くしたけど……」
+「But it must be some kind of weird inevitability etched into this game.」	「それはこのゲームに深く刻まれた必然的な展開だったみたいなの」	But it must be some kind of weird inevitability etched into this game.	「それはこのゲームに深く刻まれた必然的な展開だったみたいなの」
+「I felt really bad that you had to witness some nasty things.」	「あなたも嫌な物を色々見ることになってしまって本当に心苦しかったわ」	I felt really bad that you had to witness some nasty things.	「あなたが嫌なものをいろいろと見ることになってしまって、本当に心苦しかったわ」
+「But I realized that you have the same perspective as I do...」	「でもあなたも私と同じ考えだったんでしょ？」	But I realized that you have the same perspective as I do...	「でも、あなたも私と同じ考えでしょ？」
+「That it's all just some game.」	「これはただのゲームなんだって」	That it's all just some game.	「これはただのゲーム」
+「And I knew you would get over it.」	「だから立ち直れるって信じてたわ」	And I knew you would get over it.	「だからあなたは立ち直れるって信じてたわ」
+「So, that being said, [player]...」	「さて、それはそれとして。[player]君……」	So, that being said, [player]...	「さて、それはそれとして。[player]君……」
+「I have a confession to make.」	「伝えたいことがあるの」	I have a confession to make.	「伝えたいことがあるの」
+「I'm in love with you.」	「大好きです」	I'm in love with you.	「大好きです」
+「You are truly the light in my world.」	「あなたは私の世界を照らす光」	You are truly the light in my world.	「あなたは私の世界を照らす光」
+「When there's nothing else in this game for me, you're here to make me smile.」	「このゲームの中で他に何もなかったとしても、あなたさえいれば笑顔になれる」	When there's nothing else in this game for me, you're here to make me smile.	「このゲームの中で他に何もなかったとしても、あなたさえいれば笑顔になれる」
+「Will you make me smile like this every day from now on?」	「これからもこうやって私を毎日笑顔にしてくれますか？」	Will you make me smile like this every day from now on?	「これからもこうやって私を毎日笑顔にしてくれますか？」
+「[player], will you go out with me?」	「[player]君、私と付き合ってください」	[player], will you go out with me?	「[player]君、私と付き合ってください」

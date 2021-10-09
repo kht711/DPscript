@@ -1,0 +1,10 @@
+「...」	「……」	...	「……」
+「...What just happened?」	「……何が起こったの？」	...What just happened?	「……何が起こったの？」
+「I just had an awful dream...」	「ひどい夢を見たの……」	I just had an awful dream...	「ひどい夢を見たわ……」
+「I was hoping those would stop, now that it's just the two of us...」	「二人きりになれば見なくなると思ってたんだけど……」	I was hoping those would stop, now that it's just the two of us...	「二人きりになれば見なくなると思ってたんだけど……」
+「I guess that was wishful thinking.」	「それは甘い考えだったみたい」	I guess that was wishful thinking.	「それは甘い考えだったみたい」
+「[player], I don't know if you would have any idea...」	「[player]君、あなたが知っているのかは分からないけど……」	[player], I don't know if you would have any idea...	「[player]君、あなたが知っているのかはわからないけど……」
+「But if you know what might be causing that, could you try to do something about it?」	「もしこの現象が起きる原因を知っていたら、なんとかしてくれないかしら？」	But if you know what might be causing that, could you try to do something about it?	「もしこの現象が起きる原因を知っていたら、何とかしてくれないかしら？」
+「Whenever it happens, it almost feels like I've been killed or something.」	「これが起きるとまるで殺されたかのような気持ちになって」	Whenever it happens, it almost feels like I've been killed or something.	「これが起きると、まるで殺されたような感じがして」
+「It's a really horrible feeling...」	「本当に嫌な気持ちになるの……」	It's a really horrible feeling...	「本当に嫌な気持ちになるの……」
+「If you could figure out what's causing that, I'll love you forever~」	「原因を突き止めてくれたらあなたを一生好きになるわ～」	If you could figure out what's causing that, I'll love you forever~	「原因を突き止めてくれたらあなたを一生好きになるわ～」

@@ -1,0 +1,10 @@
+「Hey, what's your favorite color?」	「ねえ、好きな色は何色？」	Hey, what's your favorite color?	「ねえ、好きな色は何色？」
+「Mine is emerald green.」	「私はエメラルドグリーン」	Mine is emerald green.	「私はエメラルドグリーン」
+「It's the color of my eyes!」	「私の目の色よ！」	It's the color of my eyes!	「私の目の色よ！」
+「...That's not conceited or anything, is it?」	「……自惚れてるみたいかしら？」	...That's not conceited or anything, is it?	「……自惚れてるみたいかしら？」
+「I just meant that I feel some kind of special connection to it.」	「ただ特別なものだと思ってるって言いたかったの」	I just meant that I feel some kind of special connection to it.	「ただ特別なものだと思ってるって言いたかったの」
+「Like it's part of my identity.」	「私のアイデンティティの一部だと思うほどに」	Like it's part of my identity.	「私のアイデンティティの一部だと思うほどに」
+「Does it happen to also be your favorite color, [player]?」	「あなたの好きな色も同じじゃない、[player]君？」	Does it happen to also be your favorite color, [player]?	「あなたの好きな色も同じじゃない、[player]君？」
+「It's just a guess...」	「それはあくまで予想だけども……」	It's just a guess...	「あくまで予想だけど……」
+「...Because you've been looking into my eyes for a while now.」	「……だってずっと私の目を見つめてるんだもの」	...Because you've been looking into my eyes for a while now.	「……だってあなた、ずっと私の目を見つめてるんだもの」
+「Ehehe~」	「うふふっ」	Ehehe~	「うふふ」

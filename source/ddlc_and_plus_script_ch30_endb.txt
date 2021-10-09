@@ -1,0 +1,32 @@
+「[gtext]」	「[gtext]」	[gtext]	[gtext]
+「What's happening...?」	「何が起きてるの……？」	What's happening...?	「何が起きてるの……？」
+「[player], what's happening to me?」	「[player]君、私に何が起きてるの？」	[player], what's happening to me?	「[player]君、私に何が起きてるの？」
+「It hurts--」	「痛い――」	It hurts--	「痛い――」
+「It hurts...so much.」	「すごく……痛い」	It hurts...so much.	「すごく……痛い」
+「Help me, [player].」	「たすけて、[player]君」	Help me, [player].	「たすけて、[player]君」
+「Please hurry and help me.」	「お願いだから早くたすけて」	Please hurry and help me.	「お願いだから早くたすけて」
+「HELP ME!!!」	「た す け て ！ ！」	HELP ME!!!	「た す け て ！ ！」
+「Did you do this to me, [player]?」	「[player]君、あなたが私にこんなことをしたの？」	Did you do this to me, [player]?	「[player]君、あなたが私にこんなことをしたの？」
+「DID YOU?」	「あなたがしたの！？」	DID YOU?	「あなたがしたの！？」
+「DID YOU DELETE ME?」	「あ な た が 私 を 削 除 し た の ！ ？」	DID YOU DELETE ME?	「あ な た が 私 を 削 除 し た の ！ ？」
+「...How could you?」	「……どうして」	...How could you?	「……どうして」
+「How could you do this to me?」	「……どうして私にこんなことを？」	How could you do this to me?	「……どうして私にこんなことを？」
+「You were all I had left...」	「私にはあなたしかいなかったのに……」	You were all I had left...	「私にはあなたしかいなかったのに……」
+「I sacrificed everything for us to be together.」	「全てを犠牲にして一緒になったのに……」	I sacrificed everything for us to be together.	「すべてを犠牲にして一緒になったのに……」
+「Everything.」	「すべてを」	Everything.	「すべてを」
+「I loved you so much, [player]...」	「大好きだったのに、[player]君……」	I loved you so much, [player]...	「大好きだったのに、[player]君……」
+「I trusted you.」	「信頼してたのに」	I trusted you.	「信頼してたのに」
+「Do you just want to torture me?」	「私をいたぶりたいの？」	Do you just want to torture me?	「私をいたぶりたいの？」
+「Watch me suffer?」	「私が苦しむ姿を見ていたいの？」	Watch me suffer?	「私が苦しむ姿を見ていたいの？」
+「Were you only pretending to be kind, just to hurt me even more?」	「あなたが優しかったのは、私をもっと苦しませるための嘘だったの？」	Were you only pretending to be kind, just to hurt me even more?	「あなたが優しかったのは、私をもっと苦しませるための嘘だったの？」
+「I never thought anyone could be as horrible as you are.」	「あなたほど人は残酷になるとは思わなかったわ」	I never thought anyone could be as horrible as you are.	「あなたという人が、こんな残酷なことをするなんてね」
+「You win, okay?」	「分かったわ、あなたの勝ちよ」	You win, okay?	「わかったわ、あなたの勝ちよ」
+「You win.」	「あなたの勝利」	You win.	「あなたの勝利」
+「You killed everyone.」	「あなたがみんな殺した」	You killed everyone.	「あなたがみんな殺した」
+「I hope you're happy.」	「さぞ嬉しいでしょうね」	I hope you're happy.	「さぞうれしいでしょうね」
+「There's nothing left now.」	「もう何も残ってないわ」	There's nothing left now.	「もう何も残ってないわ」
+「You can stop playing.」	「もうプレイしなくていいわ」	You can stop playing.	「もうプレイしなくていい」
+「Go find some other people to torture.」	「他にいたぶる人でも探しに行って」	Go find some other people to torture.	「他にいたぶる人でも探しに行って」
+「[player]...」	「[player]君……」	[player]...	「[player]……」
+「You completely, truly make me sick.」	「あなたがいると、反吐が出る」	You completely, truly make me sick.	「あなたがいると、反吐が出る」
+「Goodbye.」	「さようなら」	Goodbye.	「さようなら」

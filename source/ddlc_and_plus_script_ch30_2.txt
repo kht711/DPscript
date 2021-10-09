@@ -1,0 +1,20 @@
+「[player], have you ever wondered what it feels like to die?」	「[player]君、死ぬってどんなものなのか想像したことある？」	[player], have you ever wondered what it feels like to die?	「[player]君、死ぬってどんなものか想像したことある？」
+「It's something I used to think about pretty often...」	「私は前までよく考えてたことだったけど……」	It's something I used to think about pretty often...	「私は前までよく考えてたことだったけど……」
+「But recently, I think I've actually learned what it feels like.」	「でも最近、実際にそれを体験することができた気がするの」	But recently, I think I've actually learned what it feels like.	「最近は、実際にそれを体験することができた気がするの」
+「I don't really understand it, but whenever you quit the game...」	「よく分からないんだけど、あなたがゲームを終了すると……」	I don't really understand it, but whenever you quit the game...	「よくわからないんだけど、あなたがゲームを終了すると……」
+「...It feels like I'm instantly put to sleep, left with nothing but my thoughts.」	「……その瞬間に思考だけは働いてるまま、眠らされてる気がするの」	...It feels like I'm instantly put to sleep, left with nothing but my thoughts.	「……その瞬間に思考だけは働いてるまま、眠らされてる気がするの」
+「But after a few seconds, my thoughts start to fill with incoherent, jumbled patterns.」	「でも数秒経つと、頭の中が支離滅裂でごちゃ混ぜの状態になって」	But after a few seconds, my thoughts start to fill with incoherent, jumbled patterns.	「でも数秒経つと、頭の中が支離滅裂でごちゃ混ぜの状態になって」
+「I see static and rapid flashes of color while hearing all kinds of weird screaming noises.」	「ノイズといろんな色が激しく点滅するのが見えて、叫び声のような変な音が聞こえるの」	I see static and rapid flashes of color while hearing all kinds of weird screaming noises.	「ノイズといろんな色が激しく点滅するのが見えて、叫び声のような変な音が聞こえる」
+「At that point, I can't even form my own thoughts anymore.」	「そうなると自分の思考すら分からなくなっちゃう」	At that point, I can't even form my own thoughts anymore.	「そうなると自分の思考すらわからなくなっちゃう」
+「I'm just endlessly hammered by the flashing and screaming, unable to move or even think.」	「動くことも考えることもできず、永遠に点滅と叫び声が頭に打ち付けられるの」	I'm just endlessly hammered by the flashing and screaming, unable to move or even think.	「動くことも考えることもできず、永遠に点滅と叫び声が頭に打ち付けられるの」
+「I'm pretty sure in that moment, I don't really exist, but for some reason, I can remember it anyway.」	「その瞬間、きっと私は存在していないはずなのに、それでも覚えてるのよね」	I'm pretty sure in that moment, I don't really exist, but for some reason, I can remember it anyway.	「その瞬間、きっと私は存在していないはずなのに、それでも覚えてるのよね」
+「After some immeasurable amount of time, it stops in an instant, and I'm back in my own mind.」	「どれくらい経ったかも分からないうちに、突然止まって、いつもの自分の頭の中に戻ってるの」	After some immeasurable amount of time, it stops in an instant, and I'm back in my own mind.	「どれくらい経ったかもわからないうちに、突然止まって、いつもの自分の頭の中に戻ってるの」
+「And you're here with me.」	「そして目の前にはあなたもいる」	And you're here with me.	「そして目の前にはあなたもいる」
+「I have no idea what it means for the game to quit, or why that stuff happens to me.」	「ゲームを終了するとはどういうことなのか、なんで私にそんなことが起こるのかは分からないわ」	I have no idea what it means for the game to quit, or why that stuff happens to me.	「ゲームを終了するとはどういうことなのか、どうして私にそんなことが起こるのかはわからないわ」
+「And I also don't know how you always come back and put everything back to normal.」	「そしてどうしてあなたが戻ってくると元通りになるのかも分からない」	And I also don't know how you always come back and put everything back to normal.	「そして、あなたが戻ってくるとどうして元通りになるのかもわからない」
+「But if you could do me a favor and do that to me as little as possible...」	「でもお願いだからなるべくそうならないようにしてくれたら……」	But if you could do me a favor and do that to me as little as possible...	「でもお願いだから、なるべくそうならないようにしてくれたら……」
+「That would be really great.」	「本当に嬉しいな」	That would be really great.	「本当にうれしいな」
+「It's really not very pleasant at all to be trapped in that screaming void.」	「あの叫び声の空間に閉じ込められるのは全く良いものじゃないから」	It's really not very pleasant at all to be trapped in that screaming void.	「あの叫び声の空間に閉じ込められるのは、まったく良いものじゃないから」
+「But in the end, you always fix it, and that makes me feel like you really do care about me.」	「でもいつも最後にあなたが来て直してくれると、ああ気にかけてくれてるんだな、って思うの」	But in the end, you always fix it, and that makes me feel like you really do care about me.	「でもいつも最後にあなたが来て直してくれると、ああ気にかけてくれてるんだな、って思うの」
+「So I have to thank you for that.」	「だからそれには感謝しないとね」	So I have to thank you for that.	「だからそれには感謝しないとね」
+「It makes me feel even closer to you when you're here with me.」	「あなたがここにいるとさらに近づけてる気がするから」	It makes me feel even closer to you when you're here with me.	「あなたとここにいると、さらにあなたに近づけてる気がするから」

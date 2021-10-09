@@ -1,0 +1,25 @@
+「Hold on a second...」	「ちょっと待って……」	Hold on a second...	「ちょっと待って……」
+「...You're recording this, aren't you?」	「……これ、収録してるでしょ？」	...You're recording this, aren't you?	「……これ、収録してるでしょ？」
+「Um...hi, everyone!」	「えっと……みなさんこんにちは！」	Um...hi, everyone!	「えっと……みなさんこんにちは！」
+「Sorry, I can't exactly read your comments from here...」	「ここからじゃみんなのコメントが読めなくてごめんなさい……」	Sorry, I can't exactly read your comments from here...	「ここからじゃみんなのコメントが読めなくてごめんなさい……」
+「But do you mind telling your friend it's a little bit rude for them to start recording me without any warning?」	「でも許可なく撮影するのってちょっと失礼なんじゃない？ ってあなたたちのお友達に言っておいてくれる？」	But do you mind telling your friend it's a little bit rude for them to start recording me without any warning?	「でも許可なく撮影するのってちょっと失礼なんじゃない？ ってあなたたちのお友達に言っておいてくれる？」
+「I'm sure some people don't mind...」	「気にしない人も中にはいるだろうけど……」	I'm sure some people don't mind...	「気にしない人も中にはいるだろうけど……」
+「But I get really self-conscious on camera!」	「でも私はカメラの前だと思うと照れちゃうから！」	But I get really self-conscious on camera!	「でも私はカメラの前だと思うと照れちゃうから！」
+「Oh gosh...」	「どうしよう……」	Oh gosh...	「あらあら……」
+「I feel like I'm being put on the spot now.」	「私、注目されてる感じよね」	I feel like I'm being put on the spot now.	「私、注目されてる感じよね」
+「Let's see...」	「そうねえ……」	Let's see...	「そうですね……」
+「Do you want to see a trick?」	「手品でも見る？」	Do you want to see a trick?	「手品でも見る？」
+「I can't really do much except for a couple things...」	「出来ることは少ないけど……」	I can't really do much except for a couple things...	「できることは少ないけど……」
+「Are you ready?」	「準備はいい？」	Are you ready?	「準備はいい？」
+「I'm just kidding...」	「なーんてね……」	I'm just kidding...	「なーんてね……」
+「I can't do anything after all.」	「結局私は何もできないみたい」	I can't do anything after all.	「結局私は何もできないみたい」
+「If you gave me some time to prepare, I」	「でも時間をくれたら、私も」	If you gave me some time to prepare, I	「でも時間をくれたら、私も」
+「Did I scare you?」	「びっくりした？」	Did I scare you?	「びっくりした？」
+「Ahaha! You're so cute.」	「あはは！ かわいい」	Ahaha! You're so cute.	「あはは！ かわいい」
+「Anyway, [player]...」	「さて、[player]君……」	Anyway, [player]...	「さて、[player]君……」
+「I didn't mean to get distracted. I'm sorry.」	「ごめんなさい、他のことに気を取られるつもりはなかったの」	I didn't mean to get distracted. I'm sorry.	「ごめんなさい、他のことに気を取られるつもりはなかったの」
+「Even though it's your fault for distracting me.」	「でも私の気を逸らしたあなたが悪いのよ？」	Even though it's your fault for distracting me.	「でも私の気をそらしたあなたが悪いのよ？」
+「Shame on you!」	「だめでしょっ！」	Shame on you!	「だめでしょっ！」
+「I'm just kidding.」	「なんて、冗談よ」	I'm just kidding.	「なんて、冗談よ」
+「Anything we do together is fun, as long as it's with you.」	「あなたと一緒なら何をしても楽しいもの」	Anything we do together is fun, as long as it's with you.	「あなたと一緒なら何をしても楽しいもの」
+「But anyway...」	「それより……」	But anyway...	「それで……」

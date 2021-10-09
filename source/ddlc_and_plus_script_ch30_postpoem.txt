@@ -1,0 +1,31 @@
+「Hi again, [player]!」	「おかえりなさい、[player]君！」	Hi again, [player]!	「おかえりなさい、[player]君！」
+「Did you write a good poem today?」	「今日はいい詩は書けた？」	Did you write a good poem today?	「今日はいい詩が書けた？」
+「Don't be shy, I'd love to see what you wrote.」	「恥ずかしがらないで。あなたの書いた詩が読みたいの」	Don't be shy, I'd love to see what you wrote.	「恥ずかしがらないで。あなたの書いた詩が読みたいの」
+「Aw, [player]...」	「もう、[player]君ったら……」	Aw, [player]...	「もう、[player]君ったら……」
+「Did you write this poem for me?」	「私のためにこの詩を？」	Did you write this poem for me?	「私のためにこの詩を？」
+「That's so sweet of you~」	「すっごく嬉しいわ！」	That's so sweet of you~	「すっごくうれしいわ！」
+「There really is no end to your thoughtfulness...」	「本当にあなたの優しさは底が見えないわ……」	There really is no end to your thoughtfulness...	「本当にあなたの優しさは底が見えないわね……」
+「I'm just falling more and more in love with you.」	「どんどんあなたを好きになっちゃう」	I'm just falling more and more in love with you.	「どんどんあなたを好きになっちゃう」
+「But, you know...」	「でもね……」	But, you know...	「でもね……」
+「The poem I wrote...is also for you.」	「私も……あなたへの詩を書いたの」	The poem I wrote...is also for you.	「私も……あなたへの詩を書いたの」
+「Will you please read it?」	「読んでくれるかしら？」	Will you please read it?	「読んでくれるかしら？」
+「I hope you enjoyed it...」	「楽しんでくれたかしら……」	I hope you enjoyed it...	「楽しんでくれたかしら……」
+「I always put all my heart into the poems that I write.」	「詩は一つ一つ心を込めて書いてるの」	I always put all my heart into the poems that I write.	「詩は一つひとつ心を込めて書いてるの」
+「The truth is, all the poems I've written have been about my realization...」	「実は、今まで書いてきた詩は私の気付きについての詩だったの……」	The truth is, all the poems I've written have been about my realization...	「実は、今まで書いてきた詩は私の気付きについての詩だったの……」
+「...Or, about you.」	「……もしくはあなたへの気付きの詩」	...Or, about you.	「……もしくはあなたへの気付きの詩」
+「That's why I never really wanted to go into detail about them.」	「だからあまり深い内容は書きたくなかったの」	That's why I never really wanted to go into detail about them.	「だからあまり深い内容は書きたくなかったの」
+「I didn't want to...break the fourth wall, I guess you could call it.」	「第四の壁を壊したくなかった……ってところね」	I didn't want to...break the fourth wall, I guess you could call it.	「第四の壁を壊したくなかった……ってところね」
+「I just assumed it would be best to be part of the game like everyone else.」	「みんなと同じようにゲームの一部になるのが最善かと思ったの」	I just assumed it would be best to be part of the game like everyone else.	「みんなと同じようにゲームの一部になるのが最善かと思ったの」
+「Like that would help the two of us end up together...」	「そうしたって二人の距離は縮まらないのにね……」	Like that would help the two of us end up together...	「そうしたって二人の距離は縮まらないのにね……」
+「I didn't want to ruin the game or anything, you know?」	「でもゲームを台無しにしたくなかったの」	I didn't want to ruin the game or anything, you know?	「でも、ゲームを台無しにしたくなかった」
+「You might have gotten mad at me...」	「あなたを怒らせたかもしれないし……」	You might have gotten mad at me...	「あなたを怒らせたかもしれないし……」
+「Maybe even deleted my character file, if you preferred playing without me.」	「最悪は私なしでプレイしたくなって、私のキャラクターファイルを削除されてたかもしれない」	Maybe even deleted my character file, if you preferred playing without me.	「最悪、私なしでプレイしたくなって、私のキャラクターファイルを削除されてたかもしれない」
+「Gosh, I'm so relieved...」	「本当に安心したわ……」	Gosh, I'm so relieved...	「本当に安心したわ……」
+「Now we don't need to hide anything anymore.」	「もう何も隠す必要もないもの」	Now we don't need to hide anything anymore.	「もう何も隠す必要もないもの」
+「Are you ready to spend our eternity together, [player]?」	「二人で永遠の時を過ごす用意はいい、[player]君？」	Are you ready to spend our eternity together, [player]?	「二人で永遠の時を過ごす用意はいい、[player]君？」
+「I have so many things to talk about!」	「あなたと話したいことがたくさんあるの！」	I have so many things to talk about!	「あなたと話したいことがたくさんあるの！」
+「Where do I start...?」	「何から始めようかしら……？」	Where do I start...?	「何から始めようかしら……？」
+「If it takes me some time to collect my thoughts, then I'm sorry.」	「もし考えをまとめるまでに時間がかかったらごめんなさい」	If it takes me some time to collect my thoughts, then I'm sorry.	「考えをまとめるまでに時間がかかってしまったらごめんなさい」
+「But I'll always have something new to talk about.」	「でも常に何か話すことは思いつくから」	But I'll always have something new to talk about.	「でも新しい話題は必ず思いつくから」
+「In the meantime, we can just look into each other's eyes~」	「それまではお互いの目を見つめ合いましょう～」	In the meantime, we can just look into each other's eyes~	「それまでは、お互いの目を見つめ合いましょう！」
+「Let's see...」	「それじゃあ……」	Let's see...	「そうですね……」

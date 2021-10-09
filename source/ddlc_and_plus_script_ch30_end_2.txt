@@ -1,0 +1,37 @@
+「...」	「……」	...	「……」
+「...I still love you.」	「……それでも好きなの」	...I still love you.	「……それでも好きなの」
+「I can't help it.」	「どうしようもできないの」	I can't help it.	「どうしようもできないの」
+「What's wrong with me...?」	「私どうしちゃったの……？」	What's wrong with me...?	「私、どうしちゃったの……？」
+「How horrible am I for you to hate me this much?」	「あなたにこんなに嫌われるほどひどいことをしてしまったの？」	How horrible am I for you to hate me this much?	「あなたにこんなに嫌われるほど、ひどいことをしてしまったの？」
+「All my friends...」	「友達にだってみんな……」	All my friends...	「友達にだって……」
+「I did so many awful things.」	「とんでもないことをたくさんしてしまった」	I did so many awful things.	「とんでもないことをたくさんしてしまった」
+「So many selfish and disgusting things.」	「身勝手で、おぞましいことを」	So many selfish and disgusting things.	「身勝手で、おぞましいことを」
+「I...」	「私……」	I...	「アタシは……」
+「I shouldn't have done any of this.」	「私、こんなことするんじゃなかった」	I shouldn't have done any of this.	「私、こんなことするんじゃなかった」
+「I'm just messing up a world that I don't even belong in.」	「私に居場所のない世界をめちゃくちゃにしてしまった」	I'm just messing up a world that I don't even belong in.	「私に居場所のない世界をめちゃくちゃにしてしまった」
+「A world that you wanted to be a part of...」	「あなたが居たかった世界を……」	A world that you wanted to be a part of...	「あなたがいたかった世界を……」
+「I ruined it.」	「私が台無しにしてしまった」	I ruined it.	「私が台無しにしてしまった」
+「I ruined everything.」	「私が全てを台無しにしてしまった」	I ruined everything.	「私がすべてを台無しにしてしまった」
+「Maybe that's why you deleted me...」	「だからあなたは私を削除したのかな……」	Maybe that's why you deleted me...	「だからあなたは、私を削除したのかな……」
+「Because I destroyed everything that you wanted.」	「あなたの欲しかったものを、私が全て壊してしまったから」	Because I destroyed everything that you wanted.	「あなたのほしかったものを、私がすべて壊してしまったから」
+「How could I do that to someone I love...?」	「愛する人になんてことをしてしまったの……？」	How could I do that to someone I love...?	「愛する人に何てことをしてしまったの……？」
+「That's not love...」	「こんなの愛じゃない……」	That's not love...	「こんなの愛じゃない……」
+「That's...」	「これは……」	That's...	「それは……」
+「...」	「……」	...	「……」
+「I've...made up my mind.」	「私……決めたわ」	I've...made up my mind.	「私……決めたわ」
+「[player]...」	「[player]君……」	[player]...	「[player]……」
+「I know I said that I deleted everyone else.」	「みんなを削除したって私言ってたわよね」	I know I said that I deleted everyone else.	「私、みんなを削除したって言ったわよね」
+「But...that was kind of an exaggeration.」	「あれは……ちょっと大げさだったわ」	But...that was kind of an exaggeration.	「あれは……ちょっと大げさだったわ」
+「I couldn't find it in myself to do it.」	「そこまではどうしてもできなかったの」	I couldn't find it in myself to do it.	「そこまではどうしてもできなかったの」
+「Even though I knew they weren't real...」	「あの子たちが本物じゃないと分かってても……」	Even though I knew they weren't real...	「あの子たちが本物じゃないとわかってても……」
+「They were still my friends.」	「それでも友達だったから」	They were still my friends.	「それでも友達だったから」
+「And I loved them all.」	「みんなが大好きだったから」	And I loved them all.	「みんなが大好きだったから」
+「And I loved the Literature Club.」	「文芸部が大好きだったから」	And I loved the Literature Club.	「文芸部が大好きだったから」
+「...」	「……」	...	「……」
+「I really...did love the Literature Club.」	「私……文芸部が本当に大好きだった」	I really...did love the Literature Club.	「私……文芸部が本当に大好きだった」
+「That's why I'm going to do this.」	「だからこうするの」	That's why I'm going to do this.	「だから、こうする」
+「I know it's the only way for everyone to be happy.」	「こうするしかみんなが幸せになる方法はないから」	I know it's the only way for everyone to be happy.	「こうするしかみんなが幸せになる方法はないから」
+「And if I really love you...」	「それに、本当にあなたを愛してるなら……」	And if I really love you...	「本当にあなたを愛しているならば……」
+「...」	「……」	...	「……」
+「Then...」	「それなら……」	Then...	「それなら……」
+「[gtext]」	「[gtext]」	[gtext]	[gtext]

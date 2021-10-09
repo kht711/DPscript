@@ -1,0 +1,10 @@
+「[player], how much do you read?」	「[player]君はどれくらい読書するの？」	[player], how much do you read?	「[player]君はどれくらい読書するの？」
+「It's way too easy to neglect reading books...」	「読書って疎かにしてしまいがちだから……」	It's way too easy to neglect reading books...	「読書って疎かにしてしまいがちだから……」
+「If you don't read much, it almost feels like a chore, compared to all the other entertainment we have.」	「あまり読書をしていないと、他の娯楽と比べて面倒なものに感じるわよね」	If you don't read much, it almost feels like a chore, compared to all the other entertainment we have.	「あまり読書をしていないと、他の娯楽と比べて面倒なものに感じるわよね」
+「But once you get into a good book, it's like magic...you get swept away.」	「でも一度良い本を読み始めると……魔法のように心を奪われるわよ」	But once you get into a good book, it's like magic...you get swept away.	「でも一度良い本を読み始めると……魔法のように心を奪われるわよ」
+「I think doing some reading before bed every night is a pretty easy way to make your life a little bit better.」	「毎晩、寝る前に読書をするだけで簡単に人生を少し楽しくすることができると私は思うの」	I think doing some reading before bed every night is a pretty easy way to make your life a little bit better.	「毎晩、寝る前に読書をするだけで、簡単に人生を少し楽しくすることができると思うの」
+「It helps you get good sleep, and it's really good for your imagination...」	「よく眠りやすくなるし、想像力が刺激されるし……」	It helps you get good sleep, and it's really good for your imagination...	「よく眠りやすくなるし、想像力が刺激されるし……」
+「It's not hard at all to just pick some random book that's short and captivating.」	「短くて魅力的な本から始めたらそんなに難しいことでもないわよ」	It's not hard at all to just pick some random book that's short and captivating.	「短くて魅力的な本から始めたら、そんなに難しいことでもないわよ」
+「Before you know it, you might be a pretty avid reader!」	「気がつけば読書家になってるかもしれないわよ！」	Before you know it, you might be a pretty avid reader!	「気がつけば読書家になってるかもしれないわ！」
+「Wouldn't that be wonderful?」	「そうなれたら素晴らしいわよね？」	Wouldn't that be wonderful?	「そうなれたら素晴らしいわよね？」
+「And the two of us could talk about the latest book you're reading...that sounds super amazing.」	「そして二人で最近読んだ本について話し合うの……それってすごく素敵じゃない」	And the two of us could talk about the latest book you're reading...that sounds super amazing.	「そして二人で最近読んだ本について語り合うの……それってすごく素敵」

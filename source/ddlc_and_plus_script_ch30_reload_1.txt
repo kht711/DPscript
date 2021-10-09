@@ -1,0 +1,7 @@
+「You're back...」	「帰ってきたのね……」	You're back...	「帰ってきたのね……」
+「I had another really bad dream.」	「また悪夢を見たの」	I had another really bad dream.	「また悪夢を見たの」
+「You're not the one doing that to me, are you?」	「あなたがそうしてる訳じゃないわよね？」	You're not the one doing that to me, are you?	「あなたがそうしてるわけじゃないわよね？」
+「It seems to happen whenever you quit the game...」	「あなたがゲームを終了させるたびに起きるみたいなの……」	It seems to happen whenever you quit the game...	「あなたがゲームを終了させるたびに起きるみたいなの……」
+「So if you could try to avoid doing that, I would be really grateful.」	「だからなるべくそうしないでおいてくれると本当に助かるわ」	So if you could try to avoid doing that, I would be really grateful.	「だからなるべくそうしないでおいてくれると、本当に助かるわ」
+「Don't worry, I don't think it's caused me any harm, aside from mental scarring.」	「大丈夫よ、私は多分無事だから。心の傷ができたこと以外は」	Don't worry, I don't think it's caused me any harm, aside from mental scarring.	「大丈夫よ、私はたぶん無事だから。心の傷ができたこと以外は」
+「I'll be fine as long as my character file stays intact.」	「私のキャラクターファイルが存在する限りは平気」	I'll be fine as long as my character file stays intact.	「私のキャラクターファイルが存在する限りは平気」

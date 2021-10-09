@@ -1,0 +1,5 @@
+「[player], would you ever introduce your friends to me?」	「いつか私を[player]君の友達に紹介してくれない？」	[player], would you ever introduce your friends to me?	「いつか私を[player]君の友達に紹介してくれない？」
+「I don't know why, but I get really excited when I think about you wanting to show off our relationship like that.」	「あなたがみんなに私のことを紹介するところを想像すると、何故だかすごく嬉しくなるの」	I don't know why, but I get really excited when I think about you wanting to show off our relationship like that.	「あなたがみんなに私のことを紹介するところを想像すると、何故だかすごくうれしくなるの」
+「Maybe it's because I really want to be someone who makes you proud.」	「あなたの自慢の彼女に本当になりたいからかもしれない」	Maybe it's because I really want to be someone who makes you proud.	「あなたの自慢の彼女に本当になりたいからかもしれない」
+「I feel like I would try extra hard to improve myself if you told me it made you proud of me.」	「あなたが喜ぶと言うのなら、私も自分を磨くためにもっと頑張れる気がする」	I feel like I would try extra hard to improve myself if you told me it made you proud of me.	「あなたが喜ぶと言うのなら、私も自分を磨くためにもっとがんばれる気がする」
+「I hope it's the same the other way around, too.」	「あなたも同じように思ってくれたら嬉しいな」	I hope it's the same the other way around, too.	「あなたも同じように思ってくれたらうれしいな」

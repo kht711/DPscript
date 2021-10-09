@@ -1,0 +1,11 @@
+「...Are you trying to fast-forward?」	「……早送りしようとしてるの？」	...Are you trying to fast-forward?	「……早送りしようとしてるの？」
+「I'm not boring you, am I?」	「もしかして退屈させちゃってるかしら？」	I'm not boring you, am I?	「もしかして退屈させちゃってるかしら？」
+「Oh gosh...」	「どうしよう……」	Oh gosh...	「あらあら……」
+「...Well, there's nothing to fast-forward to, [player].」	「……でも何も急いで見るものはないわ、[player]君」	...Well, there's nothing to fast-forward to, [player].	「……でも何も急いで見るものはないわ、[player]君」
+「It's just the two of us, after all...」	「二人きりなんだし……」	It's just the two of us, after all...	「二人きりなんだし……」
+「But aside from that, time doesn't really exist anymore, so it's not even going to work.」	「何より時間なんてもう存在しないんだから、それも機能しないわ」	But aside from that, time doesn't really exist anymore, so it's not even going to work.	「何より時間なんてもう存在しないんだから、それも機能しないわ」
+「Here, I'll go ahead and turn it off for you...」	「ほら、切っといてあげるわね……」	Here, I'll go ahead and turn it off for you...	「ほら、切っといてあげるわね……」
+「There we go!」	「はい、できた！」	There we go!	「はい、できた！」
+「You'll be a sweetheart and listen from now on, right?」	「これからはいい子にして私の話を聞いてくれるわよね？」	You'll be a sweetheart and listen from now on, right?	「これからはいい子にして私の話を聞いてくれるわよね？」
+「Thanks~」	「ありがとう～」	Thanks~	「ありがとう～」
+「Now, where was I...?」	「さて、何を話してたっけ……」	Now, where was I...?	「さて、何を話してたっけ……」
