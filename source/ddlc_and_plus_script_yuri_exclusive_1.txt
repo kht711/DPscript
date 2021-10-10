@@ -37,7 +37,7 @@ There's something fairly obvious here that Yuri isn't telling me, but I decide t
 「Well...」	「そうですね……」	Well...	「今度は……」
 「Mmm...」	「うーん……」	Mmm...	「うーん……」
 Yuri closes the book and scans her eyes over the back.	俺は本の表紙に目をやる。	Yuri closes the book and scans her eyes over the back.	ユリは本を閉じ、裏表紙に目をやった。
-The book is titled 「Portrait of Markov」.	本のタイトルは『マルコフの肖像』だ。	The book is titled "Portrait of Markov".	本のタイトルは『マルコフの肖像』だ。
+The book is titled "Portrait of Markov".	本のタイトルは『マルコフの肖像』だ。	The book is titled "Portrait of Markov".	本のタイトルは『マルコフの肖像』だ。
 There's an ominous-looking eye symbol on the front cover.	表紙には禍々しい雰囲気の目のシンボルがある。	There's an ominous-looking eye symbol on the front cover.	表紙には禍々しい雰囲気の目のシンボルがある。
 「Alright...」	「はい、大丈夫です……」	Alright...	「わかった……」
 「I just wanted to make sure I don't accidentally give anything away.」	「うっかりネタバレしてしまわないように考えをまとめていました」	I just wanted to make sure I don't accidentally give anything away.	「うっかりネタバレしてしまわないように考えをまとめていました」

@@ -68,7 +68,7 @@ Yuri stands up as well.	ユリも同じように席を立つ。	Yuri stands up a
 「I wasn't the one whose boobs magically grew a size bigger as soon as [player] started showing up!!」	「[player]が入ってから突然胸をワンサイズ盛りだしたのはどっちよ？！」	I wasn't the one whose boobs magically grew a size bigger as soon as [player] started showing up!!	「[player]が入ってから突然胸をワンサイズ盛りだしたのはどこのどいつよ！？」
 「N-Natsuki!!」	「な、ナツキちゃん！！」	N-Natsuki!!	「な、ナツキちゃん！！」
 「Um, Natsuki, that's a little--」	「えっとナツキ、それはちょっと――」	Um, Natsuki, that's a little--	「えっとナツキ、それはちょっと――」
-「This doesn't involve you!」	「部外者は黙ってて！」\n「部外者は黙っててください！」	This doesn't involve you!	「「部外者は黙ってて！」ください！」
+「This doesn't involve you!」	「部外者は黙ってて！」<br>「部外者は黙っててください！」	This doesn't involve you!	「「部外者は黙ってて！」ください！」
 「Taking out your own insecurities on others like that...」	「自分に自信がないからとそうやって他人に八つ当たりして……」	Taking out your own insecurities on others like that...	「自分に自信がないからって、そうやって他人に八つ当たりして……」
 「You really act as young as you look, Natsuki.」	「見た目通り幼稚なんですね、ナツキちゃんは」	You really act as young as you look, Natsuki.	「見た目通り幼稚なんですね、ナツキちゃんは」
 「<i>Me?</i> Look who's talking, you wannabe edgy bitch!」	「<i>わたし</i>？誰がそんなこと言ってるのかしら、この中二病女！」	<i>Me?</i> Look who's talking, you wannabe edgy bitch!	「<i>アタシが</i>？ 中二病女のアンタに言われる筋合いないわ！」
@@ -105,7 +105,7 @@ Yuri.	ユリ	Yuri.	ユリ
 「...」	「……」	...	「……」
 「Um...」	「えっと……」	Um...	「えっと……」
 「Hey, [player]...」	「ねえ、[player]君……」	Hey, [player]...	「ねえ、[player]君」
-「Why don't we\nstep outside for\na little bit?」	「私たちは\nちょっと\n外に行かない？」	Why don't we<br>step outside for<br>a little bit?	「ちょっと席を<br>外しましょうか？」
+「Why don't we<br>step outside for<br>a little bit?」	「私たちは<br>ちょっと<br>外に行かない？」	Why don't we<br>step outside for<br>a little bit?	「ちょっと席を<br>外しましょうか？」
 「Okay?」	「ね？」	Okay?	「わかってくれる？」
 「Sorry about that...」	「さっきはごめんなさい……」	Sorry about that...	「何だか、ごめんなさい……」
 「They really shouldn't have tried to get you involved.」	「二人とも、あなたを巻き込むべきじゃなかったのに」	They really shouldn't have tried to get you involved.	「二人とも、あなたを巻き込むべきじゃなかったのに」

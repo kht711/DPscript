@@ -2,7 +2,7 @@
 「Well...」	「そうですね……」	Well...	「今度は……」
 「Mmm...」	「うーん……」	Mmm...	「うーん……」
 I look at the cover of the book.	俺は本の表紙に目をやる。	I look at the cover of the book.	ユリは本を閉じ、裏表紙に目をやった。
-The book is titled 「Portrait of Markov」.	本のタイトルは『マルコフの肖像』だ。	The book is titled "Portrait of Markov".	本のタイトルは『マルコフの肖像』だ。
+The book is titled "Portrait of Markov".	本のタイトルは『マルコフの肖像』だ。	The book is titled "Portrait of Markov".	本のタイトルは『マルコフの肖像』だ。
 There's an ominous-looking eye symbol on the front cover.	表紙には禍々しい雰囲気の目のシンボルがある。	There's an ominous-looking eye symbol on the front cover.	表紙には禍々しい雰囲気の目のシンボルがある。
 「Basically, it's about this religious camp that was turned into a human experiment prison...」	「簡単に説明すると、とある宗教のキャンプが人体実験の監獄にされてしまうお話なのですが……」	Basically, it's about this religious camp that was turned into a human experiment prison...	「簡単に説明すると、とある宗教のキャンプが、人体実験の監獄にされてしまうお話で……」
 「And the people trapped there have this trait that turns them into killing machines that lust for blood.」	「そこに収容された人々は血を欲する殺戮マシンになってしまう特徴があるんです」	And the people trapped there have this trait that turns them into killing machines that lust for blood.	「そこに収容された人々は血に飢えた殺戮マシンになってしまうという特徴があるんです」

@@ -20,7 +20,7 @@ But I've been worried about her in the back of my mind.	でも頭の片隅では
 Between what Sayori said, and what Monika said...	サヨリの言ったことと、モニカの言ったことを考えると……	Between what Sayori said, and what Monika said...	サヨリの言ったことと、モニカの言ったことを考えると……
 Is it really okay for me to put Sayori's feelings aside when she might need me?	サヨリが俺を必要としているかもしれないのに、彼女のことをほったらかして本当にいいのだろうか？	Is it really okay for me to put Sayori's feelings aside when she might need me?	サヨリが俺を必要としているかもしれないのに、ほったらかしにしていて本当にいいのだろうか？
 I decide to visit Sayori before [ch4_name] comes over.	俺は[ch4_name!t]が来る前にサヨリの家に行くことにした。	I decide to visit Sayori before [ch4_name] comes over.	俺は[ch4_name]が来る前にサヨリの家に行くことにした。
-Rather than asking, I simply tell her 「I'm coming over」, much like we've done in the past.	事前に知らせず家に上がることは今までにも何度かあったので構わないだろう。	Rather than asking, I simply tell her "I'm coming over", much like we've done in the past.	事前に知らせず家に上がることは今までにも何度かあったので、構わないだろう。
+Rather than asking, I simply tell her "I'm coming over", much like we've done in the past.	事前に知らせず家に上がることは今までにも何度かあったので構わないだろう。	Rather than asking, I simply tell her "I'm coming over", much like we've done in the past.	事前に知らせず家に上がることは今までにも何度かあったので、構わないだろう。
 Once I reach Sayori's house, I knock on the door before entering it myself.	サヨリの家に着き、ドアをノックする。	Once I reach Sayori's house, I knock on the door before entering it myself.	サヨリの家に着き、ドアをノックして中に入る。
 Again, we used to play so often that we've made it a habit of simply entering each other's houses like we were family.	サヨリとは一緒にずっと遊んでいたから、お互いの家には家族感覚で上がりあっていた。	Again, we used to play so often that we've made it a habit of simply entering each other's houses like we were family.	サヨリとはずっと一緒に遊んでいたから、お互いの家には家族感覚で行き来し合っていた。
 The house is quiet.	家の中は静かだ。	The house is quiet.	家の中は静かだ。
